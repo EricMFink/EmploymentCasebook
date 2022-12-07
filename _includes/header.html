@@ -19,8 +19,9 @@
       <div class="trigger">
          
         {% for page in site.data.pages %}
-            <a class="page-link" href="{{ page.url }}">{{ page.title }}</a>
+            <a class="page-link" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
         {% endfor %}
+	        <a class="page-link" href="https://www.emfink.net/EmploymentLaw/">Course Site</a>
         
       </div>
     </nav>
