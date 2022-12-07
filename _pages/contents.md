@@ -5,4 +5,4 @@ title: Contents
 
 ---
 
-[Part 1: Foundation of Employment Law](../part1)
+[Part 1: Foundation of Employment Law](../Part1)
