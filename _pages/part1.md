@@ -1,6 +1,7 @@
 ---
 layout: casebook
 chapter: Part 1
+permalink: /Part1/
 title: Foundations of Employment Law
 ---
 
