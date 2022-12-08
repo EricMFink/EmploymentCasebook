@@ -4,9 +4,9 @@ baseurl: /EmploymentCasebook
 title: Employment Law Casebook
 description:  # leave blank if you don't want to display a description
 name: Eric M. Fink
-course: Employment Law  # enter course name to display on home page
+courseurl: /EmploymentLaw  # enter course repo for header link
 
-last_updated: 7 December 2022 # leave blank if you don't want to display last updated
+last_updated: 8 December 2022 # leave blank if you don't want to display last updated
 
 author: Eric M. Fink
 position: Associate Professor
