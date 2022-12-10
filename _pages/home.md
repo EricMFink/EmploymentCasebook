@@ -12,4 +12,3 @@ title: home
 <h4 class="profile">{{ site.city }}, {{ site.state }} {{ site.zip }}</h4>
 <h4 class="profile">{{ site.phone }}</h4>
 <h4 class="profile">{{ site.email }}</h4>
-
