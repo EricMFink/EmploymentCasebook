@@ -1,7 +1,6 @@
 h1, h2, h3, h4, h5, h6 {
 	font-family: $body-font;
 	line-height: $short-line-height;
-	font-weight: $normal-weight;
 }
 
 h1 {
@@ -9,6 +8,7 @@ h1 {
 	margin-bottom: 0rem;
 	font-size: $h1;
 	font-style: normal;
+	font-weight: $medium-weight;
 }
 
 h2 {
@@ -23,6 +23,7 @@ h3 {
 	margin-top: .5rem;
 	margin-bottom: 0rem;
 	font-style: normal;
+	font-weight: $medium-weight;
 }
 
 h4 {
@@ -30,6 +31,7 @@ h4 {
 	margin-top: .5rem;
 	margin-bottom: 0rem;
 	font-style: normal;
+	font-weight: $medium-weight;
 }
 
 h5 {
@@ -100,7 +102,6 @@ article a, .news a {
 		color:$theme-color;
 	}
 }
-
 
 blockquote {
 	font-size: $small-size;
@@ -175,4 +176,14 @@ article {
 section {
 	padding-top: 1rem;
 	padding-bottom: 1rem;
+}
+
+
+.sans-green {
+	font-family: $sans-font;
+	color: $dark-green;
+}
+
+.dullred {
+	color: $dull-red;
 }

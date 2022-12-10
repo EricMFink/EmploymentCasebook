@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
-{% include head-casebook.html %}
+{% include head.html %}
 
 <body class="casebookbody">
-{% include header-casebook.html %}
+{% include casebook-header.html %}
 {% include print-header.html %}
 
 <div class="page-container">
 
-    <div class="casebook-page-header group">
+    <div class="chapter-heading group">
     	{% if page.chapter %}
         <p class="chapter-pretitle">{{ page.chapter }}</p>
         {% endif %}

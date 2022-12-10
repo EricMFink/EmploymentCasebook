@@ -1,9 +1,11 @@
 ---
 layout: page
 permalink: /contents/
-title: Contents
+title: Table of Contents
 
 ---
+
+[Preface](../preface)
 
 [Chapter 1: Foundation of Employment Law](../chap1)
 
@@ -22,3 +24,5 @@ title: Contents
 [Chapter 8: Enforcing Employee Rights](../chap8)
 
 [Chapter 9: Recent Developments](../chap9)
+
+[Colophon](../colophon)

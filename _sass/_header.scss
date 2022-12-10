@@ -49,7 +49,6 @@
 	    }
 	}
 
-
     @include media-query($on-palm) {
         position: absolute;
         top: 9px;
@@ -124,22 +123,9 @@
     }
 }
 
+/* Dropdown navigation for casebook chapters */ 
 
-
-/* Header for Casebook Pages */
-
-.casebook-header {
-    border-bottom: 0.5px solid $light-grey;
-    background-color: $off-white;
-    opacity: 1;
-    position:fixed;
-    left:calc((100vw - 100%)/2);
-    top:0px;
-	width: 100%;
-    z-index: 50;
-}
-
-/* The dropdown container */
+/* Dropdown container */ 
 .dropdown {
     float: right;
     overflow: hidden;
@@ -163,7 +149,7 @@
     z-index: 1;
 }
   
-/* Links inside the dropdown */
+/* Links inside dropdown */
 .dropdown-content a {
     float: none;
     color: $text-color;
@@ -173,12 +159,12 @@
     text-align: left;
 }
 
-/* Add a grey background color to dropdown links on hover */
+/* Grey background color for dropdown links on hover */
 .dropdown-content a:hover {
     background-color: #ddd;
 }
   
-/* Show the dropdown menu on hover */
+/* Show dropdown menu on hover */
 .dropdown:hover .dropdown-content {
     display: block;
 }
