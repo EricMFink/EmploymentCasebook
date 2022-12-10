@@ -1,5 +1,5 @@
 ---
-layout: casebook
+layout: page
 permalink: /contents/
 title: Contents
 
