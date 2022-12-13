@@ -15,59 +15,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac tincidunt ju
 
 ### Haskins v. Royster, 70 N.C. 600 (1874)
 
-#### Rodman, J. 
-
-We take it to be a settled principle of law, that if one contracts upon a consideration to render personal services for another any third person who maliciously, that is, without a lawful justification, induces the party who contracted to render the service to refuse to do so, is liable to the injured party in an action for damages. It need scarcely be said that there is nothing in this principle inconsistent with personal freedom, else we would not find it in the laws of the freest and most enlightened States in the world. It extends impartially to every grade of service, from the most brilliant and best paid to the most homely, and it shelters our nearest and tenderest domestic relations from the interference of malicious intermeddlers. It is not derived from any idea of property by the one party in the other, but is an inference from the obligation of a contract freely made by competent persons.
-
-We are relieved from any labor in finding authorities for this principle, by a very recent decision of the Supreme Court of Massachusetts, in which a learned and able Judge delivers the opinion of the Court. _Walker v. Cronin_, 107 Mass. 555.
-
-That case was this: The plaintiffs declared in substance that they were shoemakers, and employed a large number of persons as bottomers of boots and shoes, and defendant unlawfully and intending to injure the plaintiff in his business, persuaded and induced the persons so employed to abandon the employment of the plaintiff, whereby plaintiff was damaged.
-
-A second count says that plaintiff had employed certain persons named to make up stock into boots and shoes, and defendant well knowing, induced said persons to refuse to make and finish such boots and shoes.
-
-[ *** ]
-
-I shall make no apology for quoting copiously from this opinion, because the high respectability of the Court, and the learning and care with which the question is discussed, make the decision eminently an authority.
-
-> This (the declaration) sets forth sufficiently (1) intentional and willful acts, (2) calculated to cause damage to the plaintiffs in their lawful business, (3) done with the unlawful purpose to cause such damage and loss, without right or justifiable cause on the part of the defendant, (which constitutes malice,) and (4,) actual damage and loss resulting.
-> 
-> [ ... ] In all cases where a man has a temporal loss or damage by the wrong of another, he may have an action upon the case to be repaired in damages." The intentional causing such loss to another, without justifiable cause, and with the malicious purpose to inflict it, is of itself a wrong.
-> 
-> Thus every one has an equal right to employ workmen in his business or service; and if by the exercise of this right in such manner as he may see fit, persons are induced to leave their employment elsewhere no wrong is done to him whose employment they leave, unless a contract exists by which such other person has a legal right to the further continuance of their services. If such a contract exists, one who knowingly and intentionally procures it to be violated, may be held liable for the wrong, although he did it for the purpose of promoting his own business.
-> 
-> Every one has a right to enjoy the fruits and advantages of his own enterprise, industry, skill, and credit. He has no right to be protected against competition; but he has a right to be free from malicious and wanton interference, disturbance or annoyance. If disturbance or loss come as a result of competition, or the exercise of like rights by others, it is _damnum absque injuria_, unless some superior right by contract or otherwise is interfered with. But if it come from the merely wanton or malicious acts of others, without the justification of competition of the service of any interest or lawful purpose, it then stands upon a different footing, and falls within the principle of the authorities first referred to.
-> 
-> It is a familiar and well established doctrine of the law upon the relation of master and servant, that one who entices away a servant, or induces him to leave his master, may be held liable in damages therefor, provided there exists a valid contract for continued service known to the defendant. It has sometimes been supposed that the doctrine sprang from the English statute of laborers, and was confined to menial service. But we are satisfied that it is founded upon the legal right derived from the contract, and not merely upon the relation of master and servant, and that it applies to all contracts of employment, if not to contracts of every description.
-
-[ *** ]
-
-It is suggested, (for we did not have the benefit of an argument for the defendant,) that in the present case the contract between the plaintiff and Eastwood and Wilkerson is unreasonable and therefore void. We cannot suppose it to be contended that this Court, or any Court, when there is no suggestion of fraud, can inquire whether the reward agreed to be paid to a workman is the highest that he might have got in the market, and to declare the contract void, or to make a new one if it thought not to be the highest. No Court can make itself the guardian of persons _sui juris_. That would be an assumption inconsistent with their freedom. We suppose the objection to a point to that part of the contract which is, in substance, that if either party of the second part, or any person for whom they contract, shall misbehave _in the opinion of the party of the first part_, such misbehaving party shall quit the premises _and forfeit to the party of the first part_ all his interest in the common crop.
-
-It is said that these provisions make the plaintiff a judge in his own cause, which the law will not allow, and that they are manifestly so oppressive and fraudulent as to avoid the whole contract. This proposition will be found on examination to go much too far even as between the parties to the contract, and to have no application as between one of the parties and a malicious intermeddler, as the defendant must, in this stage of the case, be considered.
-
-It is not necessary to decide what would be the effect of such a stipulation in an action on the contract between the parties to it. But as there seems to be some misconception of the law of such a case, and as although there are numerous authorities on the question, it is not yet of "familiar learning" in our Courts, a few observations will more conveniently lead us to the question actually presented.
-
-The authorities are conclusive that the parties to a contract, if there be no fraud or concealment of the interest, may agree to make a person interested, or even one of the parties an arbitrator to decide all controversies which may arise under the contract, and such agreement will be valid and effectual.
-
-[ *** ]
-
-These authorities unquestionably establish that such stipulations are not void or voidable, even as between the parties, and it has never been supposed or contended that they made the whole contract void; as even if void themselves, they are clearly separable from the other parts. Either party, therefore, could maintain an action on this contract.
-
-It is important however to notice, that none of these authorities goes to the length of holding, that if after the contractors had duly performed all or a part of the work, the plaintiff had _mala fide_, or without lawful cause, discharged them, they could not recover upon the contract. [ ... ] The power attempted to be reserved cannot have any greater effect than to make the discharge _prima facie_ lawful, if so much as that.
-
-Contracts with such stipulations as we find in the present, are not to be commended as precedents. Such stipulations are unusual; they answer no useful purpose, and suggest an intent (perhaps in this case untruly) to take some improper advantage, and to exact from the employees a degree of personal deference and respect, beyond that civil and courteous deportment which every man owes to his fellow in every relation in life. To this extent, a mutual duty is implied in every contract which creates the relation of master and servant. If the servant fails in due respect, the master may discharge him, and so, if the master fails, the servant will be justified in quitting the employment.
-
-Again it is suggested, that the contractors of the second part in this contract are _croppers_, and not servants. By cropper, I understand a laborer who is to be paid for his labor by being given a proportion of the crop. But such a person is not a tenant, for he has no estate in the land, nor in the crop until the landlord assigns him his share. He is as much a servant as if his wages were fixed and payable in money.
-
-It is unnecessary to discuss the question whether one who maliciously persuaded a _tenant_ to abandon his holding, would not be liable in damages for such officious intermeddling.
-
-But whatever may be the effect of the provisions commented on, as between the parties to the contract, the authorities are clear and decisive that a person in the situation of the defendant, can take no advantage from them. As the case now stands, he cannot pretend to play the part of a chivalrous protector of defrauded ignorance. For the present at least, he must be regarded as a malicious intermeddler, using the word malicious in its legal sense.
-
-There is a certain analogy among all the domestic relations, and it would be dangerous to the repose and happiness of families if the law permitted any man, under whatever professions of philanthropy or charity, to sow discontent between the head of the family and its various members, wife, children and servants. Interference with such relations can only be justified under the most special circumstances, and where there cannot be the slightest suspicion of a spirit of mischief-making, or self interest.
-
-To enable a plaintiff to recover from one who entices his servant, it is sufficient to show _a subsisting relation of service_, even if it be determinable at will. In _Keane v. Boycott_, the plaintiff sued a recruiting officer for enticing his servant. The servant was an infant and had been a slave in St. Vincents where he indentured himself to serve the plaintiff for five years. The indenture of course was void upon a double ground, but the Court held the plaintiff entitled to recover. [ ... ] "The defendant in this case _had no concern in the relation between the plaintiff and his servant; he dissolved it officiously_, and to speak of his conduct in the mildest terms, he carried too far his zeal for the recruiting service." [ ... ]
-
-We are of opinion that the complaint sets forth a sufficient cause of action.
 
 
 ### Pollock v. Williams, 322 U.S. 4 (1944)
@@ -255,27 +202,6 @@ It is possible to design a workplace constitution in which workers have a non-ad
 It is not my intention in this lecture to defend any particular model of worker participation in firm governance. My point is rather to expose a deep failure in current ways of thinking about how government fits into Americans’ lives. We do not live in the market society imagined by Paine and Lincoln, which offered an appealing vision of what a free society of equals would look like, combining individualistic libertarian and egalitarian ideals. Government is everywhere, not just in the form of the state, but even more pervasively in the workplace. Yet public discourse and much of political theory pretends that this is not so. It pretends that the constitution of workplace government is somehow the object of voluntary negotiation between workers and employers. This is true only for a tiny proportion of privileged workers. The vast majority are subject to private, authoritarian government, not through their own choice, but through laws that have handed nearly all authority to their employers. 
 
 [ *** ]
-
-
-### Workman v. United Parcel Service, Inc., 234 F.3d 998 (7th Cir. 2000)
-
-#### Posner, Circuit Judge
-
-This is a diversity suit, governed by Indiana law and resolved in favor of the defendant on summary judgment, for breach of contract and promissory estoppel. The plaintiff is an employee of UPS who claims that the company made a binding promise not to demote him without just cause and broke its promise. [ ... ]
-
-On the merits, the plaintiff relies for both his contractual claim and his claim of promissory estoppel on a handbook that UPS gives its employees explaining its employment policies. Under the law of many states, such a handbook can create a binding contract if it contains clear promissory language that makes the handbook an offer that the employee accepts by continuing to work after receiving it. Indiana has yet to decide whether to follow these states. We need not speculate about whether it will. Even if we assume it will, and even if the UPS handbook could, as we doubt, be interpreted to contain a clear promise not to demote an employee except for cause, the plaintiff's contractual claim is extinguished by the statement in the handbook that "this Policy Book is not a contract of employment and does not affect your rights as an employee of UPS."
-
-Such a disclaimer, if clear and forthright, as it is here [ ... ], is a complete defense to a suit for breach of contract based on an employee handbook. [ ... ] Since an employer is under no legal obligation to furnish its employees with a statement of its employment policies, we cannot think of a basis for holding that any statement it does give them has to be legally binding. The only effect of such a rule would be to extinguish employee handbooks.
-
-We are mindful of cases that hold [ ... ] that it is not enough for the handbook to disclaim creating an employment contract; it must state in addition that the employee can be terminated at the will of the employer. [ ... ]
-
-The decisions that refuse to give effect to the short-form disclaimer strike us as paternalistic in the extreme. Employment at will is the norm in the United States. An employee therefore has no reason to presume that he has tenure, and a disclaimer that a handbook creates a contract is a clear statement that if he is fired he can't sue for breach of contract. What more is needed? But there was more here, enough more perhaps to satisfy the courts that rendered the decisions we just cited: the statement that the handbook gives the employee no rights.
-
-One might wonder what function an employee handbook serves if it does not create enforceable obligations. The answer is that it conveys useful information to the employee. And more---for to the extent that it does contain promises, even if not legally binding ones, it places the employer under a moral obligation, or more crassly gives him a reputational incentive, to honor those promises. Such promises may not be worth as much to the promisee as a promise that the law enforces, but they are worth more than nothing, and it is nothing that the employee can expect if employers must choose between nothing and giving up employment at will.
-
-A disclaimer that is effective against a claim of breach of contract is also effective, we believe, against a claim of promissory estoppel. The function of the doctrine of promissory estoppel is to provide an alternative basis to consideration for making promises legally enforceable. A promise can be legally binding because it is supported by consideration or because it induces reasonable reliance, but in either case the promisor is free by a suitable disclaimer to deny any legally binding effect to the promise. To put this differently, consideration or reliance is a necessary but not a sufficient condition of the enforceability of a promise. Another necessary condition is that the promise be worded consistently with its being intended to be enforceable. Because of the disclaimer, that condition was not fulfilled in this case.
-
-
 
 # 2. Labor Organizing & Collective Bargaining 
 

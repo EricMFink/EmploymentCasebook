@@ -9,6 +9,12 @@ body.casebookbody {
     counter-reset: h1 sidenote-counter; 
 }
 
+.casebook hr {
+	border-top: 2px solid $theme-color;
+	width:50%;
+	margin:0 auto;
+}
+
 .chapter-heading {
 	margin-bottom: 1rem;
 	padding: 10px 0 0 10px;
