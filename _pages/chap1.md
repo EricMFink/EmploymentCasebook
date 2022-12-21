@@ -34,19 +34,19 @@ Let us begin this exploration of the order of master and servant with the struct
 > Item, because that many valiant [able-bodied] beggars, as long as they may live of begging do refuse to labour, giving themselves to idleness and vice, and sometime to theft and other abominations; none upon the said pain of imprisonment shall, under the coulour of pity of alms, give anything to such, which may labour, or presume to favour them towards their desires, so that therby they may be compelled to labour for their necessary being. 
 
 [^Orren1]: 
-	[-] Food or provisions
+  {-} Food or provisions
 	
 Those statutes, which were enforced in the British colonies, went essentially unchanged into the eighteenth century, when they were grafted onto the laws of the new American statutes. The same configuration of meanings and policies in the old laws carried on into the nineteenth century. … Over the centuries, the vagrancy laws continued as a moral structure impinging just outside, an element of … the relational dimension of labor relations, the manner in which they bear on and support the activities of other groups in society. The worker must be working; if not working, he or she is bound to lapse into crime; in no case may the worker be allowed to rely on the charity of the community, especially a community away from the worker's original home. That structure, having long preceded the market system under capitalism, later thrived in the era of capitalist development, despite market society's alleged emphasis on the seeking of opportunity, mobility, and the breaking of local ties. … 
 
 The vagrancy statutes were only one aspect of the labor law that attested to the wage workers' emergence out of the status of villenage. Although the legal relation of master and servant already existed to take them in---just as it would take in the swelling ranks of industrial workers some six centuries later---certain overtly servile principles derived from the old connection were never expunged. Another such principle … was _quicquid acquietur servo acquietur domino_ ("whatever is acquired by the servant is acquired by the master"). … [That] principle … was continued in the law of master and servant. A note in Hargrave's eighteeth-century edition of Coke's _Institutes_ [^Orren2] observed that the rule "about _slaves_ holds _in some degree_ in respect to _apprentices_ and _servants_" and that it pertained with certainty to wages a worker earned from other employment when the master had given permission to the other employer without waiving the earnings. … 
 
 [^Orren2]: 
-	[-] The _Institutes of the Lawes of England_ are a series of legal treatises written by Sir Edward Coke, a prominent English barrister, judge and politician in the late sixteenth and early seventeenth centuries. 
+  {-} The _Institutes of the Lawes of England_ are a series of legal treatises written by Sir Edward Coke, a prominent English barrister, judge and politician in the late sixteenth and early seventeenth centuries. 
 
 By the late nineteenth century, employers in the United States could sue workers for breach of contract for their earnings in other employment only when it could be shown that the work had been done during hours and activities in which the plaintiff employer had been entitled to the worker's efforts. In an 1877 _Treatise on the Law of Master and Servant_, however, Horace Wood[^Orren3] devoted three full pages to Hargrave's "learned note" and concluded that under the rule of _quicquid acquietur servo_ the employer could also retain waged earned by a worker in outside activities if the money somehow came into the employer's hands. … Moreover, even in its diluted American form, the law expressed the employer's proprietary interest not only in the worker's labor performed under the contract but also in all labor that might be performed by the worker's _person_, under a different contract, The remedy went beyond simply dismissing the worker or deducting from his wages for so many hours; it extended to the outside earnings acquired, as if they (as an extension of the worker) belonged to the master. Such a principle would seem incongruous not simply with the market-model morality of enterprising employees, but even with the more sober depictions of nineteenth-century workers as earnest breadwinners for their families. It was eminently compatible, however, … with other features, likewise ancient, of the hierarchical structure of employment relations during the period. 
 
 [^Orren3]:
-	[-] Wood's treatise was an influential work on the law governing employment in the late 19th century. Among other things, it is widely cited as the primary source of the employment-at-will rule. See Jay M. Feinman, The Development of the Employment at Will Rule, 20 American Journal of Legal History 118, 125-27 (1976).
+  {-} Wood's treatise was an influential work on the law governing employment in the late 19th century. Among other things, it is widely cited as the primary source of the employment-at-will rule. See Jay M. Feinman, The Development of the Employment at Will Rule, 20 American Journal of Legal History 118, 125-27 (1976).
 
 #### The judicial governance of master and servant
 
@@ -57,10 +57,10 @@ The links between past and present may be observed in the line of precedents use
 Regarding whether or not an employee might recover wages if asked by an employer to work on a Sunday, Wood proceeds for several pages citing precedents and authorities that include, among others, practice prior to the year 500, Edward the Confessor,[^Orren4] _The Mirror of Justices_,[^Orren5] and Lord Coke, reaching the conclusion that the worker may not. The point is not only that the courts followed precedent, and the precedents were ancient, but also that there was a preestablished substance that constituted the legal relations between the parties, which the courts administered in the course of litigation. 
 
 [^Orren4]:
-	[-] Edward the Confessor was the English king from 1042 to 1066. 
+  {-} Edward the Confessor was the English king from 1042 to 1066. 
 	
 [^Orren5]: 
-	[-] _The Mirror of Justices_ was an Anglo-Norman law text published in 1642. 
+  {-} _The Mirror of Justices_ was an Anglo-Norman law text published in 1642. 
 	
 [ *** ] As a remnant of feudalism, judicial regulation of labor relations in the nineteenth century maintained that comprehensive sense of governance, in which courts administered, and to a lesser extent, legislated, as well as adjudicated. Thus, for example, by the mid-nineteenth century, American courts, running ahead of the English, no longer permitted employers to beat their employees. Similarly, in the 1880s, judge-made law turned away from the assumption of an annual hiring, based on the English model and on the prevalence of agricultural labor, to a hiring "at-will." Such modifications were no doubt responsible for the system's survival for so long, preempting interference by other agencies of the state in unusually offensive or inconvenient circumstances. Even so, as in the case of at-will employment, the courts continued to prescribe labor relations, not derive them from contracts devised by the parties. In any case, such judicial legislation was the exception; usually courts imposed existing law. … My claim is not that judges were forced in every circumstance to follow common-law precedent, rather than ignore it, or that they could not have found formal justification in existing law for more innocations. The argument is that in by far the largest share of disputes before them, they did in fact follow precedent. I certainly do not mean to imply that the common-law rules were in any sense "neutral," but quite the opposite, that judges by their ritual enforcement held up a structure of domination that had existed since time out of mind. 
 
@@ -391,7 +391,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac tincidunt ju
 ### Commonwealth v. Pullis (Philadelphia Mayor's Court 1806)[^Pullis1]
 
 [^Pullis1]: 
-	[-] Published in 3 Doc. Hist. of Am. Ind. Soc. 59 (2d ed. Commons 1910)
+  {-} Published in 3 Doc. Hist. of Am. Ind. Soc. 59 (2d ed. Commons 1910)
 
 Indictment for common law conspiracy, tried before a jury consisting of two inn-keepers, a tavern-keeper, three grocers, a merchant, a hatter, a tobacconist, a watchmaker, a tailor, a bottler.
 
@@ -401,8 +401,8 @@ Indictment for common law conspiracy, tried before a jury consisting of two inn-
 
 (2) that defendants conspired and agreed that they would endeavor to prevent "by threats, menaces, and other unlawful means" other craftsmen from working except at said specified rates; and (3) that defendants, having formed themselves into an association, conspired and agreed that none of them would work for any master who should employ a cordwainer[^Pullis2] who had broken any rule or bylaw of the association, and that defendants, in accordance with such agreement refused to work at the usual rates and prices.
 
-[^Pullis2]
-	[-] Cordwainer is an archaic term for a shoemaker. 
+[^Pullis2]:
+  {-} Cordwainer is an archaic term for a shoemaker. 
 
 Counsel for the prosecution were Jared Ingersol and Joseph Hopkinson. Counsel for the defendants were Caesar A. Rodney and Walter Franklin. During his address to the jury, Joseph Hopkinson, for the prosecution, stated, among other things, the following:
 
@@ -421,7 +421,7 @@ Let the 60 put what price they please on their own work; but the others are free
 It may be answered, that when men enter into a society they are bound to conform to its rules; they may say, the majority ought to govern the minority ... granted ... but they ought to leave a man free to join, or not to join the society. If I go into a country I am bound to submit to its laws, but surely I may judge, "whether or not I will go there. The society has no right to force you into its body, and then say you shall obey its rules under severe penalties. By their constitution you find, and from their own lips I must take the words, that though a man wants no more wages than he gets, he must join in a turn-out. The man who seeks an asylum in this country, from the arbitrary laws of other nations, is coerced into this society, though he does not work In the article intended to be raised; he must leave his seat and join the turnout.[^Pullis3]
 
 [^Pullis3]:
-	[-] Turnout is an archaic word for a labor strike.
+  {-} Turnout is an archaic word for a labor strike.
 
 #### Recorder Levy, in his charge to the jury, made the following statements, among others:
 
@@ -438,7 +438,7 @@ It is adopted by Blackstone,[^Pullis4] and laid down as the law by Lord Mansfiel
 The defendants were found guilty and were fined eight dollars each plus costs. 
 
 [^Pullis4]:
-	[-] Lord Blackstone was British and the preeminent Anglo-American legal scholar of this era.
+  {-} Lord Blackstone was British and the preeminent Anglo-American legal scholar of this era.
 
 ### Commonwealth v Hunt, 45 Mass. 111 (1842)
 
@@ -447,7 +447,7 @@ The defendants were found guilty and were fined eight dollars each plus costs.
 [ ... ] We have no doubt, that by the operation of the constitution of this Commonwealth, the general rules of the common law, making conspiracy an indictable offence, are in force here, and that this is included in the description of laws which had, before the adoption of the constitution, been used and approved in the Province, Colony, or State of Massachusetts Bay, and usually practised in the courts of law. [ ... ] Still, it is proper in this connexion to remark, that although the common law in regard to conspiracy in this Commonwealth is in force, yet it will not necessarily follow that every indictment at common law for this offence is a precedent for a similar indictment in this State. The general rule of the common law is, that it is a criminal and indictable offence, for two or more to confederate and combine together, by concerted means, to do that which is unlawful or criminal, to the injury of the public, or portions or classes of the community, or even to the rights of an individual. This rule of law may be equally in force as a rule of the common law, in England and in this Commonwealth; and yet it must depend upon the local laws of each country to determine, whether the purpose to be accomplished by the combination, or the concerted means of accomplishing it, be unlawful or criminal in the respective countries. All those laws of the parent country, whether rules of the common law, or early English statutes, which were made for the purpose of regulating the wages of laborers, the settlement of paupers, and making it penal for any one to use a trade or handicraft to which he had not served a full apprenticeship--not being adapted to the circumstances of our colonial condition--were not adopted, used or approved, and therefore do not come within the description of the laws adopted and confirmed by the provision of the constitution already cited. This consideration will do something towards reconciling the English and American cases, and may indicate how far the principles of the English cases will apply in this Commonwealth, and show why a conviction in England, in many cases, would not be a precedent for a like conviction here. The King v. Journeymen Tailors of Cambridge, 8 Mod. 10, for instance, is commonly cited as an authority for an indictment at common law, and a conviction of journeymen mechanics of a conspiracy to raise their wages. It was there held, that the indictment need not conclude *contra formam statuti*,[^Hunt1] because the gist of the offence was the conspiracy, which was an offence at common law. At the same time it was conceded, that the unlawful object to be accomplished was the raising of wages above the rate fixed by a general act of parliament. It was therefore a conspiracy to violate a general statute law, made for the regulation of a large branch of trade, affecting the comfort and interest of the public; and thus the object to be accomplished by the conspiracy was unlawful, if not criminal.
 
 [^Hunt1]: 
-	[-] "Contrary to the form of the statute", a phrase used in an indictment to indicate that the alleged conduct is criminal because it violates a statute. 
+  {-} "Contrary to the form of the statute", a phrase used in an indictment to indicate that the alleged conduct is criminal because it violates a statute. 
 
 But the rule of law, that an illegal conspiracy, whatever may be the facts which constitute it, is an offence punishable by the laws of this Commonwealth, is established as well by legislative as by judicial authority. Like many other cases, that of murder, for instance, it leaves the definition or description of the offence to the common law, and provides modes for its prosecution and punishment. [ ... ]
 
