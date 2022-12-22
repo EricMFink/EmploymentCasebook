@@ -18,6 +18,4 @@ Following the typographical style of [Edward Tufte](https://www.edwardtufte.com/
 
 ### Page Navigation 
 
-At the top of the page for each chapter, there is a drop-down "Page Navigation" menu. Hovering over this will reveal a list of numbered sections and sub-sections, and clicking on these will scroll to the approiate location on the page. On mobile devices, you can click on the menu icon <img src="../assets/img/menu.png" width="16"> to reveal the Page Navigation menu. 
-
-As you scroll down a page, a red box with an upward-pointing caret <img src="../assets/img/up-button.png" width="16"> will appear at the bottom of the screen. Clicking on this will take you back to the top of the page. 
+At the top of the page for each chapter, there is a drop-down "Page Navigation" menu. Hovering over this will reveal a list of numbered sections and sub-sections, and clicking on these will scroll to the approiate location on the page. On mobile devices, you can click on the menu icon <img src="../assets/img/menu.png" width="16"> to reveal the Page Navigation menu.

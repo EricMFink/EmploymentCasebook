@@ -509,9 +509,7 @@ It appears by the bill of exceptions, that it was contended on the part of the d
 
 In this opinion of the learned judge, this court, for the reasons stated, cannot concur. Whatever illegal purpose can be found in the constitution of the Bootmakers' Society, it not being clearly set forth in the indictment, cannot be relied upon to support this conviction. So if any facts were disclosed at the trial, which, if properly averred, would have given a different character to the indictment, they do not appear in the bill of exceptions, nor could they, after verdict, aid the indictment. But looking solely at the indictment, disregarding the qualifying epithets, recitals and immaterial allegations, and confining ourselves to facts so averred as to be capable of being traversed and put in issue, we cannot perceive that it charges a criminal conspiracy punishable by law. The exceptions must, therefore, be sustained, and the judgment arrested.
 
-*** 
-
-Prosecutions of organized labor activity as criminal conspiracies continued into the late 19th century. In some states, the labor movement succeeded in persuading legislatures to enact statutes giving legal recognition to labor unions and collective action by workers. 
+## 2.2 Labor Injunctions and Yellow Dog Contracts 
 
 In the early 20th century, employers turned to a new strategy against organized labor: the Sherman Antitrust Act of 1890, 15 U.S.C. § 1 et seq. The Sherman Act outlawed "conspirac[ies] in restraint of trade or commerce among the several States"; imposed criminal liability for violations; and authorized civil suits with recovery of treble damages and attorney's fees by "[a]ny person who shall be injured in his business or property". 
 
@@ -525,11 +523,11 @@ But in *Duplex Printing Press Co. v. Deering*, 254 U.S. 443 (1921), the Supreme 
 
 Another legal strategy employers used against labor organizing was to require that employees enter into contracts in which they promised not to join or remain a member of a union. Labor opposition led to the adoption of statutes outlawing these so-called "yellow dog" contracts. But, following _Lochner_, the Supreme Court held that such anti-yellow dog statutes were unconstitutional infringements on liberty of contract. _Adair v. United States,_ 208 U.S. 161 (1908) (striking down federal statute making it a criminal offense for a railroad to fire an employee because of union membership ); _Coppage v. Kansas_, 236 U.S. 1 (1915) (striking down state statute making it a crime for employers to require yellow dog contracts as a condition of employment). 
 
-In the 1930s, the landscape of federal labor law changed dramatically with the passage of two statutes. First, the Norris-LaGuardia Act, 29 U.S.C. §§ 101 et seq. (1932) significantly limited the ability of federal courts to issue injuctions in cases involving labor disputes, and declared "yellow dog" contracts unenforceable. Second, the National Labor Relations Act (NLRA), 29 U.S.C. §§ 151 et seq., enshrined the right of employees to organize and engage in collective bargaining and other concerted activity, and established a framework for enforcement under the authority of the National Labor Relations Board. 
+## 2.3 Legal Protection for Labor Organizing & Collective Bargaining 
 
-The NLRA (also known as the "Wagner Act", after its primary sponsor, Senator Robert F. Wagner) was subsequently amended by the Labor-Management Relations Act ("Taft-Hartley"). Taft-Hartley added prohibitions against certain activity by labor unions, including secondary boycotts. It also authorized states to adopt so-called "Right-to-Work" laws, which prohibit contractual provisions requiring employees who are not union members to pay an agency fee to the union (which, under the NLRA, is required to represent all bargaining unit employees, regardless of whether they are union members). 
+In the 1930s, the landscape of federal labor law changed dramatically with the passage of two statutes. First, the Norris-LaGuardia Act (1932), 29 U.S.C. §§ 101 et seq., significantly limited the ability of federal courts to issue injuctions in cases involving labor disputes, and declared "yellow dog" contracts unenforceable. Second, the National Labor Relations Act (1935), 29 U.S.C. §§ 151 et seq., enshrined the right of employees to organize and engage in collective bargaining and other concerted activity, prohibited unfair labor practices by employers, and established a framework for enforcement under the authority of the National Labor Relations Board. 
 
-*** 
+The NLRA (also known as the "Wagner Act", after its primary sponsor) was subsequently amended by the Labor-Management Relations Act (1947), 29 U.S.C. §§ 141 et seq. The LMRA (also known as the "Taft-Hartley Act" after its primary sponsors) added prohibitions against unfair labor practices by unions. 29 U.S.C. § 158(b). It also authorized states to adopt so-called "Right-to-Work" laws, which prohibit contractual provisions requiring employees who are not union members to pay an agency fee to the union (which, under the NLRA, is required to represent all bargaining unit employees, regardless of whether they are union members). 29 U.S.C. § 164(b).
 
 ### National Labor Relations Act
 
@@ -563,23 +561,30 @@ It is hereby declared to be the policy of the United States to eliminate the cau
 
 #### Section 7---Right of employees as to organization, collective bargaining, etc.
 
-Employees shall have the right to self-organization, to form, join, or assist labor organizations, to bargain collectively through representatives of their own choosing, and to engage in other concerted activities for the purpose of collective bargaining or other mutual aid or protection, and shall also have the right to refrain from any or all of such activities except to the extent that such right may be affected by an agreement requiring membership in a labor organization as a condition of employment as authorized in section 158(a)(3) of this title.
+Employees shall have the right to self-organization, to form, join, or assist labor organizations, to bargain collectively through representatives of their own choosing, and to engage in other concerted activities for the purpose of collective bargaining or other mutual aid or protection, and shall also have the right to refrain from any or all of such activities except to the extent that such right may be affected by an agreement requiring membership in a labor organization as a condition of employment as authorized in section 158(a)(3)[^nlra1] of this title.
+
+[^nlra1]: 
+  {-} § 158(a)(3) allows agreements between an employer and a union under which employees who are members of a collective bargaining unit represented by the union must either maintain union membership or pay an agency fee to the union. Under § 164(b) (added as part of the Taft-Harley Act), such agreements are not authorized if they are prohibited by state law. 
 
 #### Section 8---Unfair labor practices 
 
-(a)Unfair labor practices by employer
+(a) Unfair labor practices by employer
 
 It shall be an unfair labor practice for an employer—
 
-	(1) to interfere with, restrain, or coerce employees in the exercise of the rights guaranteed in section 157 of this title;
+(1) to interfere with, restrain, or coerce employees in the exercise of the rights guaranteed in section 157 of this title;
 
-	(2) to dominate or interfere with the formation or administration of any labor organization or contribute financial or other support to it: Provided, That subject to rules and regulations made and published by the Board pursuant to section 156 of this title, an employer shall not be prohibited from permitting employees to confer with him during working hours without loss of time or pay;
+(2) to dominate or interfere with the formation or administration of any labor organization or contribute financial or other support to it: Provided, That subject to rules and regulations made and published by the Board pursuant to section 156 of this title, an employer shall not be prohibited from permitting employees to confer with him during working hours without loss of time or pay;
 
-	(3) by discrimination in regard to hire or tenure of employment or any term or condition of employment to encourage or discourage membership in any labor organization: [ ... ];
+(3) by discrimination in regard to hire or tenure of employment or any term or condition of employment to encourage or discourage membership in any labor organization [ ... ];
 
-	(4) to discharge or otherwise discriminate against an employee because he has filed charges or given testimony under this subchapter;
+(4) to discharge or otherwise discriminate against an employee because he has filed charges or given testimony under this subchapter;
 
-	(5) to refuse to bargain collectively with the representatives of his employees, subject to the provisions of section 159(a) of this title.
+(5) to refuse to bargain collectively with the representatives of his employees, subject to the provisions of section 159(a) of this title.
+
+(d) Obligation to bargain collectively. 
+
+For the purposes of this section, to bargain collectively is the performance of the mutual obligation of the employer and the representative of the employees to meet at reasonable times and confer in good faith with respect to wages, hours, and other terms and conditions of employment, or the negotiation of an agreement, or any question arising thereunder, and the execution of a written contract incorporating any agreement reached if requested by either party, but such obligation does not compel either party to agree to a proposal or require the making of a concession [ … ]
 
 
 
@@ -617,7 +622,7 @@ We hold therefore that the Board correctly interpreted and applied the Act to th
 
 James Brown, a truck driver employed by respondent, was discharged when he refused to drive a truck that he honestly and reasonably believed to be unsafe because of faulty brakes. Article XXI of the collective-bargaining agreement between respondent and Local 247 of the International Brotherhood of Teamsters, Chauffeurs, Warehousemen and Helpers of America, which covered Brown, provides:
 
-> "The Employer shall not require employees to take out on the streets or highways any vehicle that is not in safe operating condition or equipped with the safety appliances prescribed by law. It shall not be a violation of this Agreement where employees refuse to operate such equipment unless such refusal is unjustified."
+> The Employer shall not require employees to take out on the streets or highways any vehicle that is not in safe operating condition or equipped with the safety appliances prescribed by law. It shall not be a violation of this Agreement where employees refuse to operate such equipment unless such refusal is unjustified.
 
 The question to be decided is whether Brown's honest and reasonable assertion of his right to be free of the obligation to drive unsafe trucks constituted "concerted activit\[y\]" within the meaning of § 7 of the National Labor Relations Act (NLRA or Act). The National Labor Relations Board (NLRB or Board) held that Brown's refusal was concerted activity within § 7, and that his discharge was, therefore, an unfair labor practice under § 8(a)(1) of the Act. The Court of Appeals disagreed and declined enforcement. At least three other Courts of Appeals, however, have accepted the Board's interpretation of "concerted activities" as including the assertion by an individual employee of a right grounded in a collective-bargaining agreement. We granted certiorari to resolve the conflict, and now reverse.
 
@@ -633,7 +638,7 @@ On May 15, the day after the discharge, Brown filed a written grievance, pursuan
 
 On September 7, 1979, Brown filed an unfair labor practice charge with the NLRB, challenging his discharge. The Administrative Law Judge (ALJ) found that Brown had been discharged for refusing to operate truck No. 244, that Brown's refusal was covered by § 7 of the NLRA, and that respondent had therefore committed an unfair labor practice under § 8(a)(1) of the Act. The ALJ held that an employee who acts alone in asserting a contractual right can nevertheless be engaged in concerted activity within the meaning of § 7:
 
-> " \`\[W\]hen an employee makes complaints concerning safety matters which are embodied in a contract, he is acting not only in his own interest, but is attempting to enforce such contract provisions in the interest of all the employees covered under that contract. Such activity we have found to be concerted and protected under the Act, and the discharge of an individual for engaging in such activity to be in violation of Section 8(a)(1) \[of the Act\].' " 
+> [W\]hen an employee makes complaints concerning safety matters which are embodied in a contract, he is acting not only in his own interest, but is attempting to enforce such contract provisions in the interest of all the employees covered under that contract. Such activity we have found to be concerted and protected under the Act, and the discharge of an individual for engaging in such activity to be in violation of Section 8(a)(1) \[of the Act\].
 
 The NLRB adopted the findings and conclusions of the ALJ and ordered that Brown be reinstated with backpay.
 
@@ -681,7 +686,7 @@ Finally, and most importantly, to the extent that the factual issues raised in a
 
 ##### III
 
-In this case, the Board found that James Brown's refusal to drive truck No. 244 was based on an honest and reasonable belief that the brakes on the truck were faulty. Brown explained to each of his supervisors his reason for refusing to drive the truck. Although he did not refer to his collective-bargaining agreement in either of these confrontations, the agreement provided not only that "\[t\]he Employer shall not require employees to take out on the streets or highways any vehicle that is not in safe operating condition," but also that "\[i\]t shall not be a violation of this Agreement where employees refuse to operate such equipment, unless such refusal is unjustified." See _supra,_ at 825. There is no doubt, therefore, nor could there have been any doubt during Brown's confrontations with his supervisors, that by refusing to drive truck No. 244, Brown was invoking the right granted him in his collective-bargaining agreement to be free of the obligation to drive unsafe trucks. Moreover, there can be no question but that Brown's refusal to drive the truck was reasonably well directed toward the enforcement of that right. Indeed, it would appear that there were no other means available by which Brown could have enforced the right. If he had gone ahead and driven truck No. 244, the issue may have been moot.
+In this case, the Board found that James Brown's refusal to drive truck No. 244 was based on an honest and reasonable belief that the brakes on the truck were faulty. Brown explained to each of his supervisors his reason for refusing to drive the truck. Although he did not refer to his collective-bargaining agreement in either of these confrontations, the agreement provided not only that "\[t\]he Employer shall not require employees to take out on the streets or highways any vehicle that is not in safe operating condition," but also that "\[i\]t shall not be a violation of this Agreement where employees refuse to operate such equipment, unless such refusal is unjustified." There is no doubt, therefore, nor could there have been any doubt during Brown's confrontations with his supervisors, that by refusing to drive truck No. 244, Brown was invoking the right granted him in his collective-bargaining agreement to be free of the obligation to drive unsafe trucks. Moreover, there can be no question but that Brown's refusal to drive the truck was reasonably well directed toward the enforcement of that right. Indeed, it would appear that there were no other means available by which Brown could have enforced the right. If he had gone ahead and driven truck No. 244, the issue may have been moot.
 
 Respondent argues that Brown's action was not concerted because he did not explicitly refer to the collective-bargaining agreement as a basis for his refusal to drive the truck. Brief for Respondent 21-22. The Board, however, has never held that an employee must make such an explicit reference for his actions to be covered by the _Interboro_ doctrine, and we find that position reasonable. We have often recognized the importance of "the Board's special function of applying the general provisions of the Act to the complexities of industrial life." As long as the nature of the employee's complaint is reasonably clear to the person to whom it is communicated, and the complaint does, in fact, refer to a reasonably perceived violation of the collective-bargaining agreement, the complaining employee is engaged in the process of enforcing that agreement. In the context of a workplace dispute, where the participants are likely to be unsophisticated in collective-bargaining matters, a requirement that the employee explicitly refer to the collective-bargaining agreement is likely to serve as nothing more than a trap for the unwary.
 
