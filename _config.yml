@@ -7,7 +7,7 @@ name: Eric M. Fink
 courseurl: /EmploymentLaw  # enter course repo for header link
 
 version: "1.01 (December 2022)"
-last_updated: 20 December 2022 # leave blank if you don't want to display last updated
+last_updated: 22 December 2022 # leave blank if you don't want to display last updated
 
 author: Eric M. Fink
 position: Associate Professor
@@ -19,6 +19,12 @@ zip: '27401'
 email: efink@elon.edu
 phone: 336-279-9334
 web: emfink.net/ElonLaw
+
+collections:
+  statutes:
+    output: true
+
+
 
 
 # -----------------------------------------------------------------------------

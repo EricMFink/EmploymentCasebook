@@ -87,9 +87,12 @@ body.casebookbody {
 .casebook h3 {
     color: $theme-color;
 	margin-top: 2rem;
+	border-bottom: 2px solid $theme-color;
 }
 
 .casebook h4 {
+	font-style: normal;
+	margin-top: 0;
 }
 
 .casebook h5 {
@@ -98,18 +101,24 @@ body.casebookbody {
 }
 
 .casebook h6 {
+	font-size: $h5;
 	font-size: $body-size;
 	font-style: italic;
+	font-weight: $normal-weight;
 }
 
 .casebook p {
 	margin-bottom: 0;
   }
 
+
+/* 
 .casebook p + p {
 	text-indent: 1em;
 	margin-top: 0.2em;
   }
+
+*/
 
 .illustration {
     padding-top: 2rem;
@@ -156,7 +165,11 @@ li.toc-li-H2 {
 }
 
 li.toc-li-H3 {
-    margin: 0 0 0 2em;
+    margin: 0 0 0 2.5em;
+}
+
+:target {
+	scroll-margin-top: 80px;
 }
 
  /* "Back to Top" Button */

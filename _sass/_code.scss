@@ -10,14 +10,32 @@ pre {
 	overflow-x: auto; 
 }
 
-*/
 
 pre {
 	overflow-x: auto; 
 }
 
 pre, pre code, p code, p pre code {
-	font-family: $code-font;
-	font-size: $small-size;
-	line-height: $taller-line-height;
+	font-family: inherit;
+	font-size: inherit;
+	line-height: inherit;
+}
+
+
+*/
+
+pre {
+	width: 100%;
+	padding-left: 1em; 
+	white-space: pre-wrap;
+	background: transparent;
+	border: none;
+}
+
+pre, pre code, p code, p pre code {
+	font-family: inherit;
+	font-size: inherit;
+	line-height: inherit;
+	color: $text-color;
+	background: transparent;
 }
