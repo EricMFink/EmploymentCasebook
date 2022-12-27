@@ -4,6 +4,7 @@ body.casebookbody {
 	margin-right: 0;
 	padding-left: 0;
 	padding-right: 0;
+	background-color: $background-color;
     counter-reset: h1 sidenote-counter; 
 }
 
@@ -82,6 +83,7 @@ body.casebookbody {
 .casebook h2 {
 	font-style: normal;
     color: $theme-color;
+	padding-top: 3rem;
 }
 
 .casebook h3 {
