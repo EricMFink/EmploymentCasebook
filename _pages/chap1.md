@@ -15,7 +15,7 @@ title: Foundations of Employment Law
 
 [W]hen the United Stated embarked upon full-scale industrialization in the decades following the Civil War, American labor relations were a remnant of the ancient order, in the sense that arrangement established in England in previous centuries were carried forward and enforced in law, often with only slight modification, to form the framework of relations between American employers and their employees. ... 
 
-[C]ertain considerations should be understood as fundamental. The  first is that employment relations, being a vestige of the old order, were still governed by the judiciary. As a consequence, historical continuity will be observed in the ancient precedents used by judges to decide disputes between employers and employees, and sometimes also third parties, who came before the American courts. ... [I]n this chapter I discuss the substance of governance, including the *prescriptive* nature of the common law, the enforcement of rules existing a priori, in contrast to the voluntary principles associated with the modern idea of contract. In fact, wage workers had traditionally worked, or "served," under contracts, but for the vast majority those were what are known as implied contracts, rather than express contracts, the contents of implied contracts being predetermined and legally assumed to have been agreed to by the parties upon the act of hiring. On those occasions when express contracts were entered into, as with respect to the specific time or job for which the contract was to run, courts also interpreted their provisions in light of the older rules. In other words, in settling labor disputes that came before them, the judges were imposing a long-established structure of relations upon employer and employee, not arbitrating between two parties who had entered, de novo as in contract theory, into an agreement. 
+[C]ertain considerations should be understood as fundamental. The  first is that employment relations, being a vestige of the old order, were still governed by the judiciary. As a consequence, historical continuity will be observed in the ancient precedents used by judges to decide disputes between employers and employees, and sometimes also third parties, who came before the American courts. ... \[I]n this chapter I discuss the substance of governance, including the *prescriptive* nature of the common law, the enforcement of rules existing a priori, in contrast to the voluntary principles associated with the modern idea of contract. In fact, wage workers had traditionally worked, or "served," under contracts, but for the vast majority those were what are known as implied contracts, rather than express contracts, the contents of implied contracts being predetermined and legally assumed to have been agreed to by the parties upon the act of hiring. On those occasions when express contracts were entered into, as with respect to the specific time or job for which the contract was to run, courts also interpreted their provisions in light of the older rules. In other words, in settling labor disputes that came before them, the judges were imposing a long-established structure of relations upon employer and employee, not arbitrating between two parties who had entered, de novo as in contract theory, into an agreement. 
 
 [ *** ]
 
@@ -259,8 +259,6 @@ Another matter deserves notice. In _Bailey v. Alabama_ it was observed that the 
 
 We impute to the Legislature no intention to oppress, but we are compelled to hold that the Florida Act of 1919 as brought forward on the statutes as §§ 817.09 and 817.10 of the Statutes of 1941 are, by virtue of the Thirteenth Amendment and the Antipeonage Act of the United States, null and void. The judgment of the court below is reversed and the cause is remanded for further proceedings not inconsistent with this opinion.
 
-_Reversed._
-
 
 ## 1.2 Employer Control 
 
@@ -367,9 +365,6 @@ It is possible to design a workplace constitution in which workers have a non-ad
 
 It is not my intention in this lecture to defend any particular model of worker participation in firm governance. My point is rather to expose a deep failure in current ways of thinking about how government fits into Americans’ lives. We do not live in the market society imagined by Paine and Lincoln, which offered an appealing vision of what a free society of equals would look like, combining individualistic libertarian and egalitarian ideals. Government is everywhere, not just in the form of the state, but even more pervasively in the workplace. Yet public discourse and much of political theory pretends that this is not so. It pretends that the constitution of workplace government is somehow the object of voluntary negotiation between workers and employers. This is true only for a tiny proportion of privileged workers. The vast majority are subject to private, authoritarian government, not through their own choice, but through laws that have handed nearly all authority to their employers. 
 
-[ *** ]
-
-
 ### Workman v. United Parcel Service, Inc.
 
 #### 234 F.3d 998 (7th Cir. 2000)
@@ -390,11 +385,7 @@ One might wonder what function an employee handbook serves if it does not create
 
 A disclaimer that is effective against a claim of breach of contract is also effective, we believe, against a claim of promissory estoppel. The function of the doctrine of promissory estoppel is to provide an alternative basis to consideration for making promises legally enforceable. A promise can be legally binding because it is supported by consideration or because it induces reasonable reliance, but in either case the promisor is free by a suitable disclaimer to deny any legally binding effect to the promise. To put this differently, consideration or reliance is a necessary but not a sufficient condition of the enforceability of a promise. Another necessary condition is that the promise be worded consistently with its being intended to be enforceable. Because of the disclaimer, that condition was not fulfilled in this case.
 
-
-
 # 2. Labor Organizing & Collective Bargaining 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac tincidunt justo. Curabitur suscipit orci nec lacus maximus, a eleifend elit laoreet. Donec quis porttitor nunc. Etiam non enim nisi. Maecenas posuere odio ut ipsum sollicitudin, interdum dapibus diam tincidunt. Integer nisl est, tincidunt a velit non, fringilla luctus velit. Nam tortor ipsum, iaculis ut nulla et, consectetur lobortis orci.
 
 ## 2.1 Collective Action as an Illegal Conspiracy 
 

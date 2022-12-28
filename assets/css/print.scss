@@ -19,8 +19,26 @@
         orphans:4; widows:2;
     }
 
+    @page:right{
+		@top-right {
+			content: counter(page);
+		}
+		@top-center { 
+			content: "Employment Law";
+		}
+	}
+  
+	@page:left{
+		@top-left {
+			content: counter(page);
+		}
+		@top-center { 
+			content: "Employment Law";
+		}
+	}
+
     body {
-        font-size:  12pt;
+        font-size:  10pt;
 
     }
     html body span.print-footer{

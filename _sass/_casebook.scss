@@ -279,3 +279,26 @@ li.toc-li-H3 {
     margin: 0 0 1rem 0;
     text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
 }
+
+h3.pag {
+	display: none;
+	position: absolute;
+	page-break-before: always;
+	page-break-after: always;
+	bottom: 0;
+	right: 0;
+  }
+  
+h3::before {
+	position: relative;
+	bottom: -15px;
+}
+
+@media print {
+	h3.pag {
+		display: initial;
+	}
+	.print {
+		display: none;
+	}
+}
