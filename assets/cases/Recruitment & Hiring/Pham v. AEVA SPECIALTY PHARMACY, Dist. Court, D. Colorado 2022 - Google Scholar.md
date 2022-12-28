@@ -1,0 +1,79 @@
+### Pham v. Aeva Specialty Pharmacy
+
+#### No. 21-cv-00703-NYW-STV (D. Colo. Dec. 8, 2022)
+
+##### NINA Y. WANG, District Judge.
+
+This matter is before the Court on Aeva Specialty Pharmacy's Motion for Summary Judgment. [ ... ] For the reasons set forth below, the Motion for Summary Judgment is respectfully DENIED.
+
+##### Background
+
+Plaintiff Khanh Pham ("Plaintiff" or "Mr. Pham") alleges that in 2020, he applied for an open pharmacist employment position at Aeva Specialty Pharmacy ("Defendant" or "Aeva"), and received a conditional offer of employment. According to Plaintiff, Aeva submitted Plaintiff's information to Clear Screening Technologies LLC ("Clear Screening"), a former defendant in this case, for a routine background check. Mr. Pham asserts that the background screening report erroneously reported that he had been charged with a federal crime in 2018, though he had never been charged with a federal crime. He also alleges that as a result of the incorrect Clear Screening report, Aeva revoked its conditional offer of employment. 
+
+Mr. Pham initiated this civil action on March 9, 2021, raising three claims under the Fair Credit Reporting Act ("FCRA"): two claims against Clear Screening for negligent and willful violations, respectively, of the FCRA, and one claim against Aeva for willful violations of the FCRA. [ ... ] Mr. Pham voluntarily dismissed his claims against Clear Screening with prejudice on August 5, 2021. 
+
+Aeva filed the instant Motion for Summary Judgment on February 10, 2022, seeking judgment in its favor on Plaintiff's FCRA claim. [ ... ]
+
+##### Undisputed Material Facts
+
+The below material facts are drawn from the Parties' briefing and are undisputed unless otherwise noted.
+
+1\. Mr. Pham is a licensed pharmacist.
+
+2\. In 2020, Mr. Pham applied for employment as a pharmacist with Aeva. 
+
+3\. Prior to interviewing with Aeva, Mr. Pham worked for CVS Pharmacy. Mr. Pham's employment with CVS ended in September 2019.
+
+4\. Mr. Pham "interacted with" Brooke Pendergrass, Aeva's Manager of Human Resources, during the process of interviewing with Aeva. [Doc. 40 at ¶ 4; Doc. 41 at ¶ 4; Doc. 40-2 at 27:1-6].
+
+5\. After Mr. Pham's interview with Aeva, Ms. Pendergrass presented Mr. Pham with a verbal conditional offer of employment.
+
+6\. Mr. Pham did not receive a written offer of employment from Aeva.
+
+7\. At some point after Mr. Pham submitted to a background check, Aeva decided not to hire Mr. Pham.
+
+[ *** ]
+
+##### Analysis
+
+The Fair Credit Reporting Act was enacted "to require that consumer reporting agencies adopt reasonable procedures for meeting the needs of commerce for consumer credit in a manner which is fair and equitable to the consumer, with regard to the confidentiality, accuracy, relevancy, and proper utilization of such information." 15 U.S.C. § 1681(b). The FCRA "enables consumers to protect their reputations, and to protect themselves against the dissemination of false or misleading credit information." "The FCRA places distinct obligations on three types of entities: (1) consumer reporting agencies; (2) users of consumer reports; and (3) furnishers of information." 
+
+Under the FCRA, users of consumer reports—like Aeva—must, "in using a consumer report for employment purposes," and "before taking any adverse action based in whole or in part on the report, ... provide to the consumer to whom the report relates (i) a copy of the report; and (ii) a description in writing of the rights of the consumer under this subchapter." "Congress intended applicants to have a real opportunity to contest an adverse employment decision based on a consumer report," and an applicant "must have enough time between the notice and the final decision to meaningfully contest or explain the contents of the report." 
+
+##### I. The Applicability of the FCRA
+
+In its Motion for Summary Judgment, Aeva first argues that the FCRA is not applicable to this case because its decision to not hire Plaintiff was unrelated to and did not rely upon Plaintiff's background check. Aeva states that it is undisputed that "at no time was Mr. Pham told he was not hired based on [the background report's] improper red flag regarding a felony criminal case on an interim background check." Instead, Aeva asserts, Mr. Pham testified that he has "no evidence" that Aeva made its hiring decision based on the background report. Aeva supports its position by citing evidence to Ms. Deinet's deposition testimony, wherein Ms. Deinet testified that the decision to not hire Plaintiff was unrelated to the background report and that Ms. Deinet, "who made the hiring decision," never saw the background report until this lawsuit was filed. 
+
+But Mr. Pham _has_ submitted evidence, in the form of his own testimony, that Ms. Pendergrass called him to revoke his conditional offer of employment and informed him at the time that the revocation was based on the background check results. While Defendant implicitly asks the Court to accept its employees' testimony as true and to discredit Plaintiff's testimony as untrue, the Court cannot make credibility determinations in ruling on a motion for summary judgment. 
+
+The fact that Mr. Pham testified that he has "no evidence" that the hiring decision was based on his background check does not change the Court's conclusion. Mr. Pham, a non-lawyer, simply could have meant that he has no tangible evidence of the reasoning for the decision, i.e., a recording of the telephone call with Ms. Pendergrass. But Mr. Pham's testimony is evidence, and the Court must draw all reasonable inferences from that evidence in Mr. Pham's favor. Because a reasonable jury could conclude, based on Mr. Pham's testimony, that Aeva's decision to not hire Mr. Pham was based on the results of the background check, genuine issues of material fact preclude summary judgment on this basis.
+
+##### II. Actual Damages
+
+In the alternative, Aeva argues that Plaintiff cannot establish that he was actually damaged by Aeva's actions, which necessitates summary judgment in its favor. The FCRA establishes separate categories of damages for willful and negligent violations of the FCRA. A company that willfully fails to comply with FCRA requirements may be held liable for "any actual damages sustained by the consumer as a result of the failure or damages of not less than $100 and not more than $1,000," as well as punitive damages and attorney's fees and costs. Therefore, a "consumer need not prove actual damages if the [FCRA] violation is willful, but may recover punitive damages and statutory damages ranging from $100 to $1,000." Meanwhile, an employer who negligently fails to comply with the FCRA may be liable for "any actual damages sustained by the consumer as a result of the failure" and fees and costs. Mr. Pham seeks "actual damages, statutory damages, costs, and attorney's fees," as well as punitive damages, pursuant to 15 U.S.C. § 1681n. 
+
+Aeva argues that Mr. Pham has failed to submit any evidence of actual damages suffered by him as a result of Aeva's purported FCRA violations. In addition, it argues that because Mr. Pham "admitted" a lack of actual damages, this "mandate[es] dismissal of" Plaintiff's claim. In support of its argument, Aeva cites to deposition testimony wherein Mr. Pham was asked to explain "whether or not [he had] been harmed by Aeva Pharmacy and [whether he had] lost money." Plaintiff responded, "No, I have not been harmed." On this basis, Aeva asserts that "Plaintiff has failed to demonstrate that the alleged adverse credit action ... caused any damages." Aeva further asserts that Mr. Pham was hired by a different employer within 20 days of his interview with Aeva and that Plaintiff "received a settlement from the dismissed co-Defendant in this case of around $20,000," which "negate[s] any possible [FCRA] claim as Mr. Pham made more money [through the settlement] than he would have if he had been employed by Aeva."
+
+Aeva's arguments are insufficient to warrant summary judgment in its favor. First, Aeva did not mention Mr. Pham's new employment or the settlement in its Statement of Undisputed Facts, and thus, Mr. Pham was not required to rebut these assertions with record evidence. If Defendant intended to rely on these material assertions in arguing that it is entitled to judgment in its favor, it was required to include them in its Statement of Undisputed Facts. The Court thus cannot conclude that these assertions are undisputed for purposes of the pending Motion.
+
+Second, Aeva has not cited any legal authority suggesting that a settlement with a former party to this lawsuit can "negate[]" any claim for damages asserted by Plaintiff as to Aeva. Through its independent research, the Court could find no support for Defendant's position. The Court declines to hold that Mr. Pham's settlement with Clear Screening "negates" any claim for damages against Aeva, as such a holding would disincentivize settlement of disputes.
+
+Third, while Defendant suggests that Mr. Pham cannot demonstrate actual damages because he obtained alternative employment within 20 days of his interview with Aeva, the Court respectfully disagrees. Mr. Pham argues in his Response that he can establish actual damages because he "was unable to earn wages that he otherwise would have earned had he been permitt[ed] to begin working at Aeva." Indeed, Mr. Pham confirmed at his deposition that he "did not receive wages that [he] otherwise would have earned had [he] been offered [employment] with Aeva and begun working for [Aeva]." Although Plaintiff testified that he "ha[d] not been harmed" by Aeva's actions, which may contradict his statement, credibility determinations and resolution of conflicts in the evidence are issues reserved for the jury. Lost income is one type of actual damages available under the FCRA, and because Mr. Pham has produced evidence that of potentially lost income, the jury must assess its strength. But as Mr. Pham has already adduced evidence of actual damages, the Court is unpersuaded by Defendant's argument that Mr. Pham can produce no such evidence.
+
+##### III. Willful Violation of the FCRA
+
+Finally, Aeva argues that Plaintiff's request for statutory or punitive damages fails as a matter of law because he has presented no evidence that Aeva acted willfully or with reckless disregard in its purported FCRA violations. For this reason, it asserts that it is entitled to judgment in its favor on Plaintiff's FCRA claim. 
+
+"A showing of malice or evil motive is not required to prove willfulness under the [FCRA]." Instead, a willful violation of the FCRA is "either an intentional violation or a violation committed by an [entity] in reckless disregard of its duties under the FCRA." "Recklessness is measured by 'an objective standard: action entailing an unjustifiably high risk of harm that is either known or so obvious that it should be known.'" "[A] company subject to FCRA does not act in reckless disregard of it unless the action is not only a violation under a reasonable reading of the statute's terms, but shows that the company ran a risk of violating the law substantially greater than the risk associated with a reading that was merely careless." "Willfulness under the FCRA is generally a question of fact for the jury." 
+
+Aeva contends that "[a]t most, Plaintiff believes, without the provision of one scintilla of corroborating evidence, that he was not hired because of an alleged felony conviction on an interim background check. However, Plaintiff's belief is simply inaccurate and wholly unsupported by the evidence — most importantly, his own testimony." Aeva defends its conduct related to the background check as "objectively reasonable" and reiterates its position that it declined to hire Mr. Pham for reasons outside of the background check report. 
+
+In his Response, Mr. Pham directs the Court to evidence that Aeva orders a background check for "[e]very person [it] hire[s]," and has requested "hundreds" of background checks. Aeva was on notice that it must comply with the FCRA when using background check reports for employment purposes. But despite its regular use of background checks, Aeva does not have any internal policies or procedures regarding the use of background reports for employment purposes, and it does not train its employees on FCRA compliance or on how to use background check reports. Mr. Pham argues that "[b]y failing to take any steps to avoid violating the FCRA, Aeva acted with reckless disregard of its statutory duties" under the law.
+
+Insofar as Defendant bases its argument on its position that there is no dispute that Aeva did not rely on the background check report in revoking the conditional offer of employment, the Court has already rejected this argument, having concluded that genuine disputes of fact exist as to Aeva's underlying purpose for revoking the conditional employment offer. In the alternative, Defendant asserts that Mr. Pham has presented "no evidence" that Aeva acted willfully or with reckless disregard in failing to comply with the FCRA. The Court disagrees. Mr. Pham has produced evidence demonstrating that although Aeva was on notice of its obligation to comply with the FCRAit had no policies or procedures governing FCRA compliance and that it did not train its employees on FCRA compliance. This is sufficient to create a genuine dispute of fact as to whether Aeva acted in reckless disregard of its FCRA obligations in its interactions with Plaintiff. 
+
+Aeva asserts in its Reply that Aeva's policies, or lack thereof, "have no relation to this lawsuit" because "Plaintiff failed to establish that the FCRA requirements were even the responsibility of Aeva." It states that "Aeva hired [Clear Screening] to run the background check," but Plaintiff "never inquired as to [which party] had the responsibility to send an adverse notice if the report were relied upon." Insofar as Defendant suggests a missing evidentiary link in this case between the FCRA and Aeva's duties thereunder, the Court is unpersuaded. First, Defendant failed to raise any argument in its Motion for Summary Judgment that it was Clear Screening, and not Aeva, that had a duty to disclose the background report results to Plaintiff; this argument was undoubtedly available to Defendant at the time it filed its Motion, and its failure to raise the argument renders it waived. Furthermore, Aeva has cited no legal authority demonstrating that, by hiring a third party to conduct a background check, a user of credit reports transfers its disclosure obligations under the FCRA to that third party. Inadequately supported arguments need not be considered by the Court. And in any event, the Court is unpersuaded by Defendant's argument. The FCRA provides that the duty to furnish a background report on a prospective employee lies with the party using the consumer report for employment purposes and intending to take an adverse action based on that report. By submitting evidence suggesting that Aeva purportedly rescinded Plaintiff's conditional offer based on the background report, Plaintiff has submitted sufficient evidence to establish a disclosure duty on the part of Aeva. For all of these reasons, the willfulness or recklessness of Aeva's actions must be assessed by the jury.
+
+In sum, Mr. Pham has established genuine disputes of material fact concerning (1) whether Aeva rescinded his conditional offer of employment due to the background check results; (2) whether Mr. Pham was actually damaged by Aeva's actions; and (3) whether Aeva acted willfully or recklessly. Summary judgment is thus not appropriate at this juncture, and Defendant's Motion will be denied.
+
+[ *** ]
