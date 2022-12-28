@@ -3,183 +3,211 @@
 	left: 0px;
 	top: 0px;
 	width: 100%;
-}
-
-.print-header p {
-	font-family: $sans-font;
-	color: $theme-color;
+  }
+  
+  .print-header p {
+	font-family: adelle-sans, sans-serif;
+	color: #b03a2e;
 	font-size: 14pt;
-	font-weight: $normal-weight;
-}
-
-.print-footer {
+	font-weight: 400;
+  }
+  
+  .print-footer {
 	position: absolute;
 	left: 0px;
 	bottom: 0px;
 	width: 100%;
-}
-
-.print-footer p {
-	font-family: $sans-font;
+  }
+  
+  .print-footer p {
+	font-family: adelle-sans, sans-serif;
 	font-size: 9pt;
-	font-weight: $normal-weight;
-}
-
-.print-headfoot-block {
+	font-weight: 400;
+  }
+  
+  .print-headfoot-block {
 	display: flex;
 	flex-flow: row wrap;
 	width: 75%;
 	margin: 0 0 0 12.5%;
 	border-bottom: none;
-}
-
-.alignleft {
-	width:50%;
-	text-align:left;
-}
-
-.alignright {
-	width:50%;
-	text-align:right;
-}
-
-// Set page layout and hide screen elements for printing
-
-@media print {
-
+  }
+  
+  .alignleft {
+	width: 50%;
+	text-align: left;
+  }
+  
+  .alignright {
+	width: 50%;
+	text-align: right;
+  }
+  
+  @media print {
 	@page {
-		size: letter portrait;
-	    margin: .75in 0in .75in 0in;
-	    orphans:4;
-		widows:2;
-		@bottom-center {
-		  content: counter(page);
-		}
+	  size: letter portrait;
+	  background-color: transparent;
+	  width: 85%;
+	  margin: 0.75in 0in 0.75in 0in;
+	  orphans: 4;
+	  widows: 2;
 	}
-
-
 	body {
-	    font-size:  10pt;
+	  font-size: 10pt;
+	  background-color: transparent;
 	}
-
-	.sidenote, .marginnote {
-		float: right;
-		clear: right;
-		margin-right: -45%;
-		width: 30%;
-		margin-top: 0;
-		margin-bottom: 0.5rem;
+	
+	body.casebookbody {
+	  background-color: transparent;
 	}
+	
+	article {
+	  background-color: transparent;
+	}
+	
+	page-container {
+	  background-color: transparent;
+	}
+	
+	  .sidenote, .marginnote {
+		  float: right;
+		  clear: right;
+		  margin-right: -45%;
+		  width: 30%;
+		  margin-top: 0;
+		  margin-bottom: 0.5rem;
+	  }
 	.sidenote {
-		font-size: 8pt;
+	  font-size: 8pt;
 	}
 	.marginnote {
-		font-size: 8pt;
+	  font-size: 7pt;
 	}
-
 	header {
-        display: none;
-    }
-
-
+	  display: none;
+	}
 	.button {
-		display: none;
+	  display: none;
 	}
-
-    thead {
-        display: table-header-group;
-    }
-
-    tr,
-    img {
-        page-break-inside: avoid;
-    }
-
-    img {
-        max-width: 100% !important;
-    }
-
+	thead {
+	  display: table-header-group;
+	}
+	tr,
+	img {
+	  page-break-inside: avoid;
+	}
+	img {
+	  max-width: 100% !important;
+	}
 	p {
-	    font-size:  10pt;
+	  font-size: 10pt;
 	}
-
 	.chapter-pretitle {
-		font-size: 14pt;
+	  string-set: chapter_pretitle content();
+	  font-size: 14pt;
 	}
-
-
 	.chapter-title {
-		string-set: chapter_title content();
-		font-size: 16pt;
+	  string-set: chapter_title content();
+	  font-size: 16pt;
 	}
-
 	section {
-		padding: 0;
+	  padding: 0;
 	}
-
-	h1 {
-	    font-size:  18pt;
-		padding-top: 1em;
+	.casebook h1 {
+	  font-size: 18pt;
+	  padding-top: 1em;
 	}
-
-	h2 {
-	    font-size:  16pt;
-		padding-top: 1em;
+	.casebook h2 {
+	  font-size: 16pt;
+	  padding-top: 1em;
 	}
-
+	.casebook h3 {
+	  font-size: 13pt;
+	  padding-top: 1em;
+	}
+	.casebook h4 {
+	  font-size: 11pt;
+	  padding-top: 5pt;
+	}
+	
+	.casebook h5 {
+	  font-size: 11pt;
+	  padding-top: 20pt;
+	}
+	.casebook h6 {
+	  font-size: 10pt;
+		font-style: italic;
+	  padding-top: 10pt;
+	}
+	
+  
+	p,
+	h2,
 	h3 {
-	    font-size:  14pt;
-		padding-top: 1em;
+	  orphans: 4;
+	  widows: 4;
 	}
-
-	h4 {
-	    font-size:  12pt;
-		padding-top: 1em;
+	article h2, article h2 h3, article h3, article h3 h4, article h4, article h4 h5 {
+	  page-break-after: avoid;
 	}
-
-	h5 {
-	    font-size:  11pt;
-		padding-top: 1em;
-	}
-
-	h6 {
-	    font-size:  10pt;
-		padding-top: 1em;
-	}
-
-    p,
-    h2,
-    h3 {
-        orphans: 4;
-        widows: 4;
-    }
-    article h2, article h2 h3, article h3, article h3 h4, article h4, article h4 h5 {
-        page-break-after: avoid;
-    }
-
-	h3.pag {
-		display: initial;
-	}
-
+  
+  
 	@page :left {
-		@top-center {
-		  content: string(chapter_title);
-		}
+	  @top-center {
+		font-size: 10pt;
+		  font-style: italic;
+		content: string(chapter_pretitle);
 	  }
-	  
-	  @page :right {
-		@top-center {
-		  content: string(chapter_title);
-		}
+	  @bottom-center {
+		font-size: 8pt;
+		content: counter(page);
 	  }
-
-	.print-footer {
-		font-family: $sans-font;
-		size: .8rem;
 	}
-
-}
-
+	@page :right {
+	  @top-center {
+		font-size: 10pt;
+		  font-style: italic;
+		content: string(chapter_title);
+	  }
+	  @bottom-center {
+		font-size: 8pt;
+		content: counter(page);
+	  }
+	}
+  
+  
+	@page:first {
+	  @top-center {
+		margin: 50pt 0 0pt 0;
+		font-family: adelle-sans, sans-serif;
+		font-size: 20pt;
+		color: #b03a2e;
+		content: "Employment Law Casebook";
+	  }
+	  @bottom-right {
+		content: normal;
+		margin: 0;
+	  }
+  
+	  @bottom-center {
+		content: normal;
+		margin: 0;
+	  }
+  
+	  @bottom-left {
+		content: normal;
+		margin: 0;
+	  }
+  }
+  
+   
+	.print-footer {
+	  font-family: adelle-sans, sans-serif;
+	  size: 8pt;
+	}
+  }
+  
+  
 // Hide print header/footer in screen display
 
 @media screen {
