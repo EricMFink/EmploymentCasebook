@@ -1,14 +1,14 @@
 .print-header {
 	position: absolute;
-	left: 0px;
-	top: 0px;
+	left: 0;
+	top: 0;
 	width: 100%;
   }
   
   .print-header p {
 	font-family: adelle-sans, sans-serif;
-	color: #b03a2e;
-	font-size: 14pt;
+	color: $theme-color;
+	font-size: 20pt;
 	font-weight: 400;
   }
   
@@ -31,6 +31,11 @@
 	width: 75%;
 	margin: 0 0 0 12.5%;
 	border-bottom: none;
+  }
+
+  .doc-title {
+	width: 50%;
+	text-align: left;
   }
   
   .alignleft {
@@ -101,6 +106,10 @@
 	}
 	p {
 	  font-size: 10pt;
+	}
+	.doc-title {
+		string-set: doc_title content();
+		font-size: 20pt;
 	}
 	.chapter-pretitle {
 	  string-set: chapter_pretitle content();
@@ -175,15 +184,23 @@
 	  }
 	}
   
-  
+  /*
 	@page:first {
-	  @top-center {
+	  @top-left {
 		margin: 50pt 0 0pt 0;
+		font-style: normal;
 		font-family: adelle-sans, sans-serif;
 		font-size: 20pt;
-		color: #b03a2e;
-		content: "Employment Law Casebook";
+		color: $theme-color;
+		content: string(doc_title);
 	  }
+	
+
+	  @top-center {
+		content: normal;
+		margin: 0;
+	  }
+
 	  @bottom-right {
 		content: normal;
 		margin: 0;
@@ -199,7 +216,29 @@
 		margin: 0;
 	  }
   }
-  
+  */
+
+  @page:first {
+	@top-center {
+	  content: normal;
+	  margin: 0;
+	}
+
+	@bottom-right {
+	  content: normal;
+	  margin: 0;
+	}
+
+	@bottom-center {
+	  content: normal;
+	  margin: 0;
+	}
+
+	@bottom-left {
+	  content: normal;
+	  margin: 0;
+	}
+}
    
 	.print-footer {
 	  font-family: adelle-sans, sans-serif;

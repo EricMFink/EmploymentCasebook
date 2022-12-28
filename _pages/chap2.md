@@ -23,8 +23,6 @@ Defendant filed an answer and raised as one of its defenses lack of subject matt
 
 "By statute the Superior Court is divested of original jurisdiction of all actions which come within the provisions of the Workmen's Compensation Act." The Act provides that its remedies shall be an employee's only remedies against his or her employer for claims covered by the Act. Remedies available at common law are specifically excluded. Therefore, the question of whether plaintiff Shane Tucker was defendant's employee as defined by the Act is clearly jurisdictional. This issue is not affected by the fact that the minor may have been illegally employed because the Act specifically includes within its provisions illegally employed minors.[^Lemmerman1]
 
-[ *** ]
-
 The trial judge made the following findings of facts pertinent to this issue:
 
 > 3. Prior to the incident referred to in the complaint, Ken Schneiderman was employed as the manager of the defendant's place of business on Wendover Avenue in Greensboro, North Carolina. As manager, Schneiderman had the authority to hire and fire such employees as he deemed necessary to assist him in the operation of the business, and all wages paid to any of the employees which he hired were deducted from the commission which he received from the defendant.
@@ -154,8 +152,6 @@ Uber asserts that it places no restrictions on drivers' ability to engage in per
 
 Alternatively, Plaintiffs claim that they are "employees" under the FLSA because they are controlled by Uber when they are online and perform an integral role for Uber's business. The District Court agreed with Uber's position, and granted Uber's Motion for Summary Judgment on the question of whether Plaintiffs qualify as "employees" of Uber under the FLSA and PMWA. Plaintiffs now appeal from the summary judgment order.
 
-[ *** ]
-
 ##### III. Applicable Law: _Donovan v. DialAmerica Marketing, Inc._
 
 The minimum wage and overtime wage provisions at issue all require that Plaintiffs prove that they are "employees." Although Plaintiffs' case includes claims under the PMWA, Pennsylvania state courts have looked to federal law regarding the FLSA for guidance in applying the PMWA. The FLSA defines "employer" as "includ[ing] any person acting directly or indirectly in the interest of an employer in relation to an employee," and "employee" as "any individual employed by an employer." 29 U.S.C. §§ 203(d), (e)(1). Given the circularity of the definitions, federal courts, with guidance from the Department of Labor, have established standards to determine how to define employee and employer.
@@ -173,8 +169,6 @@ The District Court granted summary judgment to Uber ruling that drivers for Uber
 The District Court applied all six factors in _DialAmerica,_ and on balance, found that Plaintiffs were independent contractors. There were four factors the Court applied that were interpreted in favor of independent contractor status. The District Court analyzed the employer's right to control the manner in which the work is to be performed and noted that the written agreements entered into by the Plaintiffs and their transportation companies, in addition to the ability of Plaintiffs to hire sub-contractors and work for competing companies, point to a lack of control by Uber. Next, the District Court analyzed the alleged employees' opportunity for profit or loss and found that this also supports independent contractor status. The District Court found that Plaintiffs can work as much or as little as they would like and choose not to accept trip requests where the opportunity for profit was greater to work for themselves or competitors. Because the "profit-loss" factor does not require that Plaintiffs be solely in control of their profits or losses, Plaintiffs were unsuccessful in convincing the District Court that they were employees despite the fact that Uber retains the right to determine how much to charge passengers and which driver receives which trip request. UberBLACK drivers must purchase or lease their own expensive vehicle to drive for UberBLACK, demonstrating independent status as well. And the "relationship permanence" can be as long or non-existent as the driver desires, again illustrating the impermanent working relationships often found with independent contractors.
 
 The District Court determined that only two factors militated in Plaintiffs' favor. As limousine drivers, the service they render does not really require a special skill. Second, the limousine driving service rendered to Uber by UberBLACK drivers is an essential part of Uber's business as a transportation company. The District Court held that the movant demonstrated that there was no genuine dispute as to any material fact, and that a majority of the _DialAmerica_ factors leaned against employment status. The District Court granted Uber's motion for summary judgment and determined that Plaintiffs were independent contractors.
-
-[ *** ]
 
 ##### VI. Analysis
 
@@ -409,15 +403,13 @@ _Benjamin_ is not useful in determining whether an employment relationship exist
 
 In sum, the district court correctly held that the NCAA and the PAC-12 were not Dawson's employers. Within the analytical framework established by the Supreme Court, the NCAA and PAC-12 are regulatory bodies, not employers of student-athletes under the FLSA. The district court properly dismissed the FLSA claims.
 
-[ *** ]
-
 ##### IV
 
 For the foregoing reasons, we affirm the district court's dismissal of Dawson's FLSA and California state law claims against the NCAA and PAC-12. We need not, and do not, reach any other issue urged by the parties, nor do we express an opinion about student-athletes' employment status in any other context.
 
 [^Dawson2]: (n.2 in opinion) Bylaw 12.1.2 revokes amateur status and NCAA eligibility where a student-athlete: (1) "[u]ses his or her athletics skill (directly or indirectly) for pay in any form in that sport;" (2) "[a]ccepts a promise of pay even if such pay is to be received following completion of intercollegiate athletics participation;" (3) "[s]igns a contract or commitment of any kind to play professional athletics, regardless of its legal enforceability or any consideration received, except as permitted in Bylaw 12.2.5.1;" (4) "[r]eceives directly or indirectly, a salary, reimbursement of expenses, or any other form of financial assistance from a professional sports organization based on athletics skill or participation, except as permitted by NCAA rules and regulations;" (5) "[c]ompetes on any professional athletics team per Bylaw 12.02.11, even if no pay or remuneration for expenses was received, except as permitted in Bylaw 12.2.3.2.1;" (6) "[a]fter initial full-time collegiate enrollment, enters into a professional draft (see Bylaw 12.2.4);" or (7) "[e]nters into an agreement with an agent."
 
-### Johnson v. NCAA
+### Johnson v. NCAA (I)
 
 #### 556 F.Supp.3d 491 (E.D. Pa. 2021)
 
@@ -449,8 +441,6 @@ Count VII asserts a claim on behalf of Plaintiff Ruiz and the members of the pro
 
 The Attended Schools Defendants have moved to dismiss all claims against them pursuant to Federal Rule of Civil Procedure 12(b)(6) on the ground that it does not plausibly allege that Plaintiffs are their employees.
 
-[ *** ]
-
 ## III. DISCUSSION
 
 The ASD argue that the Complaint fails to state any claims against them because it does not allege facts that would establish that Plaintiffs are their employees, which is a requirement for bringing a claim under the FLSA. The FLSA defines the term "employee" as "any individual employed by an employer." The United States Court of Appeals for the Third Circuit has explained that "[t]his statutory definition is 'necessarily broad to effectuate the remedial purposes of the Act.'" "In accordance with this 'expansive definition[],' courts must 'look to the economic realities of the relationship in determining employee status under the FLSA.'" The ASD assert three reasons why Plaintiffs cannot be their employees: (1) student athletes such as Plaintiffs are amateurs; (2) the Department of Labor has determined that interscholastic athletes are not employees for purposes of the FLSA; and (3) the Complaint does not plausibly allege that Plaintiffs are employees pursuant to a multi-factor test used to determine whether individuals are employees.
@@ -464,8 +454,6 @@ The Supreme Court did, indeed, note in Board of Regents that "[t]he NCAA plays a
 > Board of Regents may suggest that courts should take care when assessing the NCAA's restraints on student-athlete compensation, sensitive to their procompetitive possibilities. But these remarks do not suggest that courts must reflexively reject _all_ challenges to the NCAA's compensation restrictions. Student-athlete compensation rules were not even at issue in Board of Regents.
 
 As Justice Kavanaugh noted in his concurring opinion in Alston, the argument "that colleges may decline to pay student athletes because the defining feature of college sports ... is that the student athletes are not paid.... is circular and unpersuasive." Accordingly, we reject the ASD's argument that Plaintiffs are not employees entitled to minimum wages pursuant to the FLSA because there is a long-standing tradition of amateurism in NCAA interscholastic athletics that defines the economic reality of the relationship between Plaintiffs and the ASD.[^JohnsonA7]
-
-[ *** ]
 
 ###### C. The Economic Reality of the Relationship Between Plaintiffs and the ASD
 
@@ -534,8 +522,6 @@ For the foregoing reasons, we conclude that the Complaint plausibly alleges that
 
 Plaintiffs [ ... ] bring this action against Defendants for sexual harassment in violation of Title VII of the Civil Rights Act of 1964, and Michigan's Elliot-Larsen Civil Rights Act (ELCRA). Plaintiffs sue McDonald's, LLC and McDonald's Corporation (collectively, "McDonald's") as well as two entities operating a McDonald's franchise in Michigan: MLMLM Corporation and M.A.A.K.S., Inc. (collectively, "Franchisee"). Plaintiffs are former employees of a McDonald's restaurant in Mason, Michigan, operated by Franchisee. They allege that a manager at that location repeatedly harassed them, both physically and verbally. Before the Court is a motion for summary judgment by McDonald's Because no reasonable juror could find that McDonald's acted as an employer or agent subject to liability under Title VII or the ELCRA, the Court will grant the motion.
 
-[ *** ]
-
 ##### II. ANALYSIS
 
 ###### A. Title VII
@@ -580,15 +566,115 @@ In short, construing the evidence in a light most favorable to Plaintiffs, there
 
 Plaintiffs rely on cases in which courts denied a franchisor's attempt to dismiss similar claims against it because the franchisor was involved in creating personnel policies or provided training to the franchisee's employees. Those cases are distinguishable. There, courts concluded that the plaintiffs had alleged sufficient facts in their complaints to state a plausible claim against the franchisor and proceed to discovery. The question facing this Court is a different one. The Court is not assessing the allegations in Plaintiffs' complaint. At this stage, Plaintiffs must support their allegations with evidence sufficient to demonstrate that they can proceed to trial against McDonald's. They have not done so. They have not shown that there is a genuine dispute of fact about whether McDonald's was a joint employer with Franchisee.
 
-[ *** ]
-
 ##### III. CONCLUSION
 
 For the reasons stated, McDonald's is entitled to summary judgment for the Title VII and ELCRA claims, so the Court will grant its motion.
 
-### Johnson v. NCAA
+### Johnson v. NCAA (II)
 
-##### 556 F.Supp.3d 491 (E.D. Pa. 2021)
+#### 561 F.Supp.3d 490 (E.D. Pa. Sept. 21, 2021)
+
+##### PADOVA, District Judge.
+
+Plaintiffs, student athletes at five of the Defendant colleges and universities, contend that student athletes who engage in NCAA Division 1 ("D1") interscholastic athletic activity for their colleges and universities are employees who should be paid for the time they spend related to those athletic activities. Plaintiffs, Ralph "Trey" Johnson, Stephanie Kerkeles, Nicholas Labella, Claudia Ruiz, Jacob Willebeek-Lemair, and Alexa Cooke, assert claims on behalf of themselves, a Fair Labor Standards Act ("FLSA") collective, and three state classes against the colleges and universities they attend (or attended) (the "Attended Schools Defendants" or "ASD"), the National Collegiate Athletic Association ("NCAA"), twenty additional named D1 universities (the "Non Attended School Defendants" or "NASD"), and a putative Defendant class made up of 125 NCAA D1 colleges and universities. The First Amended Complaint ("Complaint") asserts claims for violations of the FLSA; the Pennsylvania Minimum Wage Act (the "PMWA"); the New York Labor Law ("NYLL"); and the Connecticut Minimum Wage Act ("CMWA"). The Complaint also asserts three common law unjust enrichment claims. The NCAA and NASD (together the "Moving Defendants") have moved to dismiss the Complaint pursuant to Federal Rule of Civil Procedure 12(b)(1) on the ground that Plaintiffs lack standing to sue them under Article III because they are not joint employers of Plaintiffs. For the reasons that follow, the Motion is granted in part and denied in part.
+
+##### I. Factual Background
+
+The Complaint alleges the following facts. The NCAA is an association that regulates intercollegiate sports and has jurisdiction over approximately 1,100 schools and nearly 500,000 student athletes. The NCAA has entered into multi-year, multi-billion-dollar contracts with broadcasters ESPN, CBS, and Turner Sports to show athletic competitions between NCAA D1 member schools, and it distributes shares of those broadcasting fees to its member schools. In addition to shares of those broadcasting fees, NCAA D1 member schools also receive fees from multi-year, multi-million-dollar agreements with television and radio networks that they have entered into, either individually or as part of an NCAA conference, to broadcast athletic competitions between NCAA D1 member schools.
+
+The named Plaintiffs in this case are or were student athletes at Villanova University, Fordham University, Sacred Heart University, Cornell University, and Lafayette College. The NASD are: Bucknell University, Drexel University, Duquesne University, Fairleigh Dickinson University, La Salle University, Lehigh University, Monmouth University, Princeton University, Rider University, Robert Morris University, Seton Hall University, Saint Francis University, Saint Joseph's University, Saint Peter's University, the University of Delaware, Pennsylvania State University, the University of Pennsylvania, the University of Pittsburgh, Rutgers State University of New Jersey, and Temple University. According to the Complaint, all of the Defendants jointly employed Plaintiffs and similarly situated persons. 
+
+Student athletes do not have the option to play NCAA sports for wages at any NCAA D1 school. All member schools in the NCAA have agreed not to pay students to participate in intercollegiate varsity sports. The NCAA's Bylaws prohibit schools from offering wages and prohibit student athletes from accepting wages. (Id. (citations omitted).) A student athlete who participates in NCAA sports can only receive payment based on athletic performance in limited circumstances connected with competing in the Olympics. 
+
+NCAA D1 member schools require student athletes to participate in Countable Athletically Related Activities ("CARA"), which are recorded on timesheets under an NCAA D1 Bylaw. NCAA Bylaws also require student athletes to participate in Required Athletically Related Activities like recruiting, fundraising and community service. A student athlete who fails to attend meetings, participate in practices, or participate in scheduled competitions can be disciplined, including suspension or dismissal from the team. Student athletes have reported spending more than 30 hours per week on athletically related activities, both CARA and non-CARA, and football players who attend schools in the NCAA football bowl and championship subdivisions report spending more than 40 hours per week on these activities. 
+
+The NCAA D1 member schools exercise significant control over their student athletes. The NCAA Bylaws apply to all student athletes who participate in NCAA sports and they address "recruitment, eligibility, hours of participation, duration of eligibility and discipline." Student athletes who participate in NCAA sports are supervised by coaching and training staff. NCAA D1 member schools are required to have adult supervisors maintain timesheets for participants. NCAA D1 member schools impose discipline on student athletes, including suspension and dismissal from a team, in instances of specified misconduct. They also have handbooks that contain standards for controlling student athletes' performance and conduct both on and off the field. These handbooks contain rules regarding agents, prohibiting certain categories of legal gambling, and restricting social media use, including restrictions on making derogatory comments about other teams. NCAA D1 member schools also have NCAA team policies that restrict the legal consumption of alcohol and legal use of nicotine products by student athletes. 
+
+Based upon these factual allegations, the Complaint asserts that Plaintiffs are the employees of Defendants, including the NCAA and NASD, and it asserts eight claims for relief, seeking payment of wages for the time Plaintiffs spent engaged in activities connected to NCAA sports. Count I asserts claims pursuant to the FLSA on behalf of Plaintiffs and the proposed FLSA collective against all Defendants and the proposed Defendant class for failure to pay them minimum wages as employees. Plaintiffs and the members of the proposed FLSA Collective seek unpaid minimum wages, an equal amount as liquidated damages, attorneys' fees, and costs in connection with Count I. [ ... ] 
+
+The Attended Schools Defendants brought a Motion to Dismiss the Complaint as against them on the ground that it did not plausibly allege that they employed Plaintiffs, a requirement for liability under the FLSA. We denied that Motion on August 25, 2021, concluding that the Complaint plausibly alleges that Plaintiffs are employees of the ASD for purposes of the FLSA. The NCAA and the Non-Attended Schools Defendants have moved to dismiss all claims against them for lack of Article III standing on the ground that the Complaint does not plausibly allege that they are also employers of Plaintiffs, specifically that the Complaint does not plausibly allege that they are joint employers of Plaintiffs with the ASD.
+
+##### III. Discussion
+
+In Count I of the Complaint, Plaintiffs seek the payment of minimum wages from Defendants, including the NCAA and the NASD, for the hours they spent in connection with NCAA D1 intercollegiate athletics pursuant to Section 206 of the FLSA. "The minimum wage ... provision[] at issue ... require[s] that Plaintiffs prove that they are 'employees.'" The Moving Defendants argue in their Motion to Dismiss that Plaintiffs have failed to meet their burden of establishing "'the irreducible constitutional minimum' of Article III standing" because they are not employees of the Moving Defendants. To establish standing under Article 3, the Plaintiffs must establish the following three elements:
+
+> First, the plaintiff must have suffered an injury in fact—an invasion of a legally protected interest which is (a) concrete and particularized and (b) actual or imminent, not conjectural or hypothetical. Second, there must be a causal connection between the injury and the conduct complained of—the injury has to be fairly traceable to the challenged action of the defendant, and not the result of the independent action of some third party not before the court. Third, it must be likely, as opposed to merely speculative, that the injury will be redressed by a favorable decision.
+
+The Moving Defendants argue that any injury suffered by Plaintiffs is not "fairly traceable" to them because they are not Plaintiffs' employers. 
+
+The FLSA defines the term "employee" as "any individual employed by an employer." 29 U.S.C. § 203(e)(1). The Third Circuit has noted that "[t]his statutory definition is 'necessarily broad to effectuate the remedial purposes of the Act.'" Two different entities can be joint employers of the same individual if they both have significant control over that employee:
+
+> where two or more employers exert significant control over the same employees— [whether] from the evidence it can be shown that they share or co-determine those matters governing essential terms and conditions of employment— they constitute "joint employers" under the FLSA. This is consistent with the FLSA regulations regarding joint employment, which state that a joint employment relationship will generally be considered to exist [w]here the employers are not completely disassociated with respect to the employment of a particular employee and may be deemed to share control of the employee, directly or indirectly, by reason of the fact that one employer controls, is controlled by, or is under common control with another employer. Ultimate control is not necessarily required to find an employer-employee relationship under the FLSA, and even "indirect" control may be sufficient. In other words, the alleged employer must exercise "significant control."
+
+Thus, we can grant the Moving Defendants' Motion to Dismiss for lack of subject matter jurisdiction only if the Complaint does not plausibly allege that the Moving Defendants are Plaintiffs' joint employers.
+
+###### A. The NCAA as a Regulatory Body
+
+The Moving Defendants argue that the NCAA cannot be a joint employer of Plaintiffs because it merely regulates Plaintiffs' participation in intercollegiate athletics. The Moving Defendants rely on Dawson v. National Collegiate Athletic Association, 932 F.3d 905 (9th Cir. 2019), in which the United States Court of Appeals for the Ninth Circuit affirmed a lower court decision holding that college student athletes who play football for schools in the NCAA D1 Football Bowl Subdivision are not employees of the NCAA and the PAC-12 Conference for purposes of the FLSA and California labor law. In Dawson, the Ninth Circuit considered three factors: (1) whether the plaintiff expected to be paid by the NCAA or the PAC-12 Conference, (2) whether the NCAA and the PAC-12 Conference had the power to hire or fire the plaintiff; and (3) whether there was "evidence that an arrangement was conceived or carried out to evade the law." The Dawson court found that the plaintiff had no expectation of a scholarship or other compensation from the NCAA or the PAC-12 Conference and that "there [was] no evidence ... that the NCAA rules were 'conceived or carried out' to evade the law." Id. at 909-10. The Dawson court also determined that the complaint in that case alleged that the NCAA functioned solely as a regulator and not as an employer because, while the complaint alleged that "[t]he NCAA Bylaws pervasively regulate college athletics," it did not allege that the NCAA hired or fired "or exercise[d] any other analogous control, over student-athletes," or that the NCAA "cho[se] the players on any Division I football team," or "engage[d] in the actual supervision of the players' performance." Rather, the complaint merely alleged that "the NCAA functions as a regulator, and that the NCAA member schools, for whom the student-athletes allegedly render services, enforce regulations." Id. While the Moving Defendants urge us to simply adopt and apply Dawson's analysis and conclusion in the instant case, the complaint in Dawson is not identical to the Complaint in this case and, accordingly, we must engage in our own independent analysis of the instant Complaint.
+
+The Moving Defendants also rely on Callahan v. City of Chicago, 813 F.3d 658 (7th Cir. 2016). The plaintiff in Callahan was a taxi driver who brought FLSA claims against the City of Chicago, under the theory "that the City's regulations are so extensive that Chicago must be treated as her employer." Noting that the FLSA "says that 'employ' includes 'suffer or permit to work,'" the plaintiff argued that because "[t]he City of Chicago permitted her to drive a cab[, it] thus became her employer." The Seventh Circuit rejected this argument as follows:
+
+> The contention that the government permits to work, and thus employs, everyone it does not _forbid_ to work has nothing to recommend it. The theory would produce multiple employers for every worker—for the United States, the State of Illinois, Cook County, and other governmental bodies permit taxi drivers to work in the same sense as Chicago does. The Occupational Safety and Health Administration and the National Highway Traffic Safety Administration have not adopted safety rules so onerous that the taxi business must shut down. Yet the goal of the Fair Labor Standards Act is to regulate employers, not the many governmental bodies that permit employers to operate.
+
+However, as the Moving Defendants recognize, the NCAA, unlike the City of Chicago, is not a governmental entity. Moreover, Callahan, as a Seventh Circuit case, is not controlling authority in this district and, in any event, concerns a different set of factual allegations than are at issue in the instant case. Accordingly, instead of relying on either Dawson or Callahan, we will analyze the Complaint using the factors developed by the Third Circuit to determine whether an entity is a joint employer.
+
+###### B. The Joint Employer Test
+
+The Moving Defendants argue that the Complaint fails to plausibly allege that the NCAA and the NASD are joint employers of Plaintiffs under the four-factor test originally developed by the Ninth Circuit in Bonnette v. California Health and Welfare Agency, 704 F.2d 1465 (9th Cir. 1983), and subsequently adopted in part by the Third Circuit in In re Enterprise Rent-A-Car, 683 F.3d 462 (3d Cir. 2012). The Third Circuit announced in Enterprise Rent-A-Car that courts should use the following four factors, referred to as the Enterprise test, when determining whether two entities are joint employers of the same individual or individuals:
+
+> 1) the alleged employer's authority to hire and fire the relevant employees; 2) the alleged employer's authority to promulgate work rules and assignments and to set the employees' conditions of employment: compensation, benefits, and work schedules, including the rate and method of payment; 3) the alleged employer's involvement in day-to-day employee supervision, including employee discipline; and 4) the alleged employer's actual control of employee records, such as payroll, insurance, or taxes.
+
+We thus review the factual allegations in the Complaint to determine whether they satisfy these factors with respect to both the NCAA and the NASD.
+
+###### 1. The NCAA's and NASD's authority to hire and fire Plaintiffs
+
+The Complaint alleges the following facts with respect to the NCAA's ability to "hire and fire" Plaintiffs. The NCAA's Bylaws restrict the means by which NCAA D1 member schools may recruit prospective athletes, including limiting face to face encounters with student athletes and their family members; limiting off-campus activities intended to assess the academic and athletic qualifications of a prospective student-athlete; limiting the number of telephone calls that can be made to a prospective student athlete during a defined period of time; and limiting contacts with student athletes to specified periods of time. NCAA Bylaws also prohibit D1 member schools from offering certain inducements to recruit student athletes. NCAA Bylaws limit the total number and value of the athletic scholarships that D1 member schools can offer to student athletes. NCAA Bylaws also make D1 member schools responsible for certifying the eligibility of student athletes before they can allow the student athletes to represent the school in intercollegiate competitions. Failure to comply with these Bylaws constitutes a Level III violation, for which NCAA Enforcement Staff could seek the following penalties: precluding recruitment of the student athlete and prohibiting the student-athlete from competing for the school until his or her eligibility is restored. Multiple violations could result in stronger penalties. In addition, the NCAA Bylaws require member schools to suspend or fire student athletes who are determined to be ineligible to play by NCAA Enforcement Staff. The Complaint thus alleges that the NCAA does more than just impose rules regarding the recruitment of intercollegiate athletes; it also investigates violations of those rules and imposes penalties, including the firing of student athletes, for those violations. We thus conclude that the Complaint plausibly alleges that the NCAA exercises significant control over the hiring and firing of student athletes, including Plaintiffs, such that the Complaint satisfies the first factor of the Enterprise test with respect to the NCAA.
+
+The Complaint alleges the following facts with respect to the NASD's ability to "hire and fire" Plaintiffs. NCAA D1 member schools have representatives on committees that decide what rules to adopt; the "NCAA rules apply to all Student Athletes in NCAA sports on an equal basis[;] and ... these bylaws address, among other subjects, Student Athlete recruitment, eligibility, hours of participation, duration of eligibility and discipline." We conclude that these allegations are not sufficient to plausibly allege that the NASD exercise significant control over the hiring and firing of student athletes, including Plaintiffs. We therefore conclude that the factual allegations of the Complaint fail to satisfy the first factor of the Enterprise test with respect to the NASD.
+
+###### 2. The NCAA's and NASD's authority to promulgate work rules and set Plaintiffs' compensation, benefits, and work schedules
+
+The Complaint alleges the following facts with respect to the NCAA's "authority to promulgate work rules and assignments and to set [Plaintiffs'] conditions of employment: compensation, benefits, and work schedules, including the rate and method of payment." The NCAA Bylaws govern amateurism, eligibility, awards, benefits, expenses, and each sport's playing and practice seasons. NCAA D1 Bylaw 12 prohibits D1 member schools from paying student athletes. NCAA D1 Bylaw 16 governs permissible benefits and non-permissible benefits for student athletes, as well as mandatory benefits for the athletes. NCAA D1 Bylaw 17 lists "Required Athletically Related Activities" that student athletes must participate in, limits the number hours that student athletes may be required to participate in CARA, and requires that CARA hours be recorded by school staff. NCAA D1 Bylaw 12 limits the number of seasons a student athlete may compete for a school in a specific sport and limits the time frame in which those seasons may occur. A school's failure to comply with these rules can constitute a Level II or III violation. The NCAA D1 Bylaws make payment to a student athlete by a coach or other school representative a Severe Breach of Conduct and a Level I violation. The Complaint thus alleges that the NCAA, through its Bylaws, issues work rules that apply to Plaintiffs and imposes conditions not only on the payment of compensation and other benefits to Plaintiffs but also on how much time Plaintiffs may spend in connection with NCAA intercollegiate athletic activities. We thus conclude that the Complaint plausibly alleges that the NCAA has the "authority to promulgate work rules and assignments and to set [Plaintiffs'] conditions of employment," such that the Complaint satisfies the second factor of the Enterprise test with respect to the NCAA. 
+
+The Complaint alleges the following facts with respect to the NASD's "authority to promulgate work rules and assignments and to set [Plaintiffs'] conditions of employment: compensation, benefits, and work schedules, including the rate and method of payment." The Complaint alleges that the NCAA D1 council has 40 members, including one from each conference, and the Board of Directors has 24 members, made up of one member from each Football Bowl Subdivision conference and 10 seats that rotate among the remaining conferences. Each active D1 member has voting privileges in the NCAA. The Complaint also alleges that "All schools in ... the NCAA ... have mutually agreed not to offer wages for participation in intercollegiate Varsity sports, and they have adopted bylaws prohibiting schools from offering wages and Student Athletes from accepting wages." All schools in the NCAA have also adopted bylaws with sanctions for infractions of the rules prohibiting schools from paying student athletes. The NCAA Enforcement Staff investigates potential NCAA violations and brings charges. The NCAA D1 Committee on Infractions decides cases brought by the Enforcement Staff. The NCAA D1 Committee on Infractions is composed of as many as 24 representatives from members schools, conferences, and the public. The D1 Infractions Appeal Committee is composed of five representatives from member schools, conferences, and the public. NCAA member schools have "'Shared Responsibility'" to report possible violations regarding student athletes and to cooperate in the investigation of student athletes. Failure to cooperate in an NCAA enforcement investigation is a "Severe Breach of Conduct" that can result in post-season bans, financial penalties, scholarship reductions, recruiting restrictions, and head coach restrictions. While the Complaint alleges that some colleges and universities have representatives on NCAA committees that create rules with respect to student athletes, and impose discipline on student athletes, the Complaint does not allege that any of the NASD have representatives that sit on any of these committees. We conclude that these allegations, which pertain solely to the agreement of the NCAA member schools not to pay wages to student athletes, those schools' obligations with respect to the enforcement of that agreement, and the possibility that a school could be involved in investigating and imposing discipline with respect to the violation of that agreement and other infractions of the D1 Bylaws, are not sufficient to plausibly allege that the NASD themselves promulgate work rules and assignments and/or set the conditions of participation for student athletes in NCAA intercollegiate athletics. We therefore conclude that the Complaint fails to satisfy the second factor of the Enterprise test with respect to the NASD.
+
+###### 3. The NCAA's and NASD's involvement in the day-to-day supervision of Plaintiffs
+
+The Complaint alleges the following facts regarding the NCAA's involvement in the day-to-day supervision, including discipline, of student athletes who participate in NCAA sports. The NCAA Bylaws control the ability of the D1 member schools to discipline their student athletes as follows:
+
+> (i) [by] restrict[ing] the grounds for a school to reduce or cancel an athletic scholarship during the period of its award to only disciplinary reasons;
+> 
+> (ii) [by] requir[ing] suspension or firing of a Student Athlete if s/he has violated any bylaw related to eligibility; and
+> 
+> (iii) [by] subject[ing] a school's "home team" Student Athletes to discipline meted out by NCAA Enforcement Staff and/or panels of the peer-review NCAA D1 Committees on Infractions and Infractions Appeals composed of representatives from competing schools.
+
+The NCAA, through its Bylaws, also prohibits NCAA D1 member schools from "reduc[ing] or cancel[ing] an athletic scholarship during the period of its award on the basis of the Student Athlete's athletic ability, performance or contribution to a team's success." If NCAA Enforcement Staff find that a student athlete is ineligible, the attended school is required to suspend or terminate that athlete. Viewing the allegations of the Complaint in the light most favorable to Plaintiffs, the Complaint alleges that the NCAA promulgates rules used in disciplining student athletes, has some involvement in the discipline of student athletes, can instigate investigations that result in discipline, and has some control over what discipline is issued to student athletes. We conclude, accordingly, that the Complaint plausibly alleges that the NCAA is involved in the day-to-day supervision, including discipline, of student athletes who participate in NCAA sports, including Plaintiffs. We further conclude that the factual allegations of the Complaint satisfy the third factor of the Enterprise test with respect to the NCAA.
+
+The Complaint alleges the following facts with respect to the NASD's involvement in the day-to-day supervision, including discipline, of student athletes who participate in NCAA sports. The NCAA D1 Committee on Infractions, which can impose discipline on student athletes, is made up of as many as 24 representatives from member schools, conferences, and the public. The D1 Infractions Appeal Committee is composed of five representatives from member schools, conferences, and the public. All of the D1 member schools have a "'Shared Responsibility' to report all potential violations regarding any Student Athlete." Failure to cooperate in an NCAA enforcement investigation is a Level I Violation which could result in postseason bans, financial penalties, scholarship reductions, head coach restrictions, and recruiting restrictions. However, the Complaint does not allege that representatives of any of the NASD are members of the Committee on Infractions or of the Infractions Appeal Committee. We conclude that these allegations, which pertain to the participation of some NCAA D1 member schools in the NCAA D1 Committee on Infractions and the D1 Infractions Appeal Committee, and the obligation of D1 member schools to cooperate in NCAA enforcement investigations, are not sufficient to plausibly allege that the NASD are involved in the day-to-day supervision, including discipline, of student athletes, including Plaintiffs, who participate in NCAA sports. We thus conclude that the factual allegations of the Complaint fail to satisfy the third factor of the Enterprise test with respect to the NASD.
+
+###### 4. The NCAA's and NASD's control of Plaintiffs' records
+
+The Complaint alleges the following facts regarding the NCAA's control of the records of student athletes who participate in NCAA sports. "The NCAA Eligibility Center maintains all records related to the initial determination of Student Athlete eligibility," and D1 member schools are required to provide the Eligibility Center with additional information if they "have cause to believe that a prospective student-athlete's amateur status has been jeopardized" and to report any discrepancies to the Eligibility Center. The NCAA also receives and maintains records regarding student athletes' injuries, illnesses and medical treatment in connection with their training for and participation in NCAA sports. D1 member schools are also required to make each student athlete's statement, drug testing consent form, and squad list available to the NCAA. D1 member schools are also required to produce student athletes' records to the NCAA upon request in connection with investigations conducted by the NCAA Enforcement Staff or the NCAA Committee on Infractions. We conclude, accordingly, that the Complaint plausibly alleges that the NCAA controls records of student athletes involved in NCAA sports, including Plaintiffs, such that the factual allegations of the Complaint satisfy the fourth factor of the Enterprise test with respect to the NCAA.
+
+The Amended Complaint does not allege that the NASD individually maintain any records of student athletes that do not attend their schools. Moreover, Plaintiffs do not argue that the Complaint satisfies the fourth factor of the Enterprise test with respect to the NASD. We conclude, accordingly, that the Complaint fails to satisfy the fourth factor of the Enterprise test with respect to the NASD.
+
+As we have concluded that the facts alleged in the Complaint satisfy all four factors of the Enterprise test as to the NCAA, we further conclude that the Complaint plausibly alleges that the NCAA is a joint employer of Plaintiffs for purposes of the FLSA and, accordingly, that Plaintiffs have standing to sue the NCAA. Therefore, we deny the Motion to Dismiss as to the NCAA.
+
+In contrast, we have concluded that the facts alleged in the Complaint do not satisfy any of the four factors of the Enterprise test as to the NASD. Accordingly, application of that test does not support a conclusion that the NASD are joint employers of Plaintiffs. Plaintiffs also argue, however, that the Complaint plausibly alleges that the NASD are joint employers of Plaintiffs under a "Sports League Joint Employment" theory that was developed and applied by the United States Court of Appeals for the Fifth Circuit in North American Soccer League v. NLRB, 613 F.2d 1379 (5th Cir. 1980). We will therefore consider whether the NASD can be considered joint employers under this alternative theory.
+
+##### C. The Sports League Joint Employment Theory
+
+In North American Soccer League, the Fifth Circuit examined whether the North American Soccer League (the "League") and all of its member clubs were joint employers of all of the soccer players who played for clubs in the League in order to determine the "correct collective bargaining unit for the players in the ... League." The National Labor Relations Board ("NLRB") had concluded that the League and its member clubs were joint employers of the players and the Fifth Circuit determined that the record contained sufficient evidence to support that conclusion. The Fifth Circuit began its analysis with the proposition that "[t]he existence of a joint employer relationship depends on the control which one employer exercises, or potentially exercises, over the labor relations policy of the other." The Fifth Circuit based its determination that the NLRB had properly deemed the League and the clubs to be joint employers on the following facts: (1) the League exercised "a significant degree of control over essential aspects of the clubs' labor relations, including but not limited to the selection, retention, and termination of the players, the terms of individual player contracts, dispute resolution and player discipline[;]" (2) "each club granted the [League] authority over not only its own labor relations but also, on its behalf, authority over the labor relations of the other member clubs[;]" (3) the clubs' activities were governed by the League's constitution and regulations, the commissioner was selected and compensated by the clubs, and the League's board of directors was made up of one representative of each club; (4) the League's regulations governed interclub trades and allowed the commissioner "to void trades not deemed to be in the best interest of the League;" (5) the League's regulations governed the termination of player contracts; (6) all player contracts were submitted to the League and the commissioner could "disapprove a contract deemed not in the best interest of the League;" (7) "[d]isputes between a club and a player [were required to] be submitted to the commissioner for final and binding arbitration[;]" and (8) "[c]ontrol over player discipline [was] divided between the League and the clubs." 
+
+Plaintiffs argue that the Complaint alleges that the NCAA and its member schools operate sufficiently similarly to the League and its member clubs that it plausibly alleges that the NASD are joint employers of Plaintiffs. They argue that the Complaint alleges that NCAA D1 member schools grant enforcement authority to the NCAA over a wide range of subjects that directly impact student athletes' working conditions and that active D1 member schools have voting privileges to make the NCAA's rules. Plaintiffs also assert that the NCAA's Bylaws address "recruitment, eligibility, hours of participation, duration of eligibility and discipline." Plaintiffs also rely on the allegations that as many as 24 NCAA D1 member schools may have representatives on the D1 Committee on Infractions and that five D1 member schools may have representatives on the D1 Infractions Appeal Committee (along with members of the public and representatives from conferences).
+
+The district court rejected a similar argument in Livers v. National Collegiate Athletic Association, (E.D. Pa. May 17, 2018). The plaintiff in Livers contended that the NCAA, Villanova University (for which he played football), "and dozens of other NCAA member schools, violated his right to be paid as an employee of the Defendants, acting jointly, for his participation on the Villanova football team as a Scholarship Athlete." The Livers court granted a motion to dismiss brought by the NCAA member schools that were not attended by the Plaintiff. While the complaint in Livers, like the Complaint in the instant proceeding, alleged that the NCAA member schools had agreed to impose restrictions on student athlete recruitment, eligibility, compensation, and the number of hours that student athletes could spend in connection with NCAA intercollegiate athletics, and to subject student athletes to discipline by the NCAA Committee on Infractions, the Livers court concluded that the complaint in that case did not plausibly allege that the NCAA member schools that Livers did not attend were his joint employers under either the Enterprise test or North American Soccer League. After first noting that the Fifth's Circuit's decision in North American Soccer League is not controlling in the Eastern District of Pennsylvania, the Livers court rejected the plaintiff's argument that North American Soccer League demanded a conclusion that the NCAA member schools that he did not attend were his joint employers, observing that North American Soccer League was not an FLSA case, did not involve student athletes, and, most importantly, involved facts that "demonstrated a more significant management role for each individual soccer team in the management of the League as a whole, by virtue of their membership in the League, than Plaintiff alleges with respect to NCAA member schools." 
+
+We conclude that the same is true in the case before us. In North American Soccer League, the commissioner was selected and compensated by the clubs, and the League's board of directors was made up of one representative of each club. In contrast, the Complaint in this case does not allege that the president of the NCAA is selected by and paid by the member schools, that any of the NASD are members of the NCAA D1 Committee on Infractions or the D1 Infractions Appeal Committee, or that any of the NASD are involved in day-to-day decision making in the NCAA D1. We conclude, accordingly, that the Complaint does not plausibly allege that the NASD are joint employers of Plaintiffs under the "Sports League Joint Employment Theory" described in North American Soccer League. Based on this conclusion and our prior analysis under the Enterprise test, we further conclude that the Complaint does not plausibly allege that the NASD are joint employers of Plaintiffs and, accordingly, that Plaintiffs lack standing to sue the NASD for violations of the FLSA. We thus grant the instant Motion to Dismiss as to Plaintiffs' FLSA claim in Count I of the Complaint as against the NASD.
+
+##### IV. CONCLUSION
+
+For the foregoing reasons, we deny the Motion to Dismiss as to the NCAA and grant the Motion to Dismiss as to the NASD.
 
 
 ### Joint Employer Status Under the National Labor Relations Act
@@ -700,8 +786,6 @@ The below material facts are drawn from the Parties' briefing and are undisputed
 
 7\. At some point after Mr. Pham submitted to a background check, Aeva decided not to hire Mr. Pham.
 
-[ *** ]
-
 ##### Analysis
 
 The Fair Credit Reporting Act was enacted "to require that consumer reporting agencies adopt reasonable procedures for meeting the needs of commerce for consumer credit in a manner which is fair and equitable to the consumer, with regard to the confidentiality, accuracy, relevancy, and proper utilization of such information." 15 U.S.C. § 1681(b). The FCRA "enables consumers to protect their reputations, and to protect themselves against the dissemination of false or misleading credit information." "The FCRA places distinct obligations on three types of entities: (1) consumer reporting agencies; (2) users of consumer reports; and (3) furnishers of information." 
@@ -744,8 +828,6 @@ Aeva asserts in its Reply that Aeva's policies, or lack thereof, "have no relati
 
 In sum, Mr. Pham has established genuine disputes of material fact concerning (1) whether Aeva rescinded his conditional offer of employment due to the background check results; (2) whether Mr. Pham was actually damaged by Aeva's actions; and (3) whether Aeva acted willfully or recklessly. Summary judgment is thus not appropriate at this juncture, and Defendant's Motion will be denied.
 
-[ *** ]
-
 ### Franklin v. Vertex Global Solutions, Inc. 
 
 #### No. 20 Civ. 10495 (KPF) (S.D.N.Y. Feb. 9, 2022)
@@ -776,13 +858,9 @@ Plaintiff alleges that his employment application was for a job with both Vertex
 
 As further evidence of the symbiotic relationship between Defendants, Plaintiff contends that Vertex touts that it offers customized services tailored to the specific requirements of individual employers like Fresh Direct. According to its website, Vertex advertises to prospective employer-clients that it "strive[s] to understand your business, culture, and needs, to ensure we deliver candidates that fit your unique requirements." Vertex describes the value it adds to its clients' hiring process by characterizing itself as "a partner and an extension of your Human Resources Department." Notably, Vertex regularly conducted interviews for prospective Fresh Direct employees on-site at a Fresh Direct facility, as evidenced by an online job posting and Plaintiff's personal experience.
 
-[ *** ]
-
 ##### Discussion
 
 ###### A. Applicable Law
-
-[ *** ]
 
 ###### 2. New York City's Fair Chance Act[^Franklin5]
 
@@ -923,8 +1001,6 @@ The mere fact that a psychologist did not interpret the MMPI is not, however, di
 
 Dr. Koransky claims, for example, that the Pa scale "does not diagnose or detect any psychological disorders," but that "an elevated score on the Pa scale is one of several symptoms which may contribute" to a diagnosis of paranoid personality disorder. We accept Dr. Koransky's contention that a high score on the Pa scale does not necessarily mean that the person has paranoid personality disorder. But it also seems likely that a person who does, in fact, have paranoid personality disorder, and is therefore protected under the ADA, would register a high score on the Pa scale. And that high score could end up costing the applicant any chance of a promotion. Because it is designed, at least in part, to reveal mental illness and has the effect of hurting the employment prospects of one with a mental disability, we think the MMPI is best categorized as a medical examination. And even though the MMPI was only a part (albeit a significant part) of a battery of tests administered to employees looking to advance, its use, we conclude, violated the ADA.
 
-[ *** ]
-
 [^Karraker1]: (n. 1 in opinion) Applicants were asked whether the following statements were true or false:
 
 	> "I see things or animals or people around me that others do not see."
@@ -947,8 +1023,6 @@ Dr. Koransky claims, for example, that the Pa scale "does not diagnose or detect
 #### 873 S.E.2d 567 (N.C. 2022)
 
 ##### BARRINGER, Justice.
-
-[ *** ]
 
 Employers are in no way general insurers of acts committed by their employees, but as recognized by our precedent, an employer may owe a duty of care to a victim of an employee's intentional tort when there is a nexus between the employment relationship and the injury. Here, when the evidence is viewed in the light most favorable to the plaintiffs, plaintiffs, who are an elderly infirm couple that contracted with a company to provide them a personal care aide in their home, have shown a nexus between their injury and the employment relationship. The employee was inadequately screened and supervised, being placed in a position of opportunity to commit crimes against vulnerable plaintiffs after her employer suspected her of stealing from plaintiffs. Therefore, we conclude that the Court of Appeals erred by reversing the judgment in favor of plaintiffs and by remanding for entry of a judgment notwithstanding the verdict in favor of defendant. Further, the Court of Appeals misinterpreted North Carolina precedent, and thus erred by holding the trial court erred by denying defendant's requested instructions.
 
@@ -992,13 +1066,10 @@ Further, the dissent argued that when viewed in the light most favorable to the 
 
 The dissent asserted its view that the majority misread _Little_, and analyzed how the evidence when viewed in the light most favorable to the Keiths, as the non-moving party, is sufficient for each element, rendering denial of the motions for directed verdict and judgment notwithstanding the verdict proper.
 
-[ *** ]
 
 The dissent acknowledged that reasonable minds may reach different conclusions concerning Health-Pro's liability for the criminal conduct of Clark in this case, but that decision was for the jury, and the jury has spoken in this case in favor of liability.
 
 The Keiths appealed based on the dissent [ ... ]. 
-
-[ *** ]
 
 ##### III. Analysis
 
@@ -1037,8 +1108,6 @@ The Court of Appeals did not state that it adopted these factors. It further did
 Thus, the Court of Appeals in this case erred by reading _Little_ to have "identified three specific elements that must be proven," and by declining "to hold employers liable for the acts of their employees under the doctrine of negligent hiring or retention when any one of these three factors was not proven." 
 
 The Court of Appeals further erred by holding that the trial court erred by denying Health-Pro's motions for directed verdict and judgment notwithstanding the verdict. The Court of Appeals agreed with defendant that the Keiths' were obligated to prosecute their claim as one for negligent hiring because the Keiths' allegations and facts of this case constituted a claim for negligent hiring. However, this conclusion and the analysis supporting it failed to properly apply the standard of review for Rule 50 motions, the matter before the Court of Appeals.
-
-[ *** ]
 
 Even when addressing an argument by Health-Pro that the negligence claim in this case is in fact a negligent hiring claim, a Rule 50 motion turns on the sufficiency of the evidence at the trial. Thus, we analyze the evidence at trial to assess whether there is support for each element of the nonmoving party's cause of action.
 
@@ -1118,8 +1187,6 @@ In this matter, Health-Pro acknowledged that it must discipline employees when H
 
 Thus, in this case, the jury, not the court, must decide the outcome of the Keiths' claim. The Court of Appeals in this matter erred by not considering the evidence in the light most favorable to the Keiths, just as Health-Pro's arguments urge us to do. Health-Pro contends that Clark's actions bore no relationship to her employment and no action or inaction by Health-Pro proximately caused the Keiths' injuries because "[a]ny information Clark learned about [the Keith]s' home on the job could have been ascertained just as easily by others watching the home from the street." The jury could have agreed with Health-Pro and weighed the evidence in its favor but given the testimony and evidence before the trial court supporting a contrary interpretation of the facts, this argument cannot justify judgment in Health-Pro's favor as a matter of law. We must view all of the evidence which supports the Keith's claim as true and consider the evidence in the light most favorable to the Keiths, giving them the benefit of every reasonable inference that may legitimately be drawn therefrom and resolving contradictions, conflicts, and inconsistencies in their favor. Therefore, we conclude that the Court of Appeals erred by reversing the trial court and remanding for entry of judgment in favor of Health-Pro.
 
-[ *** ]
-
 ##### IV. Conclusion
 
 We agree with the Court of Appeals that plaintiffs' negligence claim was dependent on a theory of negligent hiring, which is commonly plead as a negligent hiring claim. However, the evidence, taken in the light most favorable to plaintiffs, was sufficient as a matter of law to be presented to the jury. There was evidence to support each element of the claim, the _Medlin_ elements, and the _Little_ nexus requirement. Therefore, the Court of Appeals erred by reversing the judgment in favor of plaintiffs and by remanding to the trial court for entry of an order granting defendant's motion for judgment notwithstanding the verdict. Further, the Court of Appeals misinterpreted precedent from _Little,_ and under a proper reading of that case and other precedent, the jury instruction requested by defendant was not an accurate statement of the law. Therefore, the Court of Appeals also erred by holding that the trial court erred by denying defendant's requested instruction. Accordingly, we reverse the Court of Appeals' decision.
@@ -1149,8 +1216,6 @@ The case was tried solely on a theory of defamation per se. At the close of Plai
 ##### II. ANALYSIS
 
 Charter renews its Rule 50 motion for judgment as a matter of law on the issue of whether the term "Printer-gate" can constitute defamation per se. It further argues that it is entitled to a new trial on the grounds that it should have been allowed to present the defenses of truth and qualified privilege; that James Eversole's testimony was admitted in error; and that the jury was required to find malice by clear and convincing evidence in order to award punitive damages. 
-
-[ *** ]
 
 ###### A. Defamation Per Se
 
@@ -1186,15 +1251,11 @@ _Stringer,_ 151 S.W.3d at 794-95.
 
 In other words, certain types of statements—including false accusations of theft—are presumed to have damaged the plaintiffs' reputations, and thus no proof of injury resulting from such statements is required: they are "actionable per se." "All _other_ defamatory statements are merely libelous or slanderous per quod"; these require "affirmative proof of injury to [the plaintiffs'] reputations." Charter's contention that the per se/per quod determination turns on whether extrinsic proof is needed to interpret the statement as defamatory is thus misguided; it is instead "the proof necessary to demonstrate an injury to reputation" that "varies depending upon the characterization of the defamatory language" as defamation per se or per quod.
 
-[ *** ]
-
 Like the instant case, _Stringer_ involved terminated employees who alleged that they were later falsely painted as thieves by their former employer. One of the statements at issue was that "there was more to [the plaintiffs' firing] than" eating candy from open bags (known as "claims candy"). The _Stringer_ court concluded that this statement alone was enough to support the jury's finding of defamation per se.
 
 Clearly, the words "there was more to it than that" are not, on their face, defamatory. Nor was the statement an obvious reference to theft even if placed in context: an assistant manager, "when asked whether [the plaintiffs] had been terminated for eating candy from the claims area, responded [that] "'there was more to it than that" and that he couldn't talk about it.'" Indeed, as in this case, the context (with its reference to "claims candy" or "candy from the claims area") likely would not have been understood by a non-employee. Yet because another employee testified that she interpreted the statement "as an assertion that [the plaintiffs] had stolen items in addition to claims candy," it was sufficient to support a verdict in favor of the plaintiffs. Charter's contention that the jury could not properly consider the context in which "Printer-gate" was discussed is therefore unavailing.
 
 At bottom, the dispute over the characterization of "Printer-gate" is whether it is _actionable_ per se or per quod—i.e., whether Plaintiffs should have been required to prove damages. As explained in _Stringer,_ no proof of damages is required where the statement amounts to an accusation of theft, whether direct or indirect. Charter is thus not entitled to judgment as a matter of law on this ground.
-
-[ *** ]
 
 ###### B. Truth Defense
 
@@ -1217,8 +1278,6 @@ Charter next argues that it should have been permitted to assert the defense of 
 [The court held that "Charter waived the defense of qualified privilege by failing to assert it in a responsive pleading" and that the magistrate judge properly denied Charter's motion for leave to amend its answer to assert that defense.] 
 
 The Court recognizes that availability of the qualified-privilege defense could have drastically altered the outcome of this case. An inexplicable oversight or strategic error on Charter's part, however, does not justify altering the litigation schedule or depriving Plaintiffs of necessary discovery in disregard of Sixth Circuit law and the Federal Rules of Civil Procedure. Given Charter's failure to assert qualified privilege in its answer, a timely amended answer, or a motion to dismiss, it is reasonable to conclude that omission of the defense earlier in the case was intentional. Yet Charter now essentially asks the Court to allow it the benefit of hindsight—to benefit both from asserting the defense, and from not asserting it. Charter is not entitled to a new trial on this ground.
-
-[ *** ]
 
 ### Immunity from civil liability for employers disclosing information
 
@@ -1248,8 +1307,6 @@ The Court recognizes that availability of the qualified-privilege defense could 
 
 ##### Robert J. Conrad, Jr., United States District Judge
 
-[ *** ] 
-
 ##### I. BACKGROUND
 
 ###### A. Factual Background
@@ -1257,8 +1314,6 @@ The Court recognizes that availability of the qualified-privilege defense could 
 Plaintiff Josephine Arku filed this action against Defendant Wells Fargo Bank, National Association (“Wells Fargo”) seeking compensatory damages for allegedly informing Plaintiff’s prospective employers that she owed Wells Fargo an overpayment which caused her to lose several job opportunities. 
 
 Accepting the well-pleaded factual allegations of the Complaint as true, Plaintiff worked for Wells Fargo for more than twenty years when she needed to take paid leave from work. Thereafter, in February 2016, she was subject to a corporate layoff and received a severance package which included continuation of her salary for eleven months. Wells Fargo calculated the number of benefits that Plaintiff received. In August 2016, Plaintiff accepted short-term employment for five months through Wells Fargo and then started to apply for other job opportunities. Potential employers notified Plaintiff that Wells Fargo reported her as owing an overpayment to Wells Fargo. Once Plaintiff became aware of the overpayment, she contacted Wells Fargo and paid back the overpayment with the understanding that Wells Fargo would remove the overpayment information from her record. After receiving payment, Wells Fargo failed to remove the overpayment information from Plaintiff’s record, despite numerous requests to do so. Between 2018 and 2020, Plaintiff applied to employers and believes, due to the overpayment listing on her record, that she lost various job opportunities. Plaintiff alleges that Wells Fargo’s failure to correct the adverse employment information caused her to lose $135,000 in income and resulted in a $100,000 increase in interest payments regarding her home and vehicle loans. 
-
-[ *** ]
 
 ##### III. DISCUSSION
 
@@ -1280,8 +1335,6 @@ The statute appears incongruent with the facts of this case. The statute only pr
 Moreover, the facts do not show that Wells Fargo disclosed the overpayment information “upon request of the prospective employer.”  It appears that Wells Fargo reported this information to a Credit Bureau. There are no facts that Wells Fargo provided any information about Plaintiff directly to a prospective employer upon that prospective employer’s request as required under the statute.
 
 Regardless, even if the statute does apply to information about an employee’s failure to pay back an overpayment, it does not provide immunity when the information is false. Here, Plaintiff alleges that Wells Fargo failed to remove the overpayment information even after she repaid it, and that she lost potential employment because of this. Plaintiff thus alleges that she lost employment opportunities because of false information that Wells Fargo provided. This precludes civil immunity.
-
-[ *** ]
 
 ###### D. Negligent Misrepresentation
 
