@@ -25,21 +25,21 @@ Defendant filed an answer and raised as one of its defenses lack of subject matt
 
 The trial judge made the following findings of facts pertinent to this issue:
 
-> 3. Prior to the incident referred to in the complaint, Ken Schneiderman was employed as the manager of the defendant's place of business on Wendover Avenue in Greensboro, North Carolina. As manager, Schneiderman had the authority to hire and fire such employees as he deemed necessary to assist him in the operation of the business, and all wages paid to any of the employees which he hired were deducted from the commission which he received from the defendant.
+> 3\. Prior to the incident referred to in the complaint, Ken Schneiderman was employed as the manager of the defendant's place of business on Wendover Avenue in Greensboro, North Carolina. As manager, Schneiderman had the authority to hire and fire such employees as he deemed necessary to assist him in the operation of the business, and all wages paid to any of the employees which he hired were deducted from the commission which he received from the defendant.
 > 
-> 4. Ken Schneiderman employed the minor plaintiff, and paid him varying amounts to perform duties at the defendant's service station—convenience store, including putting up cigarettes, picking up trash, stocking bottles in the cooler, and other odd jobs from time to time while the minor's mother, Sylvia A. Tucker, worked as a cashier for the store.
+> 4\. Ken Schneiderman employed the minor plaintiff, and paid him varying amounts to perform duties at the defendant's service station—convenience store, including putting up cigarettes, picking up trash, stocking bottles in the cooler, and other odd jobs from time to time while the minor's mother, Sylvia A. Tucker, worked as a cashier for the store.
 > 
 > EXCEPTION NO. 1
 > 
-> 5. At the time the minor plaintiff was injured in the accident referred to in the complaint, the minor plaintiff had been performing chores of stocking cigarettes, picking up trash, and other work which was in the course of the trade or business of defendant A.T. Williams Oil Company.
+> 5\. At the time the minor plaintiff was injured in the accident referred to in the complaint, the minor plaintiff had been performing chores of stocking cigarettes, picking up trash, and other work which was in the course of the trade or business of defendant A.T. Williams Oil Company.
 > 
 > EXCEPTION NO. 2
 > 
-> 6. At the time of the incident described in the complaint, the minor plaintiff Jonathan Shane Tucker was a casual employee of defendant A.T. Williams Oil Company, and was performing duties within the course of the trade and business of A.T. Williams Oil Company in the operation of the gas station and convenience store on Wendover Avenue in Greensboro, North Carolina.
+> 6\. At the time of the incident described in the complaint, the minor plaintiff Jonathan Shane Tucker was a casual employee of defendant A.T. Williams Oil Company, and was performing duties within the course of the trade and business of A.T. Williams Oil Company in the operation of the gas station and convenience store on Wendover Avenue in Greensboro, North Carolina.
 > 
 > EXCEPTION NO. 3
 > 
-> 7. Defendant A.T. Williams Oil Company employs more than four persons, and is subject to the provisions of the North Carolina Workers Compensation Act.
+> 7\. Defendant A.T. Williams Oil Company employs more than four persons, and is subject to the provisions of the North Carolina Workers Compensation Act.
 
 Our review of the record shows that there is ample evidence to support each disputed finding.
 
@@ -158,7 +158,7 @@ The minimum wage and overtime wage provisions at issue all require that Plaintif
 
 The Third Circuit utilizes the test out-lined in _Donovan v. DialAmerica Marketing, Inc.,_ 757 F.2d 1376 (3d Cir. 1985), to determine employee status under the FLSA. This seminal case acknowledges that when Congress promulgated the FLSA, it intended it to have the "broadest definition of 'employee.'" In _DialAmerica,_ we used six factors—and indeed adopted the Ninth Circuit's test—to determine whether a worker is an employee under the FLSA:
 
-> 1) the degree of the alleged employer's right to control the manner in which the work is to be performed; 2) the alleged employee's opportunity for profit or loss depending upon his managerial skill; 3) the alleged employee's investment in equipment or materials required for his task, or his employment of helpers; 4) whether the service rendered required a special skill; 5) the degree of permanence of the working relationship; [and] 6) whether the service rendered is an integral part of the alleged employer's business.
+> 1\) the degree of the alleged employer's right to control the manner in which the work is to be performed; 2) the alleged employee's opportunity for profit or loss depending upon his managerial skill; 3) the alleged employee's investment in equipment or materials required for his task, or his employment of helpers; 4) whether the service rendered required a special skill; 5) the degree of permanence of the working relationship; [and] 6) whether the service rendered is an integral part of the alleged employer's business.
 
 Our decision in _DialAmerica_ is consistent with the Supreme Court's general guidance in _Rutherford Food Corp. v. McComb,_ 331 U.S. 722 (1947). In _Rutherford,_ the Supreme Court first determined "employee" status under the FLSA. And in _DialAmerica,_ we agreed with _Sureway Cleaners_ that "neither the presence nor absence of any particular factor is dispositive." Therefore, "courts should examine the circumstances of the whole activity," determining whether, "as a matter of economic reality, the individuals are dependent upon the business to which they render service." The burden lies with Plaintiffs to prove that they are employees. 
 
@@ -176,15 +176,15 @@ The District Court determined that only two factors militated in Plaintiffs' fav
 
 For summary judgment to have been appropriate, there must have been no genuine disputes as to any material facts on the record, entitling Uber to judgment as a matter of law. As such, if there is a genuine dispute of material fact, the question of which _DialAmerica_ factors favor employee status is a question of fact that should go to a fact-finder. Here, the ultimate question of law is whether Plaintiffs are employees or independent contractors, which is for a judge to decide. But, if a court finds that there are any issues of [material] fact that remain in [genuine] dispute, it must resolve those disputes prior to granting summary judgment. In _DialAmerica,_ the parties stipulated to some facts and reserved the right to present testimony on any remaining disputed issues. Then, the district court held an evidentiary hearing on the remaining disputed issues of fact:
 
-> (1) the extent to which home researchers and distributors were dependent on DialAmerica;
+> (1\) the extent to which home researchers and distributors were dependent on DialAmerica;
 > 
-> (2) the extent to which they had an opportunity for profit or loss;
+> (2\) the extent to which they had an opportunity for profit or loss;
 > 
-> (3) the extent to which they exercised initiative, business judgment, or foresight in their activities;
+> (3\) the extent to which they exercised initiative, business judgment, or foresight in their activities;
 > 
-> (4) the extent of any financial investment in conjunction with their work for DialAmerica; and
+> (4\) the extent of any financial investment in conjunction with their work for DialAmerica; and
 > 
-> (5) the extent to which the services provided by the home researchers and distributors were an integral part of DialAmerica's business.
+> (5\) the extent to which the services provided by the home researchers and distributors were an integral part of DialAmerica's business.
 
 These factual issues refer directly to the factors which determine whether someone is an employee or independent contractor. The district court resolved these disputes and granted DialAmerica's motion for summary judgment. We reviewed the district court's decision in _DialAmerica_ and determined that summary judgment was a mischaracterization, but the proper outcome, as all the factual disputes were resolved prior to adjudication on the merits.
 
@@ -262,19 +262,19 @@ The FLSA defines "employee" by tautology: an "individual employed by an employer
 
 Last year in Glatt, we recognized the "primary beneficiary" test as the way to distinguish employees from bona fide interns. To guide our "flexible" analysis, we provided seven non-exhaustive considerations specific to the context of unpaid internships:
 
-> 1. The extent to which the intern and the employer clearly understand that there is no expectation of compensation. Any promise of compensation, express or implied, suggests that the intern is an employee—and vice versa;
+> 1\. The extent to which the intern and the employer clearly understand that there is no expectation of compensation. Any promise of compensation, express or implied, suggests that the intern is an employee—and vice versa;
 > 
-> 2. The extent to which the internship provides training that would be similar to that which would be given in an educational environment, including the clinical and other hands-on training provided by educational institutions;
+> 2\. The extent to which the internship provides training that would be similar to that which would be given in an educational environment, including the clinical and other hands-on training provided by educational institutions;
 > 
-> 3. The extent to which the internship is tied to the intern's formal education program by integrated coursework or the receipt of academic credit;
+> 3\. The extent to which the internship is tied to the intern's formal education program by integrated coursework or the receipt of academic credit;
 > 
-> 4. The extent to which the internship accommodates the intern's academic commitments by corresponding to the academic calendar;
+> 4\. The extent to which the internship accommodates the intern's academic commitments by corresponding to the academic calendar;
 > 
-> 5. The extent to which the internship's duration is limited to the period in which the internship provides the intern with beneficial learning;
+> 5\. The extent to which the internship's duration is limited to the period in which the internship provides the intern with beneficial learning;
 > 
-> 6. The extent to which the intern's work complements, rather than displaces, the work of paid employees while providing significant educational benefits to the intern;
+> 6\. The extent to which the intern's work complements, rather than displaces, the work of paid employees while providing significant educational benefits to the intern;
 > 
-> 7. The extent to which the intern and the employer understand that the internship is conducted without entitlement to a paid job at the conclusion of the internship.
+> 7\. The extent to which the intern and the employer understand that the internship is conducted without entitlement to a paid job at the conclusion of the internship.
 
 The court applies these considerations by weighing and balancing the totality of the circumstances. "No one factor is dispositive and every factor need not point in the same direction for the court to conclude that the intern is not an employee."
 
@@ -471,19 +471,19 @@ Courts have, accordingly, developed multifactor tests to be used in determining,
 
 The ASD suggest in the alternative, that, of the three multifactor tests mentioned above, the Glatt test would be the best for analyzing the economic reality of the relationship between student athletes and their schools. In Glatt, the United States Court of Appeals for the Second Circuit considered "the broad question of under what circumstances an unpaid intern must be deemed an 'employee' under the FLSA and therefore compensated for his work." The Second Circuit determined that "the proper question is whether the intern or the employer is the primary beneficiary of the relationship." Id. at 536. According to Glatt, the "primary beneficiary test" has three important features: (1) "it focuses on what the intern receives in exchange for his work[;]" (2) "it also accords courts the flexibility to examine the economic reality as it exists between the intern and the employer[;]" and (3) "it acknowledges that the intern-employer relationship should not be analyzed in the same manner as the standard employer-employee relationship because the intern enters into the relationship with the expectation of receiving educational or vocational benefits that are not necessarily expected with all forms of employment." Additionally, the United States Court of Appeals for the Ninth Circuit has commented that "that the primary beneficiary test best captures the Supreme Court's economic realities test in the student/employee context and that it is therefore the most appropriate test for deciding whether students should be regarded as employees under the FLSA." The primary beneficiary test described in Glatt utilizes the following seven factors:
 
-> 1. The extent to which the intern and the employer clearly understand that there is no expectation of compensation. Any promise of compensation, express or implied, suggests that the intern is an employee—and vice versa.
+> 1\. The extent to which the intern and the employer clearly understand that there is no expectation of compensation. Any promise of compensation, express or implied, suggests that the intern is an employee—and vice versa.
 > 
-> 2. The extent to which the internship provides training that would be similar to that which would be given in an educational environment, including the clinical and other hands-on training provided by educational institutions.
+> 2\. The extent to which the internship provides training that would be similar to that which would be given in an educational environment, including the clinical and other hands-on training provided by educational institutions.
 > 
-> 3. The extent to which the internship is tied to the intern's formal education program by integrated coursework or the receipt of academic credit.
+> 3\. The extent to which the internship is tied to the intern's formal education program by integrated coursework or the receipt of academic credit.
 > 
-> 4. The extent to which the internship accommodates the intern's academic commitments by corresponding to the academic calendar.
+> 4\. The extent to which the internship accommodates the intern's academic commitments by corresponding to the academic calendar.
 > 
-> 5. The extent to which the internship's duration is limited to the period in which the internship provides the intern with beneficial learning.
+> 5\. The extent to which the internship's duration is limited to the period in which the internship provides the intern with beneficial learning.
 > 
-> 6. The extent to which the intern's work complements, rather than displaces, the work of paid employees while providing significant educational benefits to the intern.
+> 6\. The extent to which the intern's work complements, rather than displaces, the work of paid employees while providing significant educational benefits to the intern.
 > 
-> 7. The extent to which the intern and the employer understand that the internship is conducted without entitlement to a paid job at the conclusion of the internship.
+> 7\. The extent to which the intern and the employer understand that the internship is conducted without entitlement to a paid job at the conclusion of the internship.
 
 "Applying these considerations requires weighing and balancing all of the circumstances. No one factor is dispositive and every factor need not point in the same direction for the court to conclude that the intern is not an employee entitled to the minimum wage." Moreover, these factors "are non-exhaustive—courts may consider relevant evidence beyond the specified factors in appropriate cases." 
 
@@ -622,7 +622,7 @@ However, as the Moving Defendants recognize, the NCAA, unlike the City of Chicag
 
 The Moving Defendants argue that the Complaint fails to plausibly allege that the NCAA and the NASD are joint employers of Plaintiffs under the four-factor test originally developed by the Ninth Circuit in Bonnette v. California Health and Welfare Agency, 704 F.2d 1465 (9th Cir. 1983), and subsequently adopted in part by the Third Circuit in In re Enterprise Rent-A-Car, 683 F.3d 462 (3d Cir. 2012). The Third Circuit announced in Enterprise Rent-A-Car that courts should use the following four factors, referred to as the Enterprise test, when determining whether two entities are joint employers of the same individual or individuals:
 
-> 1) the alleged employer's authority to hire and fire the relevant employees; 2) the alleged employer's authority to promulgate work rules and assignments and to set the employees' conditions of employment: compensation, benefits, and work schedules, including the rate and method of payment; 3) the alleged employer's involvement in day-to-day employee supervision, including employee discipline; and 4) the alleged employer's actual control of employee records, such as payroll, insurance, or taxes.
+> 1\) the alleged employer's authority to hire and fire the relevant employees; 2) the alleged employer's authority to promulgate work rules and assignments and to set the employees' conditions of employment: compensation, benefits, and work schedules, including the rate and method of payment; 3) the alleged employer's involvement in day-to-day employee supervision, including employee discipline; and 4) the alleged employer's actual control of employee records, such as payroll, insurance, or taxes.
 
 We thus review the factual allegations in the Complaint to determine whether they satisfy these factors with respect to both the NCAA and the NASD.
 
@@ -642,11 +642,11 @@ The Complaint alleges the following facts with respect to the NASD's "authority 
 
 The Complaint alleges the following facts regarding the NCAA's involvement in the day-to-day supervision, including discipline, of student athletes who participate in NCAA sports. The NCAA Bylaws control the ability of the D1 member schools to discipline their student athletes as follows:
 
-> (i) [by] restrict[ing] the grounds for a school to reduce or cancel an athletic scholarship during the period of its award to only disciplinary reasons;
+> (i\) [by] restrict[ing] the grounds for a school to reduce or cancel an athletic scholarship during the period of its award to only disciplinary reasons;
 > 
-> (ii) [by] requir[ing] suspension or firing of a Student Athlete if s/he has violated any bylaw related to eligibility; and
+> (ii\) [by] requir[ing] suspension or firing of a Student Athlete if s/he has violated any bylaw related to eligibility; and
 > 
-> (iii) [by] subject[ing] a school's "home team" Student Athletes to discipline meted out by NCAA Enforcement Staff and/or panels of the peer-review NCAA D1 Committees on Infractions and Infractions Appeals composed of representatives from competing schools.
+> (iii\) [by] subject[ing] a school's "home team" Student Athletes to discipline meted out by NCAA Enforcement Staff and/or panels of the peer-review NCAA D1 Committees on Infractions and Infractions Appeals composed of representatives from competing schools.
 
 The NCAA, through its Bylaws, also prohibits NCAA D1 member schools from "reduc[ing] or cancel[ing] an athletic scholarship during the period of its award on the basis of the Student Athlete's athletic ability, performance or contribution to a team's success." If NCAA Enforcement Staff find that a student athlete is ineligible, the attended school is required to suspend or terminate that athlete. Viewing the allegations of the Complaint in the light most favorable to Plaintiffs, the Complaint alleges that the NCAA promulgates rules used in disciplining student athletes, has some involvement in the discipline of student athletes, can instigate investigations that result in discipline, and has some control over what discipline is issued to student athletes. We conclude, accordingly, that the Complaint plausibly alleges that the NCAA is involved in the day-to-day supervision, including discipline, of student athletes who participate in NCAA sports, including Plaintiffs. We further conclude that the factual allegations of the Complaint satisfy the third factor of the Enterprise test with respect to the NCAA.
 
@@ -866,14 +866,14 @@ As further evidence of the symbiotic relationship between Defendants, Plaintiff 
 
 The FCA, which went into effect on October 27, 2015, amended the NYCHRL to provide additional protection from employment discrimination to individuals with criminal histories. _See_ N.Y.C. Local Law 63 (2015); _see also_ N.Y.C. Comm'n on Human Rights, Legal Enforcement Guidance on the Fair Chance Act ("Enforcement Guidance") at 1 (June 24, 2016) ("The FCA is intended to level the playing field so that New Yorkers who are part of the approximately 70 million adults residing in the United States who have been arrested or convicted of a crime ... [are] 'not overlooked during the hiring process simply because they have to check a box.'"). With the aim of preventing an applicant's criminal history from tainting initial hiring decisions, the FCA regulates precisely when in the hiring process an employer may seek and use information regarding an applicant's criminal background. To this end, the FCA deems it an "unlawful employment practice" for most employers to "[m]ake any inquiry or statement related to the pending arrest or criminal conviction record of any person who is in the process of applying for employment with such employer or agent thereof until after such employer or agent thereof has extended a conditional offer of employment to the applicant." The FCA defines "any inquiry" as "any question communicated to an applicant in writing or otherwise, or any searches of publicly available records or consumer reports that are conducted for the purpose of obtaining an applicant's criminal background information." The law further defines "any statement" as "a statement communicated in writing or otherwise to the applicant for purposes of obtaining an applicant's criminal background information regarding: (i) an arrest record; (ii) a conviction record; or (iii) a criminal background check." The NYCCHR defined "conditional offer of employment" in the Enforcement Guidance as:
 
-> An offer of employment that can only be revoked based on: [i] The results of a criminal background check; [ii] The results of a medical exam in situations in which such exams are permitted by the Americans with Disabilities Act; or [iii] Other information the employer could not have reasonably known before the conditional offer if, based on the information, the employer would not have made the offer and the employer can show the information is material to job performance.
+> An offer of employment that can only be revoked based on: \[i] The results of a criminal background check; \[ii] The results of a medical exam in situations in which such exams are permitted by the Americans with Disabilities Act; or \[iii] Other information the employer could not have reasonably known before the conditional offer if, based on the information, the employer would not have made the offer and the employer can show the information is material to job performance.
 
 
 After an employer extends a conditional offer of employment to an applicant, the FCA permits it to make inquiries into an applicant's criminal history, including by running a background check. However, if an employer wishes to rescind a conditional offer of employment following a criminal background check, the FCA outlines a legal process (the "Fair Chance Process"), pursuant to which an employer must first: (i) disclose to the applicant a written copy of any inquiry it conducted into the applicant's criminal history; (ii) perform an analysis of the applicant under Article 23-A and share a written copy of this analysis with the applicant; and (iii) hold the position open for the applicant for at least three business days from the applicant's receipt of the inquiry and analysis to permit the applicant to respond. 
 
 Pursuant to Article 23-A, an employer cannot withdraw a conditional offer because of the applicant's criminal record, unless the employer can: (i) draw a direct relationship between the applicant's criminal record and the prospective job; or (ii) show that employing the applicant "would involve an unreasonable risk to property or to the safety or welfare of specific individuals or the general public." Before concluding that a direct relationship or unreasonable risk exists because of an applicant's criminal history, Article 23-A requires prospective employers to consider eight factors:
 
-> [i] The public policy of [New York] ... to encourage the licensure and employment of persons previously convicted of one or more criminal offenses; [ii] The specific duties and responsibilities necessarily related to the license or employment sought or held by the person; [iii] The bearing, if any, the criminal offense or offenses for which the person was previously convicted will have on his fitness or ability to perform one or more such duties or responsibilities; [iv] The time which has elapsed since the occurrence of the criminal offense or offenses; [v] The age of the person at the time of occurrence of the criminal offense or offenses; [vi] The seriousness of the offense or offenses; [vii] Any information produced by the person, or produced on his behalf, in regard to his rehabilitation and good conduct; [and viii] The legitimate interest of the public agency or private employer in protecting property, and the safety and welfare of specific individuals or the general public.
+> \[i] The public policy of [New York] ... to encourage the licensure and employment of persons previously convicted of one or more criminal offenses; \[ii] The specific duties and responsibilities necessarily related to the license or employment sought or held by the person; \[iii] The bearing, if any, the criminal offense or offenses for which the person was previously convicted will have on his fitness or ability to perform one or more such duties or responsibilities; \[iv] The time which has elapsed since the occurrence of the criminal offense or offenses; \[v] The age of the person at the time of occurrence of the criminal offense or offenses; \[vi] The seriousness of the offense or offenses; \[vii] Any information produced by the person, or produced on his behalf, in regard to his rehabilitation and good conduct; [and viii] The legitimate interest of the public agency or private employer in protecting property, and the safety and welfare of specific individuals or the general public.
 
 NYCCHR regulations interpreting the NYCHRL, as amended by the FCA, outline six hiring practices that constitute _per se_ violations of the FCA. These _per se_ violations are: (i) "[d]eclaring, printing, or circulating ... any solicitation, advertisement, policy or publication that expresses, directly or indirectly, orally or in writing, any limitation or specification in employment regarding criminal history"; (ii) "[u]sing applications for employment that require applicants to either grant employers permission to run a background check or provide information regarding criminal history prior to a conditional offer"; (iii) "[m]aking any statement or inquiry relating to the applicant's pending arrest or criminal conviction before a conditional offer is extended"; (iv) "[u]sing within [New York City] a standard form, such as a boilerplate job application, intended to be used across multiple jurisdictions, that requests or refers to criminal history"; (v) "[f]ailing to engage in any step of the legal process outlined prior to rescinding a conditional offer of employment"; and (vi) "[r]equiring applicants or employees to disclose an arrest that, at the time disclosure is required, has resulted in a non-conviction." 
 
@@ -918,10 +918,6 @@ Fresh Direct also cites two cases in which sister courts in this District denied
 In _Duff,_ the court concluded that a subcontracting company was not a plaintiff's joint employer when he was formally employed by a general contractor to work on a construction project. The plaintiff, who brought claims for race discrimination, hostile work environment and retaliation, was supervised at his worksite by an employee of the subcontracting company, and alleged that the subcontractor maintained records of his hours, had the power to discipline him, and provided anti-discrimination training. Citing _Conde,_ the court in _Duff_ reasoned that these allegations constituted only "'the minimal level of oversight that any' contractor would naturally exercise over laborers working on the contractor's worksite." Furthermore, the court reasoned that the subcontractor's anti-discrimination training merely reflected its interest in managing its workplace and that plaintiff remained employed by the general contractor following his removal from the worksite. 
 
 The Court finds there to be a critical distinction between the putative joint employer relationships in _Conde_ and _Duff_ and that between Fresh Direct and Vertex: Individuals hired by Vertex operated with the expectation that satisfactory performance would lead to a full-time offer from Fresh Direct. This puts the employer relationship between Vertex and Fresh Direct on a fundamentally different plane than those in _Conde_ and _Duff_. In _Conde,_ there was no allegation that a protracted period of good work at the cosmetics counter could get someone hired at the department store. Likewise in _Duff,_ good performance for the general contractor would not be expected to lead to a full-time employment opportunity with the subcontractor. Where the plaintiffs in those cases could have been moved to different department stores or worksites and still maintain their jobs with their formal employers, the job to which Plaintiff applied was restricted at all times to providing services to Fresh Direct. Furthermore, the first three months of an individual's employment with Vertex constituted a "probationary period" that could lead to a full-time offer with Fresh Direct. While it is true that Plaintiff would have been aided by additional allegations of precisely how Fresh Direct exercised control over Vertex hires and the extent to which Fresh Direct possessed the power to terminate Vertex employees, these matters are appropriate subjects of inquiry in discovery. Plaintiff has plausibly alleged that Fresh Direct exercised more control over Vertex's employees than that "minimal level of oversight" incident to any individual working on an employer's premises. Accordingly, the Court concludes that Fresh Direct and Vertex were Plaintiff's prospective joint employers and, therefore, that Fresh Direct may be held liable for Vertex's alleged NYCHRL violations.
-
-##### CONCLUSION
-
-For the foregoing reasons, Vertex and Fresh Direct's motions to dismiss are DENIED. [ ... ] 
 
 
 [^Franklin5]: (n. 5 in opinion) The FCA is one of a spate of so-called "ban the box" laws that have proliferated in jurisdictions across the United States; these laws generally prohibit the inclusion of questions related to conviction and arrest histories on job applications and delay criminal background checks until later in the hiring process. _See_ Beth Avery & Han Lu, [_Ban the Box: U.S. Cities, Counties, and States Adopt Fair Hiring Policies_](https://www.nelp.org/publication/ban-the-box-fair-chance-hiring-state-and-local-guide/), Nat'l Emp. L. Project (Oct. 1, 2021). [ ... ]
@@ -969,19 +965,19 @@ At its heart, the issue in this case is whether the MMPI fits the ADA's definiti
 
 The EEOC defines "medical examination" as "a procedure or test that seeks information about an individual's physical or mental impairments or health." _See_ "ADA Enforcement Guidance: Preemployment Disability-Related Questions and Medical Examinations" (1995). According to the EEOC, factors to consider in determining whether a particular test is a "medical examination" include:
 
-> (1) whether the test is administered by a health care professional;
+> (1\) whether the test is administered by a health care professional;
 > 
-> (2) whether the test is interpreted by a health care professional;
+> (2\) whether the test is interpreted by a health care professional;
 > 
-> (3) whether the test is designed to reveal an impairment of physical or mental health;
+> (3\) whether the test is designed to reveal an impairment of physical or mental health;
 > 
-> (4) whether the test is invasive;
+> (4\) whether the test is invasive;
 > 
-> (5) whether the test measures an employee's performance of a task or measures his/her physiological responses to performing the task;
+> (5\) whether the test measures an employee's performance of a task or measures his/her physiological responses to performing the task;
 > 
-> (6) whether the test normally is given in a medical setting; and
+> (6\) whether the test normally is given in a medical setting; and
 > 
-> (7) whether medical equipment is used.
+> (7\) whether medical equipment is used.
 
 "[O]ne factor may be enough to determine that a procedure or test is medical." Psychological tests that are "designed to identify a mental disorder or impairment" qualify as medical examinations, but psychological tests "that measure personality traits such as honesty, preferences, and habits" do not.
 
@@ -1054,7 +1050,7 @@ As such, the Court of Appeals held that the trial court erred by denying Health-
 
 The Court of Appeals concluded that according to _Little,_ "three specific elements. . . must be proven [by a plaintiff] in order to show that an employer had a duty to protect a third party from its employee's negligent or intentional acts committed out-side of the scope of the employment." Specifically,
 
-> (1) the employee and the plaintiff must have been in places where each had a right to be when the wrongful act occurred; (2) the plaintiff must have met the employee, when the wrongful act occurred, as a direct result of the employment; and (3) the employer must have received some benefit, even if only potential or indirect, from the meeting of the employee and the plaintiff that resulted in the plaintiff's injury.
+> (1\) the employee and the plaintiff must have been in places where each had a right to be when the wrongful act occurred; (2) the plaintiff must have met the employee, when the wrongful act occurred, as a direct result of the employment; and (3) the employer must have received some benefit, even if only potential or indirect, from the meeting of the employee and the plaintiff that resulted in the plaintiff's injury.
 
 The Court of Appeals held that there was no evidence to support any of the three elements in this case.
 
@@ -1083,12 +1079,12 @@ In the context of employment, this Court held that a defendant employer owes its
 
 In _Braswell_ and _Medlin,_ this Court expressly recognized that North Carolina courts have recognized a cause of action for negligent hiring. In _Medlin,_ this Court delineated what a plaintiff must prove for this claim:
 
-> (1) the specific negligent act on which the action is founded ... (2) incompetency, by inherent unfitness or previous specific acts of negligence, from which incompetency may be inferred; and (3) either actual notice to the master of such unfitness or bad habits, or constructive notice, by showing that the master could have known the facts had he used ordinary care in 'oversight and supervision,' ... and (4) that the injury complained of resulted from the incompetency proved.
+> (1\) the specific negligent act on which the action is founded ... (2) incompetency, by inherent unfitness or previous specific acts of negligence, from which incompetency may be inferred; and (3) either actual notice to the master of such unfitness or bad habits, or constructive notice, by showing that the master could have known the facts had he used ordinary care in 'oversight and supervision,' ... and (4) that the injury complained of resulted from the incompetency proved.
 
 In _Little,_ the Court of Appeals addressed whether there was sufficient evidence for a claim by third-person plaintiffs for negligent hiring against a defendant employer when the injury causing acts were intentional torts and criminal. The Court of Appeals held that on the record before it, the defendant employer did not owe plaintiffs a duty of care and affirmed the trial court's granting of directed verdict in the defendant employer's favor. The Court of Appeals explained:
 
 > In the instant case Smith[, an independent contractor for defendant employer Omega,] was not in a place where he had a legal right to be since he broke in to plaintiffs' home; Smith and plaintiffs did not meet as a direct result of Smiths' relationship with defendants, since he did not enter plaintiffs' home as a salesman; finally, defendants received no benefit, direct, indirect or potential, from the tragic "meeting" between Smith and plaintiffs. We have found no authority in North Carolina suggesting that defendants owed plaintiffs a duty of care on these facts, and we hold that in fact none existed.
-
+> 
 > We refuse to make employers insurers to the public at large by imposing a legal duty on employers for victims of their independent contractors' intentional torts that bear no relationship to the employment. We note that because this is a direct action against the employer, for the purposes of this appeal the result would be the same if Smith had been an employee of defendants instead of an independent contractor. Smith could have perpetrated the exact same crimes against these plaintiffs, in the exact same manner, and with identical chances of success, on a day that he was not selling Omega's meats and driving Omega's vehicle.
 
 Prior to this analysis and holding, the Court of Appeals quoted three sentences from an article published in the Minnesota Law Review:
