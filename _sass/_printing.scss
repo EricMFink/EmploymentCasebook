@@ -57,6 +57,7 @@
 	  orphans: 4;
 	  widows: 2;
 	}
+
 	body {
 	  font-size: 10pt;
 	  background-color: transparent;
@@ -75,66 +76,89 @@
 	  background-color: transparent;
 	}
 	
-	  .sidenote, .marginnote {
-		  float: right;
-		  clear: right;
-		  margin-right: -45%;
-		  width: 30%;
-		  margin-top: 0;
-		  margin-bottom: 0.5rem;
-	  }
+	@page {
+		@sidenote {
+		float: outside;
+		clear: both;
+		width: 20%;
+		}
+	}
+
 	.sidenote {
 	  font-size: 8pt;
 	}
+
+	span.sidenote {
+	  float: sidenote;
+	}
+
 	.marginnote {
 	  font-size: 7pt;
 	}
+
+	span.marginnote {
+		float: sidenote;
+	}
+
 	header {
 	  display: none;
 	}
+
 	.button {
 	  display: none;
 	}
+
 	thead {
 	  display: table-header-group;
 	}
+
 	tr,
 	img {
 	  page-break-inside: avoid;
 	}
+
 	img {
 	  max-width: 100% !important;
 	}
+
 	p {
 	  font-size: 10pt;
 	}
+
 	.doc-title {
 		string-set: doc_title content();
 		font-size: 20pt;
 	}
+
 	.chapter-pretitle {
 	  string-set: chapter_pretitle content();
 	  font-size: 14pt;
 	}
+
 	.chapter-title {
 	  string-set: chapter_title content();
 	  font-size: 16pt;
 	}
+
 	section {
 	  padding: 0;
 	}
+
 	.casebook h1 {
 	  font-size: 18pt;
 	  padding-top: 1em;
 	}
+
 	.casebook h2 {
 	  font-size: 16pt;
 	  padding-top: 1em;
 	}
+
 	.casebook h3 {
 	  font-size: 13pt;
 	  padding-top: 1em;
 	}
+
 	.casebook h4 {
 	  font-size: 11pt;
 	  padding-top: 5pt;
@@ -144,6 +168,7 @@
 	  font-size: 11pt;
 	  padding-top: 20pt;
 	}
+
 	.casebook h6 {
 	  font-size: 10pt;
 		font-style: italic;
@@ -156,6 +181,7 @@
 	  orphans: 4;
 	  widows: 4;
 	}
+
 	article h2, article h2 h3, article h3, article h3 h4, article h4, article h4 h5 {
 	  page-break-after: avoid;
 	}
@@ -175,6 +201,7 @@
 		font-size: 8pt;
 	  }
 	}
+
 	@page :right {
 	  @top-left {
 		font-size: 10pt;
