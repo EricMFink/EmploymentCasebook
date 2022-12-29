@@ -15,7 +15,7 @@ body.casebookbody {
 }
 
 .chapter-heading {
-	margin-bottom: 1rem;
+	margin-bottom: 4rem;
 	padding: 10px 0 0 10px;
     border-left: 2px solid $theme-color;
     border-top: 2px solid $theme-color;
@@ -94,7 +94,6 @@ body.casebookbody {
 
 .casebook h4 {
 	font-style: normal;
-	margin-top: 0;
 }
 
 .casebook h5 {
@@ -106,6 +105,7 @@ body.casebookbody {
 	font-size: $h5;
 	font-style: italic;
 	font-weight: $normal-weight;
+	margin-top: 1.5rem;
 }
 
 .casebook p {

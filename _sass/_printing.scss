@@ -54,12 +54,14 @@
 	  background-color: transparent;
 	  width: 85%;
 	  margin: 0.75in 0.5in 0.75in 0.5in;
+	  padding-top: 0.5in;
 	  orphans: 4;
 	  widows: 2;
 	}
 	body {
 	  font-size: 10pt;
 	  background-color: transparent;
+	  padding-top: 0.5in;
 	}
 	
 	body.casebookbody {
@@ -79,8 +81,8 @@
 		  clear: right;
 		  margin-right: -45%;
 		  width: 30%;
-		  margin-top: 5pt;
-		  margin-bottom: 5pt;
+		  margin-top: 0;
+		  margin-bottom: 0.5rem;
 	  }
 	.sidenote {
 	  font-size: 8pt;
