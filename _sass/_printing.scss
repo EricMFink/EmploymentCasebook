@@ -76,28 +76,22 @@
 	  background-color: transparent;
 	}
 	
-	@page {
-		@sidenote {
-		float: outside;
-		clear: both;
-		width: 20%;
-		}
+	@page { 
+	  @right-top { 
+		content: element(sidenote, all-once); 
+		padding: 5mm; 
+		} 
 	}
 
-	.sidenote {
-	  font-size: 8pt;
+	.sidenote { 
+		position: note(sidenote); 
+		margin-bottom: 10px; 
+		text-align: left; 
+		font-size: 8pt;
 	}
-
-	span.sidenote {
-	  float: sidenote;
-	}
-
+	
 	.marginnote {
 	  font-size: 7pt;
-	}
-
-	span.marginnote {
-		float: sidenote;
 	}
 
 	header {
