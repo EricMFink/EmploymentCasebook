@@ -26,19 +26,19 @@ Defendant filed an answer and raised as one of its defenses lack of subject matt
 The trial judge made the following findings of facts pertinent to this issue:
 
 > 3. Prior to the incident referred to in the complaint, Ken Schneiderman was employed as the manager of the defendant's place of business on Wendover Avenue in Greensboro, North Carolina. As manager, Schneiderman had the authority to hire and fire such employees as he deemed necessary to assist him in the operation of the business, and all wages paid to any of the employees which he hired were deducted from the commission which he received from the defendant.
-
+> 
 > 4. Ken Schneiderman employed the minor plaintiff, and paid him varying amounts to perform duties at the defendant's service station—convenience store, including putting up cigarettes, picking up trash, stocking bottles in the cooler, and other odd jobs from time to time while the minor's mother, Sylvia A. Tucker, worked as a cashier for the store.
-
+> 
 > EXCEPTION NO. 1
-
+> 
 > 5. At the time the minor plaintiff was injured in the accident referred to in the complaint, the minor plaintiff had been performing chores of stocking cigarettes, picking up trash, and other work which was in the course of the trade or business of defendant A.T. Williams Oil Company.
-
+> 
 > EXCEPTION NO. 2
-
+> 
 > 6. At the time of the incident described in the complaint, the minor plaintiff Jonathan Shane Tucker was a casual employee of defendant A.T. Williams Oil Company, and was performing duties within the course of the trade and business of A.T. Williams Oil Company in the operation of the gas station and convenience store on Wendover Avenue in Greensboro, North Carolina.
-
+> 
 > EXCEPTION NO. 3
-
+> 
 > 7. Defendant A.T. Williams Oil Company employs more than four persons, and is subject to the provisions of the North Carolina Workers Compensation Act.
 
 Our review of the record shows that there is ample evidence to support each disputed finding.
@@ -177,13 +177,13 @@ The District Court determined that only two factors militated in Plaintiffs' fav
 For summary judgment to have been appropriate, there must have been no genuine disputes as to any material facts on the record, entitling Uber to judgment as a matter of law. As such, if there is a genuine dispute of material fact, the question of which _DialAmerica_ factors favor employee status is a question of fact that should go to a fact-finder. Here, the ultimate question of law is whether Plaintiffs are employees or independent contractors, which is for a judge to decide. But, if a court finds that there are any issues of [material] fact that remain in [genuine] dispute, it must resolve those disputes prior to granting summary judgment. In _DialAmerica,_ the parties stipulated to some facts and reserved the right to present testimony on any remaining disputed issues. Then, the district court held an evidentiary hearing on the remaining disputed issues of fact:
 
 > (1) the extent to which home researchers and distributors were dependent on DialAmerica;
-
+> 
 > (2) the extent to which they had an opportunity for profit or loss;
-
+> 
 > (3) the extent to which they exercised initiative, business judgment, or foresight in their activities;
-
+> 
 > (4) the extent of any financial investment in conjunction with their work for DialAmerica; and
-
+> 
 > (5) the extent to which the services provided by the home researchers and distributors were an integral part of DialAmerica's business.
 
 These factual issues refer directly to the factors which determine whether someone is an employee or independent contractor. The district court resolved these disputes and granted DialAmerica's motion for summary judgment. We reviewed the district court's decision in _DialAmerica_ and determined that summary judgment was a mischaracterization, but the proper outcome, as all the factual disputes were resolved prior to adjudication on the merits.
@@ -263,17 +263,17 @@ The FLSA defines "employee" by tautology: an "individual employed by an employer
 Last year in Glatt, we recognized the "primary beneficiary" test as the way to distinguish employees from bona fide interns. To guide our "flexible" analysis, we provided seven non-exhaustive considerations specific to the context of unpaid internships:
 
 > 1. The extent to which the intern and the employer clearly understand that there is no expectation of compensation. Any promise of compensation, express or implied, suggests that the intern is an employee—and vice versa;
-
+> 
 > 2. The extent to which the internship provides training that would be similar to that which would be given in an educational environment, including the clinical and other hands-on training provided by educational institutions;
-
+> 
 > 3. The extent to which the internship is tied to the intern's formal education program by integrated coursework or the receipt of academic credit;
-
+> 
 > 4. The extent to which the internship accommodates the intern's academic commitments by corresponding to the academic calendar;
-
+> 
 > 5. The extent to which the internship's duration is limited to the period in which the internship provides the intern with beneficial learning;
-
+> 
 > 6. The extent to which the intern's work complements, rather than displaces, the work of paid employees while providing significant educational benefits to the intern;
-
+> 
 > 7. The extent to which the intern and the employer understand that the internship is conducted without entitlement to a paid job at the conclusion of the internship.
 
 The court applies these considerations by weighing and balancing the totality of the circumstances. "No one factor is dispositive and every factor need not point in the same direction for the court to conclude that the intern is not an employee."
@@ -472,17 +472,17 @@ Courts have, accordingly, developed multifactor tests to be used in determining,
 The ASD suggest in the alternative, that, of the three multifactor tests mentioned above, the Glatt test would be the best for analyzing the economic reality of the relationship between student athletes and their schools. In Glatt, the United States Court of Appeals for the Second Circuit considered "the broad question of under what circumstances an unpaid intern must be deemed an 'employee' under the FLSA and therefore compensated for his work." The Second Circuit determined that "the proper question is whether the intern or the employer is the primary beneficiary of the relationship." Id. at 536. According to Glatt, the "primary beneficiary test" has three important features: (1) "it focuses on what the intern receives in exchange for his work[;]" (2) "it also accords courts the flexibility to examine the economic reality as it exists between the intern and the employer[;]" and (3) "it acknowledges that the intern-employer relationship should not be analyzed in the same manner as the standard employer-employee relationship because the intern enters into the relationship with the expectation of receiving educational or vocational benefits that are not necessarily expected with all forms of employment." Additionally, the United States Court of Appeals for the Ninth Circuit has commented that "that the primary beneficiary test best captures the Supreme Court's economic realities test in the student/employee context and that it is therefore the most appropriate test for deciding whether students should be regarded as employees under the FLSA." The primary beneficiary test described in Glatt utilizes the following seven factors:
 
 > 1. The extent to which the intern and the employer clearly understand that there is no expectation of compensation. Any promise of compensation, express or implied, suggests that the intern is an employee—and vice versa.
-
+> 
 > 2. The extent to which the internship provides training that would be similar to that which would be given in an educational environment, including the clinical and other hands-on training provided by educational institutions.
-
+> 
 > 3. The extent to which the internship is tied to the intern's formal education program by integrated coursework or the receipt of academic credit.
-
+> 
 > 4. The extent to which the internship accommodates the intern's academic commitments by corresponding to the academic calendar.
-
+> 
 > 5. The extent to which the internship's duration is limited to the period in which the internship provides the intern with beneficial learning.
-
+> 
 > 6. The extent to which the intern's work complements, rather than displaces, the work of paid employees while providing significant educational benefits to the intern.
-
+> 
 > 7. The extent to which the intern and the employer understand that the internship is conducted without entitlement to a paid job at the conclusion of the internship.
 
 "Applying these considerations requires weighing and balancing all of the circumstances. No one factor is dispositive and every factor need not point in the same direction for the court to conclude that the intern is not an employee entitled to the minimum wage." Moreover, these factors "are non-exhaustive—courts may consider relevant evidence beyond the specified factors in appropriate cases." 
@@ -1206,9 +1206,9 @@ Plaintiffs [ ... ] alleged that their former employer, Charter Communications, L
 The Court previously summarized the facts of this case as follows:
 
 > Plaintiffs worked at Charter's call center in Louisville, Kentucky, in various capacities. Each was given a Hewlett-Packard (HP) computer printer by Linda Showalter, an administrative assistant at Charter. Plaintiffs maintain that they believed Showalter's distribution of printers was authorized by management. Charter, however, considered Plaintiffs' acceptance of the printers to be a violation of its policy against removing company property without authorization, and it terminated most of the employees involved.
-
+> 
 > Approximately one month after Plaintiffs were fired, Charter Human Resources Manager Rodger Simms gave a PowerPoint presentation during a Charter leadership conference. On a slide with the heading "Leadership and Judgment," Simms referred to "'Operation...' Green-light, Buzz-kill, Printer-gate." He encouraged employees to "[a]ct with Integrity and Character." The notes for Simms's oral presentation accompanying the slide state: "Let's get the elephant in the room out in the open, how many of you have heard of ... Operation codes for things that weren't right! All examples of poor judgment. Not bad people, people we know and love but they made the wrong choices." Simms emphasized the importance of "integrity," "character," and having "the courage to do the right thing." He also warned that "[k]nowing something isn't right and allowing it to continue is the same as you doing it!" "Green-light" referred to an incident in which a Charter employee used a company credit card for personal benefit and was terminated as a result. "Buzz-kill" involved the sale of illegal drugs on Charter property by Charter employees; those employees were also terminated.
-
+> 
 > Plaintiffs sued Charter for defamation on the ground that "Charter made false statements alleging misconduct on the part of the Plaintiffs relating to the ... distribution of Hewlett-Packard ink jet printers, including but not limited to the [PowerPoint] presentation." They contend that the use of the term "Printer-gate," particularly in conjunction with references to employee theft and drug-dealing, implied that their actions were criminal.
 
 The case was tried solely on a theory of defamation per se. At the close of Plaintiffs' case, Charter moved for judgment as a matter of law, arguing that "Printer-gate" could not constitute defamation per se because it had no "objectively understood definition" and was not defamatory on its face; that Plaintiffs had no proof of damages to support a claim of defamation per quod; and that any inference arising from "Printer-gate" was true because the term referred to "an incident involving the unauthorized removal of company printers from Charter's premises." The Court denied that motion and later granted Plaintiffs' motion for judgment as a matter of law on Charter's truth defense, concluding that there was insufficient evidence from which a reasonable jury could find that Plaintiffs' actions constituted criminal theft. The jury ultimately found Charter liable, awarding each plaintiff $350,000 in compensatory damages and $1 million in punitive damages. The Court entered judgment for Plaintiffs in accordance with the jury's verdict (D.N. 179), and Charter timely sought relief under Rules 50 and 59 of the Federal Rules of Civil Procedure.
@@ -1326,8 +1326,6 @@ Under N.C. Gen. Stat. § 1-539.12, Wells Fargo asserts that it is immune from li
 > An employer who discloses information about a current or former employee’s job history or job performance to a prospective employer of the current or former employee upon request of the prospective employer or upon request of the current or former employee is immune from civil liability and is not liable in civil damages for the disclosure or any consequences of the disclosure.
 The statute further defines “job performance” as “(1) [t]he suitability of the employee for re-employment; (2) [t]he employee’s skills, abilities, and traits as they may relate to suitability for future employment; and (3) [i]n the case of a former employee, the reason for the employee’s separation.” 
 
-N.C. Gen. Stat. Ann. § 1-539.12(b) (1-3).
-
 Relying on this statute, Wells Fargo argues that it has civil immunity because reporting the overpayment information is akin to disclosing Plaintiff’s job history and performance to a prospective employer. In particular, Wells Fargo argues that the information relates to Plaintiff’s suitability for re-hire. Plaintiff disagrees, arguing that overpayment information is not correlated to an employee’s job performance.
 
 The statute appears incongruent with the facts of this case. The statute only provides immunity when a former employer provides information to a prospective employer regarding an employee’s job performance or job history. Here, the information that Wells Fargo disclosed about Plaintiff was her failure to pay an overpayment that she received from Wells Fargo. It is unclear how this information pertains to her job performance or job history. For example, the best and worst employee could receive an overpayment from the same employer and disclosing this information would provide no insight into the abilities or job performance of either employee.
@@ -1349,10 +1347,6 @@ Accepting all the well-pleaded facts as true, the Complaint states facts suffici
 Moreover, the Complaint meets the heightened pleading standard under Rule 9(b) because it states the “who, what, when, where, and how” of the alleged mistake. For example, in the Complaint, the “who” is identified as Wells Fargo, who allegedly committed negligent misrepresentation; the “what” is identified as Wells Fargo’s failure to remove the overpayment notice; the “when” is 2018 to 2020, the time period when the alleged breach occurred; the “where” is on Plaintiff’s credit report; and the “how” is that Wells Fargo failed to remove the notice after Plaintiff repaid the overpayment, in contravention of the agreement between the parties. Plaintiff’s failure to specifically identify the employee(s) she communicated with at Wells Fargo is not fatal to her claim at this time as the Complaint meets the heightened pleading standard.
 
 Moreover, “there is no requirement that any precise formula be followed or that any certain language be used,” and “[i]t is sufficient if, upon a liberal construction of the whole pleading, the charge of fraud might be supported by proof of the alleged constitutive facts.” “Significantly, a court should not dismiss a complaint pursuant to Rule 9(b) if the court is satisfied that the defendant has been made aware of the particular circumstances for which he will have to prepare a defense at trial.” In this respect, Wells Fargo has been made aware of the negligent misrepresentation claim against it that stems from its failure to remove the notice after Plaintiff repaid the overpayment, resulting in lost employment opportunities for Plaintiff. Accordingly, Defendant’s motion to dismiss the negligent misrepresentation claim is denied.
-
-##### IV. CONCLUSION
-
-IT IS, THEREFORE, ORDERED that Defendant’s Motion to Dismiss Plaintiff’s Complaint, is DENIED.
 
 ### Blacklisting employees
 
@@ -1406,8 +1400,6 @@ Plaintiff's third claim is that defendant Angell's conversations with Parker and
 
 > If any person, agent, company or corporation, after having discharged any employee from his or its service, shall prevent or attempt to prevent, by word or writing of any kind, such discharged employee from obtaining employment with any other person, company or corporation, such person, agent or corporation shall be guilty of a misdemeanor and ... shall be liable in penal damages to such discharged person, to be recovered by civil action. This section shall not be construed as prohibiting any person ... from furnishing in writing, upon request, any other person, company or corporation to whom such discharged person has applied for employment, a truthful statement of the reason for such discharge.
 
-N.C.Gen.Stat. § 14-355.
-
 However, statements made about a former employee in response to a request from a prospective employer are privileged under § 14-355. For the statute to be violated, the statements to the prospective employer would have had to have been unsolicited. Plaintiff admits here that Don Angell's statements came only upon inquiry from people he believed to be prospective employers of his former employee. We therefore hold that N.C.Gen.Stat. § 14-355 does not apply as a matter of law and uphold summary judgment for defendants.
 
 ### Kadlec Medical Center v. Lakeview Anesthesia Assocs.
@@ -1445,9 +1437,9 @@ On October 17, 2001, Kadlec sent Lakeview Medical a request for credentialing in
 Nine days later, Lakeview Medical responded to the requests for credentialing information about fourteen different physicians. In thirteen cases, it responded fully and completely to the request, filling out forms with all the information asked for by the requesting health care provider. The fourteenth request, from Kadlec concerning Berry, was handled differently. Instead of completing the multi-part forms, Lakeview Medical staff drafted a short letter. In its entirety, it read:
 
 > This letter is written in response to your inquiry regarding [Dr. Berry]. Due to the large volume of inquiries received in this office, the following information is provided.
-
+> 
 > Our records indicate that Dr. Robert L. Berry was on the Active Medical Staff of Lakeview Regional Medical Center in the field of Anesthesiology from March 04, 1997 through September 04, 2001.
-
+> 
 > If I can be of further assistance, you may contact me at (504) 867-4076.
 
 The letter did not disclose LAA's termination of Dr. Berry; his on-duty drug use; the investigation into Dr. Berry's undocumented and suspicious withdrawals of Demerol that "violated the standard of care"; or any other negative information. The employee who drafted the letter said at trial that she just followed a form letter, which is one of many that Lakeview Medical used.
@@ -1499,7 +1491,7 @@ In Louisiana, a duty to disclose does not exist absent special circumstances, su
 Plaintiffs assert that Lakeview Medical and the LAA doctors had a pecuniary interest in the referral letters supplied to Kadlec. The plaintiffs rely on the pecuniary interest definition in the Second Restatement of Torts. Section 552, comment d of the Restatement, provides (with emphasis added):
 
 > The defendant's pecuniary interest in supplying the information will normally lie in a consideration paid to him for it or paid in a transaction in the course of and as a part of which it is supplied. It may, however, be of a more indirect character ....
-
+> 
 > The fact that the information is given in the course of the defendant's business, profession or employment is a sufficient indication that he has a pecuniary interest in it, even though he receives no consideration for it at the time. It is not, however, conclusive....
 
 The "course of business" definition of pecuniary interest has been endorsed by Louisiana appellate courts. In _Anderson v. Heck,_ the court defined the "pecuniary interest" of the defendant by directly quoting and applying the portion of the Restatement comment highlighted above. The court in _Dousson v. South Central Bell_ held that the fact that information is given in the course of a party's business or profession is a sufficient indication of pecuniary interest even though the party receives no consideration for it at the time.
@@ -1525,5 +1517,3 @@ The LAA defendants' argument that the intervening negligence of Dr. Berry and Ka
 The LAA defendants focus on Kadlec's negligence and claim that it was a superseding cause of plaintiffs' injuries. They argue that Kadlec had multiple warning signs that Dr. Berry was using drugs, and had it responded with an investigation, plaintiffs' injuries would have been avoided. The LAA defendants focus on Dr. Berry's erratic behavior after his return from Montana, his over-anesthetization of a patient in September 2002, and the signs that he was ill on the day of Jones's surgery. The jury found that Kadlec's own negligence was a cause of plaintiffs' financial injury. But this does not relieve the defendants of liability. The jury also reasonably concluded that the LAA defendants negligently _and intentionally_ misled Kadlec about Dr. Berry's drug addiction. By intentionally covering up Dr. Berry's drug addiction in communications with a future employer, they should have foreseen that the future employer might miss the warning signs of Dr. Berry's addiction. This was within the scope of the risk they took.
 
 Indeed, both plaintiffs' and defendants' witnesses agreed at trial that narcotics addiction is a disease, that addicts try to hide their disease from their co-workers, and that particularly in the case of narcotics-addicted anesthesiologists, for whom livelihood and drug supply are in the same place, colleagues may be the last to know about their addiction and impairment. This is not a case where a future tortious act is so unforeseeable that it should relieve the earlier tortfeasor of liability. In fact, this case illustrates why the comparative fault system was developed — so, as here, multiple actors can share fault for an injury based on their respective degrees of responsibility.
-
-[ *** ]
