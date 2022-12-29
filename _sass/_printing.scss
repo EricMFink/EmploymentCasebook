@@ -54,7 +54,6 @@
 	  background-color: transparent;
 	  width: 85%;
 	  margin: 0.75in 0.5in 0.75in 0.5in;
-	  padding-top: 0.5in;
 	  orphans: 4;
 	  widows: 2;
 	}
@@ -162,45 +161,58 @@
 	}
   
 	@page :left {
-	  @top-center {
+	  @top-left {
 		font-size: 10pt;
-		  font-style: italic;
+		font-style: italic;
 		content: string(chapter_pretitle);
+	  }
+	  @top-right {
+		font-size: 10pt;
+		font-style: italic;
+		content: counter(page);
 	  }
 	  @bottom-center {
 		font-size: 8pt;
-		content: counter(page);
 	  }
 	}
 	@page :right {
 	  @top-center {
 		font-size: 10pt;
 		  font-style: italic;
-		content: string(chapter_title);
+		  content: counter(page);
 	  }
 	  @bottom-center {
 		font-size: 8pt;
-		content: counter(page);
 	  }
 	}
 
   @page:first {
+	@top-left {
+	  	content: normal;
+	  	margin: 0;
+		}
+
 	@top-center {
-	  	content: normal;
-	  	margin: 0;
+			content: normal;
+			margin: 0;
 		}
 
-	@bottom-right {
-	  	content: normal;
-	  	margin: 0;
-		}
-
-	@bottom-center {
+	@top-right {
 	  	content: normal;
 	  	margin: 0;
 		}
 
 	@bottom-left {
+		content: normal;
+		margin: 0;
+		}
+		
+	@bottom-center {
+	  	content: normal;
+	  	margin: 0;
+		}
+
+	@bottom-right {
 	  	content: normal;
 	  	margin: 0;
 		}
