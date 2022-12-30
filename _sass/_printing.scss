@@ -36,12 +36,14 @@
 }
 
 @page {
-	@rightnote { width: 40vw }
-  }
-  .sidenote {
+	@rightnote { 
+		width: 30%; 
+	}
+}
+
+.sidenote {
 	-prince-float: sidenote;
-	background: beige;
-  }
+}
   
   
 @media print {
@@ -52,6 +54,9 @@
 	  margin: 0.5in 0.25in 0.5in 0.25in;
 	  orphans: 4;
 	  widows: 2;
+	  @rightnote { 
+		width: 30%; 
+	  }
 	}
 
 	body {
