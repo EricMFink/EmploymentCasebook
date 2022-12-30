@@ -150,18 +150,17 @@
 
 	.casebook h4 {
 	  font-size: 11pt;
-	  padding-top: 5pt;
 	}
 	
 	.casebook h5 {
 	  font-size: 11pt;
-	  padding-top: 10pt;
+	  margin-top: .5rem;
 	}
 
 	.casebook h6 {
 	  font-size: 10pt;
 	  font-style: italic;
-	  padding-top: 10pt;
+	  margin-top: .5rem;
 	}
 	
 	p,
@@ -183,7 +182,7 @@
 
 	  @top-center {
 		font-size: 10pt;
-		content: string(book_title);
+		content: "Employment Law Casebook";
 	}
 
 	  @top-right {
