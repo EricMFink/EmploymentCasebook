@@ -1,8 +1,11 @@
 .print-header {
-	position: absolute;
-	left: 0;
-	top: 0;
-	height: .25in;
+	position: fixed;
+    background-color: transparent;
+    opacity: 1;
+	width: 100%;
+    z-index: 50;
+	left: 0px;
+	top: 0px;
 	width: 100%;
 }
   
@@ -39,11 +42,6 @@
 	  margin: 0.75in 0.5in 0.5in 0.5in;
 	  orphans: 4;
 	  widows: 2;
-	  .print-header {
-		position: fixed;
-		left: 0;
-		top: 0;
-	  }
 	}
 
 	html {
