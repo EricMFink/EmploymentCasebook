@@ -3,8 +3,6 @@ layout: casebook
 permalink: /chap2/
 chapter: Chapter 2
 title: Establishing an Employment Relationship
-
-casebook: true
 ---
 
 # 1. Identifying Employees
@@ -345,7 +343,7 @@ NCAA member schools "agree to administer their athletics programs in accordance 
 
 The NCAA bylaws also govern financial aid and prohibit compensation for student-athletes. Bylaw 15.1 provides that student-athletes may receive financial aid on the basis of athletic ability, but that the amount of aid must not exceed "the value of his or her cost of attendance." Student-athletes receiving aid in excess of the cost of attendance limitation "shall not be eligible to participate in intercollegiate athletics."
 
-NCAA Bylaw 12.1.4 provides that financial aid is "not considered to be pay or the promise of pay for athletics skill." Bylaw 12.1.2 further prohibits any payment to a student-athlete for athletic services. Student-athletes who accept payments may be subject to revocation of their amateur status and eligibility under seven conditions.[^Dawson2]
+NCAA Bylaw 12.1.4 provides that financial aid is "not considered to be pay or the promise of pay for athletics skill." Bylaw 12.1.2 further prohibits any payment to a student-athlete for athletic services. Student-athletes who accept payments may be subject to revocation of their amateur status and eligibility under seven conditions.
 
 In his complaint, Dawson alleged that the NCAA and the PAC-12 acted as an employer of the class members by "prescribing the terms and conditions under which student-athletes perform services." Dawson claims that the NCAA and PAC-12, as joint employers, failed to pay wages, including overtime pay, to Dawson and to class members in violation of federal and state labor laws.
 
@@ -408,8 +406,6 @@ In sum, the district court correctly held that the NCAA and the PAC-12 were not 
 ##### IV
 
 For the foregoing reasons, we affirm the district court's dismissal of Dawson's FLSA and California state law claims against the NCAA and PAC-12. We need not, and do not, reach any other issue urged by the parties, nor do we express an opinion about student-athletes' employment status in any other context.
-
-[^Dawson2]: (n.2 in opinion) Bylaw 12.1.2 revokes amateur status and NCAA eligibility where a student-athlete: (1) "\[u]ses his or her athletics skill (directly or indirectly) for pay in any form in that sport;" (2) "\[a]ccepts a promise of pay even if such pay is to be received following completion of intercollegiate athletics participation;" (3) "\[s]igns a contract or commitment of any kind to play professional athletics, regardless of its legal enforceability or any consideration received, except as permitted in Bylaw 12.2.5.1;" (4) "\[r]eceives directly or indirectly, a salary, reimbursement of expenses, or any other form of financial assistance from a professional sports organization based on athletics skill or participation, except as permitted by NCAA rules and regulations;" (5) "\[c]ompetes on any professional athletics team per Bylaw 12.02.11, even if no pay or remuneration for expenses was received, except as permitted in Bylaw 12.2.3.2.1;" (6) "\[a]fter initial full-time collegiate enrollment, enters into a professional draft (see Bylaw 12.2.4);" or (7) "\[e]nters into an agreement with an agent."
 
 ### Johnson v. NCAA (I)
 
@@ -1261,28 +1257,6 @@ Charter next argues that it should have been permitted to assert the defense of 
 
 The Court recognizes that availability of the qualified-privilege defense could have drastically altered the outcome of this case. An inexplicable oversight or strategic error on Charter's part, however, does not justify altering the litigation schedule or depriving Plaintiffs of necessary discovery in disregard of Sixth Circuit law and the Federal Rules of Civil Procedure. Given Charter's failure to assert qualified privilege in its answer, a timely amended answer, or a motion to dismiss, it is reasonable to conclude that omission of the defense earlier in the case was intentional. Yet Charter now essentially asks the Court to allow it the benefit of hindsight—to benefit both from asserting the defense, and from not asserting it. Charter is not entitled to a new trial on this ground.
 
-### Immunity from civil liability for employers disclosing information
-
-#### N.C.G.S. § 1-539.12
-
-(a\) An employer who discloses information about a current or former employee's jobhistory or job performance to a prospective employer of the current or former employee uponrequest of the prospective employer or upon request of the current or former employee isimmune from civil liability and is not liable in civil damages for the disclosure or anyconsequences of the disclosure. This immunity shall not apply when a claimant shows by apreponderance of the evidence both of the following:
-
-	(1) The information disclosed by the current or former employer was false.
-
-	(2) The employer providing the information knew or reasonably should have known that the information was false.
-
-(b\) For purposes of this section, "job performance" includes:
-
-	(1) The suitability of the employee for re-employment;
-
-	(2) The employee's skills, abilities, and traits as they may relate to suitability forfuture employment; and
-
-	(3) In the case of a former employee, the reason for the employee's separation.
-
-(c\) The provisions of this section apply to any employee, agent, or other representative ofthe current or former employer who is authorized to provide and who provides information inaccordance with the provisions of this section. For the purposes of this section, "employer" alsoincludes a job placement service but does not include a private personnel service as defined inG.S. 95-47.1 or a job listing service as defined in G.S. 95-47.19 except as provided hereinafter.The provisions of this section apply to a private personnel service as defined in G.S, 95-47.1 anda job listing service as defined in G.S. 95-47.19 only to the extent that the service conveysinformation derived from credit reports, court records, educational records, and informationfurnished to it by the employee or prior employers and the service identifies the source of theinformation.
-
-(d\) This section does not affect any privileges or immunities from civil liabilityestablished by another section of the General Statutes or available at common law.
-
 ### Arku v. Wells Fargo Bank 
 
 #### No. 3:22-cv-00225-RJC-DCK (Aug. 15, 2022)
@@ -1303,9 +1277,10 @@ In the Motion to Dismiss, Wells Fargo argues (1) it is immune from civil liabili
 
 ###### A. Civil Immunity
 
-Under N.C. Gen. Stat. § 1-539.12, Wells Fargo asserts that it is immune from liability for both the breach of contract and negligent misrepresentation claims. Wells Fargo cites to subsection (a) of the statute, which states:
+Under [N.C. Gen. Stat. § 1-539.12](https://www.ncleg.gov/EnactedLegislation/Statutes/PDF/BySection/Chapter_1/GS_1-539.12.pdf), Wells Fargo asserts that it is immune from liability for both the breach of contract and negligent misrepresentation claims. Wells Fargo cites to subsection (a) of the statute, which states:
 
 > An employer who discloses information about a current or former employee’s job history or job performance to a prospective employer of the current or former employee upon request of the prospective employer or upon request of the current or former employee is immune from civil liability and is not liable in civil damages for the disclosure or any consequences of the disclosure.
+
 The statute further defines “job performance” as “(1) [t]he suitability of the employee for re-employment; (2) [t]he employee’s skills, abilities, and traits as they may relate to suitability for future employment; and (3) [i]n the case of a former employee, the reason for the employee’s separation.” 
 
 Relying on this statute, Wells Fargo argues that it has civil immunity because reporting the overpayment information is akin to disclosing Plaintiff’s job history and performance to a prospective employer. In particular, Wells Fargo argues that the information relates to Plaintiff’s suitability for re-hire. Plaintiff disagrees, arguing that overpayment information is not correlated to an employee’s job performance.
@@ -1329,12 +1304,6 @@ Accepting all the well-pleaded facts as true, the Complaint states facts suffici
 Moreover, the Complaint meets the heightened pleading standard under Rule 9(b) because it states the “who, what, when, where, and how” of the alleged mistake. For example, in the Complaint, the “who” is identified as Wells Fargo, who allegedly committed negligent misrepresentation; the “what” is identified as Wells Fargo’s failure to remove the overpayment notice; the “when” is 2018 to 2020, the time period when the alleged breach occurred; the “where” is on Plaintiff’s credit report; and the “how” is that Wells Fargo failed to remove the notice after Plaintiff repaid the overpayment, in contravention of the agreement between the parties. Plaintiff’s failure to specifically identify the employee(s) she communicated with at Wells Fargo is not fatal to her claim at this time as the Complaint meets the heightened pleading standard.
 
 Moreover, “there is no requirement that any precise formula be followed or that any certain language be used,” and “[i]t is sufficient if, upon a liberal construction of the whole pleading, the charge of fraud might be supported by proof of the alleged constitutive facts.” “Significantly, a court should not dismiss a complaint pursuant to Rule 9(b) if the court is satisfied that the defendant has been made aware of the particular circumstances for which he will have to prepare a defense at trial.” In this respect, Wells Fargo has been made aware of the negligent misrepresentation claim against it that stems from its failure to remove the notice after Plaintiff repaid the overpayment, resulting in lost employment opportunities for Plaintiff. Accordingly, Defendant’s motion to dismiss the negligent misrepresentation claim is denied.
-
-### Blacklisting employees
-
-#### N.C.G.S. § 14-355
-
-If any person, agent, company or corporation, after having discharged any employee from his or its service, shall prevent or attempt to prevent, by word or writing of any kind, such discharged employee from obtaining employment with any other person, company or corporation, such person, agent or corporation shall be guilty of a Class 3 misdemeanor and shall be punished by a fine not exceeding five hundred dollars ($500.00); and such person, agent, company or corporation shall be liable in penal damages to such discharged person, to be recovered by civil action. This section shall not be construed as prohibiting any person or agent of any company or corporation from furnishing in writing, upon request, any other person, company or corporation to whom such discharged person or employee has applied for employment, a truthful statement of the reason for such discharge.
 
 ### Friel v. Angell Care, Inc. 
 
@@ -1378,7 +1347,7 @@ Plaintiff next contends that defendant maliciously interfered with her right to 
 
 ##### III.
 
-Plaintiff's third claim is that defendant Angell's conversations with Parker and Horton violated N.C.Gen.Stat. § 14-355, which prohibits blacklisting employees. Under this statute, an employer may be liable if, after discharging someone from employment, it prevents or attempts to prevent that person from obtaining employment:
+Plaintiff's third claim is that defendant Angell's conversations with Parker and Horton violated [N.C.Gen.Stat. § 14-355](https://www.ncleg.gov/EnactedLegislation/Statutes/PDF/BySection/Chapter_14/GS_14-355.pdf), which prohibits blacklisting employees. Under this statute, an employer may be liable if, after discharging someone from employment, it prevents or attempts to prevent that person from obtaining employment:
 
 > If any person, agent, company or corporation, after having discharged any employee from his or its service, shall prevent or attempt to prevent, by word or writing of any kind, such discharged employee from obtaining employment with any other person, company or corporation, such person, agent or corporation shall be guilty of a misdemeanor and ... shall be liable in penal damages to such discharged person, to be recovered by civil action. This section shall not be construed as prohibiting any person ... from furnishing in writing, upon request, any other person, company or corporation to whom such discharged person has applied for employment, a truthful statement of the reason for such discharge.
 
