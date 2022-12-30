@@ -23,6 +23,7 @@
 .doc-title {
 	width: 50%;
 	text-align: left;
+	string-set: doc_title content();
 }
   
 .alignleft {
@@ -51,7 +52,7 @@
 	  size: letter portrait;
 	  background-color: transparent;
 	  width: 85%;
-	  margin: 0.5in 0.25in 0.5in 0.25in;
+	  margin: 0.75in 0.5in 0.75in 0.5in;
 	  orphans: 4;
 	  widows: 2;
 	  @rightnote { 
@@ -183,13 +184,17 @@
 	@page :left {
 	  @top-left {
 		font-size: 10pt;
-		font-style: italic;
-		content: string(chapter_pretitle);
-	  }
-	  @top-right {
-		font-size: 10pt;
-		font-style: italic;
 		content: counter(page);
+	  }
+
+	  @top-center {
+		font-size: 10pt;
+		content: string(doc_title);
+	}
+
+	  @top-right {
+		content: normal;
+		margin: 0;
 	  }
 	  @bottom-center {
 		font-size: 8pt;
@@ -199,14 +204,18 @@
 	@page :right {
 	  @top-left {
 		font-size: 10pt;
-		font-style: italic;
+		content: string(chapter_pretitle);
+	  }
+
+	  @top-center {
+		font-size: 10pt;
 		content: string(chapter_title);
 	  }
+
 	  @top-right {
 		font-size: 10pt;
-		font-style: italic;
-		content: counter(page);
 	  }
+
 	  @bottom-center {
 		font-size: 8pt;
 	  }
