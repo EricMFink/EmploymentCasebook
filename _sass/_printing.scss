@@ -101,8 +101,8 @@
 		margin-bottom: 10pt;
 	}
 
-	title {
-		string-set: doc_title content();
+	.book-title {
+		string-set: book_title content();
 		font-size: 14pt;
 
 	}
@@ -170,7 +170,7 @@
 
 	  @top-center {
 		font-size: 10pt;
-		content: string(doc_title);
+		content: string(book_title);
 	}
 
 	  @top-right {
