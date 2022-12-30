@@ -3,6 +3,8 @@ layout: casebook
 permalink: /chap2/
 chapter: Chapter 2
 title: Establishing an Employment Relationship
+
+casebook: true
 ---
 
 # 1. Identifying Employees

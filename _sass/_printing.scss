@@ -9,20 +9,7 @@
 	font-family: adelle-sans, sans-serif;
 	color: $theme-color;
 	font-size: 20pt;
-	font-weight: 400;
-}
-  
-.print-footer {
-	position: absolute;
-	left: 0px;
-	bottom: 0px;
-	width: 100%;
-}
-  
-.print-footer p {
-	font-family: adelle-sans, sans-serif;
-	font-size: 9pt;
-	font-weight: 400;
+	font-weight: 700;
 }
   
 .print-headfoot-block {
@@ -47,13 +34,22 @@
 	width: 50%;
 	text-align: right;
 }
+
+@page {
+	@rightnote { width: 40vw }
+  }
+  .sidenote {
+	-prince-float: sidenote;
+	background: beige;
+  }
+  
   
 @media print {
 	@page {
 	  size: letter portrait;
 	  background-color: transparent;
 	  width: 85%;
-	  margin: 0.75in 0.5in 0.75in 0.5in;
+	  margin: 0.5in 0.25in 0.5in 0.25in;
 	  orphans: 4;
 	  widows: 2;
 	}
@@ -61,7 +57,6 @@
 	body {
 	  font-size: 10pt;
 	  background-color: transparent;
-	  padding-top: 0.5in;
 	}
 	
 	body.casebookbody {
@@ -75,18 +70,18 @@
 	page-container {
 	  background-color: transparent;
 	}
-	
-	@page { 
-	  @right-top { 
-		content: element(sidenote, all-once); 
-		padding: 5mm; 
-		} 
+	/*
+	.sidenote, .marginnote { 
+		float: top right;
+		clear: both;
+		margin-right: -45%;
+		width: 30%;
+		margin-top: 0;
+		margin-bottom: 0.5rem;
 	}
+	*/
 
 	.sidenote { 
-		position: note(sidenote); 
-		margin-bottom: 10px; 
-		text-align: left; 
 		font-size: 8pt;
 	}
 	
@@ -165,7 +160,7 @@
 
 	.casebook h6 {
 	  font-size: 10pt;
-		font-style: italic;
+	  font-style: italic;
 	  padding-top: 10pt;
 	}
 	
@@ -244,10 +239,6 @@
 		}
 	}
    
-	.print-footer {
-	  font-family: adelle-sans, sans-serif;
-	  size: 8pt;
-	}
 }
   
 // Hide print header/footer in screen display
