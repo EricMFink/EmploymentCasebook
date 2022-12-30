@@ -46,7 +46,7 @@
 	  size: letter portrait;
 	  background-color: transparent;
 	  width: 85%;
-	  margin: 0.75in 0.5in 0.75in 0.5in;
+	  margin: 0.75in 0.5in 0.5in 0.5in;
 	  orphans: 4;
 	  widows: 2;
 	}
@@ -72,8 +72,8 @@
 	.sidenote, .marginnote { 
 		float: right;
 		clear: right;
-		margin-right: -45%;
-		width: 45%;
+		margin-right: -60%;
+		width: 50%;
 		margin-top: 0;
 		margin-bottom: 0.5rem;
 	}
@@ -109,6 +109,10 @@
 
 	p {
 	  font-size: 10pt;
+	}
+
+	blockquote p {
+	  font-size: 85%;
 	}
 
 	.book-title {

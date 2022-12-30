@@ -107,7 +107,7 @@ blockquote {
 	font-size: $small-size;
 	font-weight: $normal-weight;
 	display: block;
-	border-left: 4px solid #b03a2e;
+	border-left: 4px solid $theme-color;
 	padding: 0 0 0 1rem;
 	margin: 2rem 0 2rem 1rem;
 	position: relative;
