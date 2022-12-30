@@ -95,11 +95,16 @@
 	}
 
 	.site-title {
-		string-set: site_title content();
 		font-size: 20pt;
 		line-height: $line-height;
 		margin-left: 12.5%;
 		margin-bottom: 10pt;
+	}
+
+	title {
+		string-set: doc_title content();
+		font-size: 14pt;
+
 	}
 
 	.chapter-pretitle {
@@ -165,7 +170,7 @@
 
 	  @top-center {
 		font-size: 10pt;
-		content: string(site_title);
+		content: string(doc_title);
 	}
 
 	  @top-right {
