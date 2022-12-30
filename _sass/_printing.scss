@@ -28,18 +28,7 @@
 .alignright {
 	width: 50%;
 	text-align: right;
-}
-
-@page {
-	@rightnote { 
-		width: 30%; 
-	}
-}
-
-.sidenote {
-	-prince-float: sidenote;
-}
-  
+} 
   
 @media print {
 	@page {
@@ -51,21 +40,11 @@
 	  widows: 2;
 	}
 
+	html {
+	  font-size: 10pt;
+	}
+
 	body {
-	  font-size: 10pt;
-	  background-color: transparent;
-	}
-	
-	body.casebookbody {
-	  font-size: 10pt;
-	  background-color: transparent;
-	}
-	
-	article {
-	  background-color: transparent;
-	}
-	
-	page-container {
 	  background-color: transparent;
 	}
 	
@@ -115,9 +94,12 @@
 	  font-size: 85%;
 	}
 
-	.book-title {
-		string-set: book_title content();
+	.site-title {
+		string-set: site_title content();
 		font-size: 20pt;
+		line-height: $line-height;
+		margin-left: 12.5%;
+		margin-bottom: 10pt;
 	}
 
 	.chapter-pretitle {
@@ -183,7 +165,7 @@
 
 	  @top-center {
 		font-size: 10pt;
-		content: "Employment Law Casebook";
+		content: string(site_title);
 	}
 
 	  @top-right {

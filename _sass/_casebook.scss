@@ -1,13 +1,3 @@
-body.casebookbody { 
-	width: 55%;
-	margin-left: 12.5%;
-	margin-right: 0;
-	padding-left: 0;
-	padding-right: 0;
-	background-color: $background-color;
-    counter-reset: h1 sidenote-counter; 
-}
-
 .casebook hr {
 	border-top: 2px solid $theme-color;
 	width:50%;
