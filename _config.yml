@@ -1,13 +1,13 @@
 ---
 url: https://www.emfink.net
 baseurl: /EmploymentCasebook
-title: Employment Law 
-description:  An Open-Source Casebook # leave blank if you don't want to display a description
+title: Employment Law Casebook
+description: # leave blank if you don't want to display a description
 name: Eric M. Fink
 courseurl: /EmploymentLaw  # enter course repo for header link
 
 version: "1.01 (December 2022)"
-last_updated: 28 December 2022 # leave blank if you don't want to display last updated
+last_updated: 29 December 2022 # leave blank if you don't want to display last updated
 
 author: Eric M. Fink
 position: Associate Professor

@@ -14,6 +14,18 @@ body.casebookbody {
 	margin:0 auto;
 }
 
+.book-title {
+    color: $theme-color;
+    font-family: $heading-font;
+    font-size: $h1;
+    line-height: $line-height;
+    font-weight: $bold-weight;
+    font-style: normal;
+	margin-top: 0;
+	margin-bottom: 0;
+
+}
+
 .chapter-heading {
 	margin-bottom: 4rem;
 	padding: 10px 0 0 10px;
