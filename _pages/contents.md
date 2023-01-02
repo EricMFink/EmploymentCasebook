@@ -7,7 +7,7 @@ title: Table of Contents
 
 [Preface](../preface)
 
-[Chapter 1: Foundation of Employment Law](../chap1) <a href='{{ site.baseurl }}/assets/pdf/chap1.pdf'><button class='button syllabus smaller'>PDF</button></a>
+[Chapter 1: Foundations of Employment Law](../chap1) <a href='{{ site.baseurl }}/assets/pdf/chap1.pdf'><button class='button syllabus smaller'>PDF</button></a>
 
 [Chapter 2: Establishing an Employment Relationship](../chap2) <a href='{{ site.baseurl }}/assets/pdf/chap2.pdf'><button class='button syllabus smaller'>PDF</button></a>
 
