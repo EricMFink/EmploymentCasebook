@@ -1,24 +1,8 @@
-**992 F.3d 1265 (2021)**
+### Bailey v. Metro Ambulance Services, Inc. 
 
-### Bataski BAILEY, Plaintiff-Appellant,  
-v.  
-METRO AMBULANCE SERVICES, INC., d.b.a. American Medical Response, Inc., Defendant-Appellee.
+#### 992 F.3d 1265 (11th Cir. 2021)
 
-[No. 19-13513.](https://scholar.google.com/scholar?scidkt=1742759511315937663&as_sdt=2&hl=en)
-
-**United States Court of Appeals, Eleventh Circuit.**
-
-April 6, 2021.
-
-Appeal from the United States District Court for the Northern District of Georgia, D.C. Docket No. 1:16-cv-04440-WMR.
-
-Amanda A. Farahany, Anton Sorkin, Benjamin A. Stark, Barrett & Farahany, LLP, Atlanta, GA, for Plaintiff-Appellant.
-
-Steven W. Moore, Heidi Wilbur, Attorney, Fox Rothschild, LLP, Denver, CO, Jarrett Spence, Constangy Brooks Smith & Prophete, LLP, Atlanta, GA, for Defendant-Appellee.
-
-Before ROSENBAUM, LAGOA, and ANDERSON, Circuit Judges.
-
-[1268](https://scholar.google.com/scholar_case?case=12183577471808304245&q=992+f3d+1265&hl=en&as_sdt=6,34#p1268)[\*1268](https://scholar.google.com/scholar_case?case=12183577471808304245&q=992+f3d+1265&hl=en&as_sdt=6,34#p1268) PER CURIAM.
+##### PER CURIAM.
 
 Plaintiff-Appellant Bataski Bailey appeals the district court's order granting summary judgment to Defendant-Appellee Metro Ambulance Services, Inc., doing business as American Medical Response, [1269](https://scholar.google.com/scholar_case?case=12183577471808304245&q=992+f3d+1265&hl=en&as_sdt=6,34#p1269)[\*1269](https://scholar.google.com/scholar_case?case=12183577471808304245&q=992+f3d+1265&hl=en&as_sdt=6,34#p1269) Inc. ("AMR"), in this Title VII action asserting failure to reasonably accommodate Bailey's religious requirement, discrimination on the basis of religion, and retaliation for filing a discrimination claim. After careful review of the record, we affirm the district court's order.
 
@@ -221,5 +205,3 @@ For these reasons, I concur in the panel opinion. But I note my concerns regardi
 [\[7\]](https://scholar.google.com/scholar_case?case=12183577471808304245&q=992+f3d+1265&hl=en&as_sdt=6,34#r[7]) While we do not consider it here, as a matter of fact and in fairness to Rural Metro, the district court subsequently dismissed Bailey's case against Rural Metro.
 
 [\[1\]](https://scholar.google.com/scholar_case?case=12183577471808304245&q=992+f3d+1265&hl=en&as_sdt=6,34#r[8]) Moore testified that in January 2015, at the time AMR offered Bailey the reasonable accommodation of working non-emergency transport only, AMR did not ask DeKalb County whether it would be willing to make an accommodation for a beard. Rather, that did not occur until more than two years later, in the spring of 2017, when AMR had new leadership in its DeKalb County operations. For this reason, there is no indication that Bailey was treated worse than others with beards during the relevant timeframe or by Moore's supervisor, when AMR offered to allow him to work non-emergency transport only.
-
-Save trees - read court opinions online on Google Scholar.

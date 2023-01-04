@@ -217,5 +217,3 @@ Obviously we do not hold that Mr. Rummell's words and expressions here were priv
 [_Herbert v. Lando,_ 441 U.S. 153, 99 S.Ct. 1635, 60 L.Ed.2d 115 (1979),](https://scholar.google.com/scholar_case?case=15451286181755936200&hl=en&as_sdt=6,34) Stewart, J., dissenting, [441 U.S. at 199, 99 S.Ct. at 1661, 60 L.Ed.2d at 148](https://scholar.google.com/scholar_case?case=15451286181755936200&hl=en&as_sdt=6,34).
 
 I find that as time goes on I have acquired some reservations about our decision (which I authored) in [_Wheeler v. Green,_ 286 Or. 99, 593 P.2d 777 (1979),](https://scholar.google.com/scholar_case?case=890389764439633209&hl=en&as_sdt=6,34) but this case does not present the necessity of formally re-examining my position there taken.
-
-Save trees - read court opinions online on Google Scholar.

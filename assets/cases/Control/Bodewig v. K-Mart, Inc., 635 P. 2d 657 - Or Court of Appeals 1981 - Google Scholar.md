@@ -93,5 +93,3 @@ The judgment for each of the defendants is reversed. The case is remanded for tr
 [\[4\]](https://scholar.google.com/scholar_case?case=6621202294068686752#r[4]) The court in [_Brewer v. Erwin, supra_](https://scholar.google.com/scholar_case?case=3842286743426189064&hl=en&as_sdt=6,34)_,_ suggested that recovery might be had in the absence of a special relationship if the defendant's conduct was otherwise tortious, even though the conduct was not deliberately aimed at causing distress. It said reckless disregard of the conduct's predictable effect is sufficient. [287 Or. at 458, 600 P.2d 398](https://scholar.google.com/scholar_case?case=3842286743426189064&hl=en&as_sdt=6,34). Here, the jury could find that Golden published a false accusation that plaintiff had stolen her money, which would be tortious conduct. Because of our disposition of this case, we need not address that question.
 
 [\[5\]](https://scholar.google.com/scholar_case?case=6621202294068686752#r[5]) The contention relies in part on the Restatement (Second) of Torts, § 46, Comment j. (1965).
-
-Save trees - read court opinions online on Google Scholar.
