@@ -360,7 +360,9 @@ The indictment charged in substance:
 
 (1\) That defendants conspired and agreed that none of them would work at the shoemaking craft except at certain specified prices higher than prices which had theretofore customarily been paid;
 
-(2\) that defendants conspired and agreed that they would endeavor to prevent "by threats, menaces, and other unlawful means" other craftsmen from working except at said specified rates; and (3) that defendants, having formed themselves into an association, conspired and agreed that none of them would work for any master who should employ a cordwainer[^Pullis2] who had broken any rule or bylaw of the association, and that defendants, in accordance with such agreement refused to work at the usual rates and prices.
+(2\) that defendants conspired and agreed that they would endeavor to prevent "by threats, menaces, and other unlawful means" other craftsmen from working except at said specified rates; and 
+
+(3\) that defendants, having formed themselves into an association, conspired and agreed that none of them would work for any master who should employ a cordwainer[^Pullis2] who had broken any rule or bylaw of the association, and that defendants, in accordance with such agreement refused to work at the usual rates and prices.
 
 [^Pullis2]:
   {-} Cordwainer is an archaic term for a shoemaker. 
@@ -474,7 +476,7 @@ In this opinion of the learned judge, this court, for the reasons stated, cannot
 
 ## 2.2 Labor Injunctions and Yellow Dog Contracts 
 
-In the early 20th century, employers turned to a new strategy against organized labor: the Sherman Antitrust Act of 1890, 15 U.S.C. § 1 et seq. The Sherman Act outlawed "conspirac[ies] in restraint of trade or commerce among the several States"; imposed criminal liability for violations; and authorized civil suits with recovery of treble damages and attorney's fees by "[a]ny person who shall be injured in his business or property". 
+In the early 20th century, employers turned to a new strategy against organized labor: the Sherman Antitrust Act of 1890, 15 U.S.C. § 1 et seq. The Sherman Act outlawed "conspirac[ies] in restraint of trade or commerce among the several States"; imposed criminal liability for violations; and authorized civil suits with recovery of treble damages and attorney's fees by "\[a]ny person who shall be injured in his business or property". 
 
 The Supreme Court endorsed the application of the Sherman Act against labor union activity in *Loewe v. Lawlor*, 208 U.S. 274 (1908). The case arose out of efforts by the United Hatters of North America (UHU) to organize fur hat workers. The union called for a boycott of manufacturers who refused to recognize and bargain with the union. D. E. Loewe & Company, a manufacturer that resisted the union's demand, sued more than 200 UHU members, alleging that the boycott interfered with the company's sale of hats. The trial court dismissed the suit, concluding that the Sherman Act did not apply to the union's conduct. But Supreme Court reversed, holding that the boycott fell within the prohibition against conspiracies in restraint of interstate commerce. 
 
