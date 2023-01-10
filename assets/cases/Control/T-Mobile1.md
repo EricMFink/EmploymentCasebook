@@ -1,7 +1,6 @@
----
+### T-Mobile USA, Inc.
 
-title: 'T-Mobile USA, Inc.'
-cite: '363 NLRB No. 171'
+#### 363 NLRB No. 171 (N.L.R.B. 2016)
 published: '2016'
 
 
