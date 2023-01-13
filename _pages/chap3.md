@@ -1025,7 +1025,7 @@ And while it is true that, as a general rule of statutory construction, the brea
 
 ### Smith v. Manheim Remarketing, Inc. 
 
-### No. 5:19-CV-00086-KDB-DSC (M.D.N.C. Nov. 26, 2019)
+#### No. 5:19-CV-00086-KDB-DSC (M.D.N.C. Nov. 26, 2019)
 
 ##### David S. Cayer, United States Magistrate Judge
 
