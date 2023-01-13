@@ -5,9 +5,9 @@ permalink: /chap3/
 title: Scope & Limits of Employer Control
 ---
 
-# Control at Work 
+# 1. Control at Work 
 
-## Employee Privacy 
+## 1.1 Employee Privacy 
 
 ### K-Mart Corp. Store No. 7441 v. Trotti
 
@@ -244,7 +244,7 @@ Loving Care contends that the _Rule_ does not apply because Stengart left the e-
 
 To be clear, the Firm did not hack into plaintiff's personal account or maliciously seek out attorney-client documents in a clandestine way. Nor did it rummage through an employee's personal files out of idle curiosity. Instead, it legitimately attempted to preserve evidence to defend a civil lawsuit. Its error was in not setting aside the arguably privileged messages once it realized they were attorney-client communications, and failing either to notify its adversary or seek court permission before reading further. There is nothing in the record before us to suggest any bad faith on the Firm's part in reading the Policy as it did. Nonetheless, the Firm should have promptly notified opposing counsel when it discovered the nature of the e-mails.
 
-## Workplace Conduct
+## 1.2 Workplace Rules
 
 ### T-Mobile USA v. NLRB
 
@@ -348,9 +348,7 @@ Where a company policy prohibits the disclosure of non-public information, court
 
 Thus the NLRB's finding that a reasonable worker would construe the acceptable use policy to discourage protected activity is unreasonable, and we deny enforcement as to that part of its order.
 
-
-
-## Discrimination & Harassment 
+## 1.3 Discrimination & Harassment 
 
 ### Jesperson v. Harrah's Operating Company, Inc. 
 
@@ -677,9 +675,9 @@ We find that Brennan's alleged conduct, though unjustified under the circumstanc
 
 
 
-# Control Outside Work 
+# 2. Control Outside Work 
 
-## Social Media 
+## 2.1 Social Media 
 
 ### Three D, LLC v. NLRB 
 
@@ -792,7 +790,7 @@ The Court finds that Plaintiff has stated a plausible claim for invasion of priv
 (e\) An employer shall not discharge, discipline, threaten to discharge or discipline, or otherwise retaliate against an employee or applicant for not complying with a request or demand by the employer that violates this section. However, this section does not prohibit an employer from terminating or otherwise taking an adverse action against an employee or applicant if otherwise permitted by law.
 
 
-## Political & Social Activity 
+## 2.2 Political & Social Activity 
 
 ### Truitt v. Salisbury Bank & Trust Co.
 
@@ -1023,7 +1021,7 @@ In my view, given the fact that the Legislature's primary intent in enacting Lab
 And while it is true that, as a general rule of statutory construction, the breadth of an inclusory phrase is to be considered limited by the specific examples accompanying it, this principle must yield where necessary to carry out the underlying purpose of the enactment. Additionally, it is only applicable when the examples fall into a single, well-defined class, and are not themselves general in nature. Here, the list, which includes vast categories such as "hobbies" and "sports", as well as very different types of activities (e.g., exercise, reading), appears to have been compiled with an eye toward extending the reach of the statute. This, coupled with the explicit directive that the definition is _not_ to be limited to the examples given, provides further indication that the term "recreational activities" should be construed expansively. Accordingly, I would affirm [the trial court's] denial of defendant's motion to dismiss the first cause of action.
 
 
-## Use of Lawful Products 
+## 2.3 Use of Lawful Products 
 
 ### Smith v. Manheim Remarketing, Inc. 
 
